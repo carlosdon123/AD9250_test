@@ -1,0 +1,14 @@
+	component tb_tx_phyrst_ctl is
+		port (
+			clock           : in  std_logic                    := 'X';             -- clk
+			pll_locked      : in  std_logic_vector(0 downto 0) := (others => 'X'); -- pll_locked
+			pll_powerdown   : out std_logic_vector(0 downto 0);                    -- pll_powerdown
+			pll_select      : in  std_logic_vector(0 downto 0) := (others => 'X'); -- pll_select
+			reset           : in  std_logic                    := 'X';             -- reset
+			tx_analogreset  : out std_logic_vector(1 downto 0);                    -- tx_analogreset
+			tx_cal_busy     : in  std_logic_vector(1 downto 0) := (others => 'X'); -- tx_cal_busy
+			tx_digitalreset : out std_logic_vector(1 downto 0);                    -- tx_digitalreset
+			tx_ready        : out std_logic_vector(1 downto 0)                     -- tx_ready
+		);
+	end component tb_tx_phyrst_ctl;
+

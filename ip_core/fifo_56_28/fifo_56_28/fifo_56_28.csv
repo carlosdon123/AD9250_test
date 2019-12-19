@@ -1,0 +1,19 @@
+# system info fifo_56_28 on 2018.04.23.16:30:12
+system_info:
+name,value
+DEVICE,10AS027H4F34I3SG
+DEVICE_FAMILY,Arria 10
+GENERATION_ID,1524472211
+#
+#
+# Files generated for fifo_56_28 on 2018.04.23.16:30:12
+files:
+filepath,kind,attributes,module,is_top
+sim/fifo_56_28.v,VERILOG,CONTAINS_INLINE_CONFIGURATION,fifo_56_28,true
+fifo_161/sim/fifo_56_28_fifo_161_jjnbjqy.v,VERILOG,,fifo_56_28_fifo_161_jjnbjqy,false
+fifo_161/sim/fifo_56_28_fifo_161_jjnbjqy.sdc,SDC,,fifo_56_28_fifo_161_jjnbjqy,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+fifo_56_28.fifo_0,fifo_56_28_fifo_161_jjnbjqy

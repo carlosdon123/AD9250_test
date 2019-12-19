@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deploy
+ date="2018.04.23.19:41:47"
+ outputDirectory="E:/program/FPGA/AD9250_test/db/ip/sld90336144/">
+ <perimeter>
+  <parameter
+     name="AUTO_DEVICE_FAMILY"
+     type="String"
+     defaultValue=""
+     onHdl="0"
+     affectsHdl="1" />
+  <parameter
+     name="AUTO_DEVICE"
+     type="String"
+     defaultValue=""
+     onHdl="0"
+     affectsHdl="1" />
+  <parameter
+     name="AUTO_DEVICE_SPEEDGRADE"
+     type="String"
+     defaultValue=""
+     onHdl="0"
+     affectsHdl="1" />
+  <interface name="nodes" kind="conduit" start="0">
+   <property name="associatedClock" value="" />
+   <property name="associatedReset" value="" />
+   <port name="nodes_send" direction="input" role="send" width="4" />
+   <port name="nodes_receive" direction="output" role="receive" width="4" />
+  </interface>
+ </perimeter>
+ <entity kind="alt_sld_fab" version="1.0" name="alt_sld_fab">
+  <parameter name="AUTO_DEVICE" value="" />
+  <parameter name="AUTO_DEVICE_FAMILY" value="Arria 10" />
+  <parameter name="AUTO_DEVICE_SPEEDGRADE" value="" />
+  <generatedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\synth\alt_sld_fab.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\synth\alt_sld_fab_cfg.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+  </generatedFiles>
+  <childGeneratedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\synth\alt_sld_fab.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\synth\alt_sld_fab_cfg.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+  </childGeneratedFiles>
+  <sourceFiles>
+   <file
+       path="E:/program/FPGA/AD9250_test/db/ip/sld90336144/alt_sld_fab_wrapper_hw.tcl" />
+  </sourceFiles>
+  <childSourceFiles>
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/core/altera_instrumentation_fabric/alt_sld_fab_hw.tcl" />
+   <file
+       path="D:/intelFPGA/16.1/ip/altera/sld/core/altera_instrumentation_fabric/com.altera.superfabric.jar" />
+   <file
+       path="D:/intelFPGA/16.1/quartus/sopc_builder/model/lib/com.altera.utilities.jar" />
+   <file
+       path="D:/intelFPGA/16.1/quartus/sopc_builder/model/lib/hamcrest-all-1.3.jar" />
+   <file
+       path="D:/intelFPGA/16.1/quartus/sopc_builder/model/lib/commons-lang3-3.1.jar" />
+   <file
+       path="D:/intelFPGA/16.1/quartus/sopc_builder/model/lib/javasysmon.jar" />
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/core/altera_super_splitter/altera_super_splitter_hw.tcl" />
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/core/altera_super_splitter/altera_sld_splitter_hw.tcl" />
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/misc/altera_a10_xcvr_reset_sequencer/altera_a10_xcvr_reset_sequencer_hw.tcl" />
+  </childSourceFiles>
+  <messages>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab"</message>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_alt_sld_fab_161_oe7symi"</message>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_super_splitter_161_ksmztdy"</message>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_sld_splitter_161_kh7iddq"</message>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_a10_xcvr_reset_sequencer_161_a5febdq"</message>
+  </messages>
+ </entity>
+ <entity
+   kind="alt_sld_fab"
+   version="16.1"
+   name="alt_sld_fab_alt_sld_fab_161_oe7symi">
+  <parameter name="MAX_WIDTH" value="2" />
+  <parameter name="TOP_HUB" value="1" />
+  <parameter name="DEVICE_FAMILY" value="Arria 10" />
+  <parameter
+     name="SETTINGS"
+     value="{fabric a10_xcvr dir agent use_clock 0 needs_clock 0 psig 6b6bab39} {fabric a10_xcvr dir agent use_clock 0 needs_clock 0 psig 6b6bab39} " />
+  <parameter name="CLOCKS" value="{id {} } {id {} } " />
+  <parameter name="DESIGN_HASH" value="680432c707f83fce13cc" />
+  <parameter name="AUTO_DEVICE_SPEEDGRADE" value="Unknown" />
+  <parameter name="MIRROR" value="0" />
+  <parameter
+     name="COMPOSED_SETTINGS"
+     value="{fabric a10_xcvr dir agent use_clock 0 needs_clock 0} {fabric a10_xcvr dir agent use_clock 0 needs_clock 0} " />
+  <parameter name="AUTO_DEVICE" value="Unknown" />
+  <parameter
+     name="EP_INFOS"
+     value="{hpath {jesd204b:jesd204b_rx|jesd204b_altera_jesd204_161_zta4dmq:jesd204_0|jesd204b_altera_jesd204_phy_161_yorkvea:inst_phy|jesd204b_altera_xcvr_native_a10_161_ou2lroi:inst_xcvr|altera_transceiver_reset_endpoint:g_xcvr_native_insts[0].g_analog_resets_default.g_tre_rx_endpoint.reset_endpoint_rx|altera_a10_xcvr_reset_endpoint:xcvr_reset_ep_inst|altera_fabric_endpoint:ep} } {hpath {jesd204b:jesd204b_rx|jesd204b_altera_jesd204_161_zta4dmq:jesd204_0|jesd204b_altera_jesd204_phy_161_yorkvea:inst_phy|jesd204b_altera_xcvr_native_a10_161_ou2lroi:inst_xcvr|altera_transceiver_reset_endpoint:g_xcvr_native_insts[1].g_analog_resets_default.g_tre_rx_endpoint.reset_endpoint_rx|altera_a10_xcvr_reset_endpoint:xcvr_reset_ep_inst|altera_fabric_endpoint:ep} } " />
+  <parameter name="AGENTS" value="" />
+  <parameter name="NODE_COUNT" value="2" />
+  <generatedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\alt_sld_fab_161\synth\alt_sld_fab_alt_sld_fab_161_oe7symi.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\alt_sld_fab_161\synth\alt_sld_fab_alt_sld_fab_161_oe7symi_cfg.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+  </generatedFiles>
+  <childGeneratedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\alt_sld_fab_161\synth\alt_sld_fab_alt_sld_fab_161_oe7symi.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\alt_sld_fab_161\synth\alt_sld_fab_alt_sld_fab_161_oe7symi_cfg.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+  </childGeneratedFiles>
+  <sourceFiles>
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/core/altera_instrumentation_fabric/alt_sld_fab_hw.tcl" />
+   <file
+       path="D:/intelFPGA/16.1/ip/altera/sld/core/altera_instrumentation_fabric/com.altera.superfabric.jar" />
+   <file
+       path="D:/intelFPGA/16.1/quartus/sopc_builder/model/lib/com.altera.utilities.jar" />
+   <file
+       path="D:/intelFPGA/16.1/quartus/sopc_builder/model/lib/hamcrest-all-1.3.jar" />
+   <file
+       path="D:/intelFPGA/16.1/quartus/sopc_builder/model/lib/commons-lang3-3.1.jar" />
+   <file
+       path="D:/intelFPGA/16.1/quartus/sopc_builder/model/lib/javasysmon.jar" />
+  </sourceFiles>
+  <childSourceFiles>
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/core/altera_super_splitter/altera_super_splitter_hw.tcl" />
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/core/altera_super_splitter/altera_sld_splitter_hw.tcl" />
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/misc/altera_a10_xcvr_reset_sequencer/altera_a10_xcvr_reset_sequencer_hw.tcl" />
+  </childSourceFiles>
+  <instantiator instantiator="alt_sld_fab" as="alt_sld_fab" />
+  <messages>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_alt_sld_fab_161_oe7symi"</message>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_super_splitter_161_ksmztdy"</message>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_sld_splitter_161_kh7iddq"</message>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_a10_xcvr_reset_sequencer_161_a5febdq"</message>
+  </messages>
+ </entity>
+ <entity
+   kind="altera_super_splitter"
+   version="16.1"
+   name="alt_sld_fab_altera_super_splitter_161_ksmztdy">
+  <parameter name="SEND_WIDTHS" value="2 2" />
+  <parameter name="MAX_WIDTH" value="2" />
+  <parameter name="RECEIVE_WIDTHS" value="1 1" />
+  <generatedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_super_splitter_161\synth\alt_sld_fab_altera_super_splitter_161_ksmztdy.sv"
+       attributes="TOP_LEVEL_FILE" />
+  </generatedFiles>
+  <childGeneratedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_super_splitter_161\synth\alt_sld_fab_altera_super_splitter_161_ksmztdy.sv"
+       attributes="TOP_LEVEL_FILE" />
+  </childGeneratedFiles>
+  <sourceFiles>
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/core/altera_super_splitter/altera_super_splitter_hw.tcl" />
+  </sourceFiles>
+  <childSourceFiles/>
+  <instantiator instantiator="alt_sld_fab_alt_sld_fab_161_oe7symi" as="presplit" />
+  <messages>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_super_splitter_161_ksmztdy"</message>
+  </messages>
+ </entity>
+ <entity
+   kind="altera_sld_splitter"
+   version="16.1"
+   name="alt_sld_fab_altera_sld_splitter_161_kh7iddq">
+  <parameter
+     name="FRAGMENTS"
+     value="{{name reset type conduit dir start ports { {tre_reset_req tre_reset_req out 1 0} {tre_reset_in tre_reset_in in 1 0} {clk_in clk_in out 1 1} } } } {{name reset type conduit dir start ports { {tre_reset_req tre_reset_req out 1 0} {tre_reset_in tre_reset_in in 1 0} {clk_in clk_in out 1 1} } } } " />
+  <parameter name="EXAMPLE" value="" />
+  <parameter name="ADD_INTERFACE_ASGN" value="0" />
+  <generatedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_sld_splitter_161\synth\alt_sld_fab_altera_sld_splitter_161_kh7iddq.sv"
+       attributes="TOP_LEVEL_FILE" />
+  </generatedFiles>
+  <childGeneratedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_sld_splitter_161\synth\alt_sld_fab_altera_sld_splitter_161_kh7iddq.sv"
+       attributes="TOP_LEVEL_FILE" />
+  </childGeneratedFiles>
+  <sourceFiles>
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/core/altera_super_splitter/altera_sld_splitter_hw.tcl" />
+  </sourceFiles>
+  <childSourceFiles/>
+  <instantiator instantiator="alt_sld_fab_alt_sld_fab_161_oe7symi" as="splitter" />
+  <messages>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_sld_splitter_161_kh7iddq"</message>
+  </messages>
+ </entity>
+ <entity
+   kind="altera_a10_xcvr_reset_sequencer"
+   version="16.1"
+   name="alt_sld_fab_altera_a10_xcvr_reset_sequencer_161_a5febdq">
+  <parameter name="COUNT" value="2" />
+  <parameter
+     name="SETTINGS"
+     value="{use_clock 0 needs_clock 0} {use_clock 0 needs_clock 0} " />
+  <generatedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_a10_xcvr_reset_sequencer_161\synth\alt_sld_fab_altera_a10_xcvr_reset_sequencer_161_a5febdq.v"
+       attributes="" />
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_a10_xcvr_reset_sequencer_161\synth\altera_xcvr_reset_sequencer.sv"
+       attributes="" />
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_a10_xcvr_reset_sequencer_161\synth\alt_xcvr_resync.sv"
+       attributes="" />
+  </generatedFiles>
+  <childGeneratedFiles>
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_a10_xcvr_reset_sequencer_161\synth\alt_sld_fab_altera_a10_xcvr_reset_sequencer_161_a5febdq.v"
+       attributes="" />
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_a10_xcvr_reset_sequencer_161\synth\altera_xcvr_reset_sequencer.sv"
+       attributes="" />
+   <file
+       path="E:\program\FPGA\AD9250_test\db\ip\sld90336144\altera_a10_xcvr_reset_sequencer_161\synth\alt_xcvr_resync.sv"
+       attributes="" />
+  </childGeneratedFiles>
+  <sourceFiles>
+   <file
+       path="D:/intelfpga/16.1/ip/altera/sld/misc/altera_a10_xcvr_reset_sequencer/altera_a10_xcvr_reset_sequencer_hw.tcl" />
+  </sourceFiles>
+  <childSourceFiles/>
+  <instantiator instantiator="alt_sld_fab_alt_sld_fab_161_oe7symi" as="a10xcvrfabric" />
+  <messages>
+   <message level="Info" culprit="alt_sld_fab">"Generating: alt_sld_fab_altera_a10_xcvr_reset_sequencer_161_a5febdq"</message>
+  </messages>
+ </entity>
+</deploy>

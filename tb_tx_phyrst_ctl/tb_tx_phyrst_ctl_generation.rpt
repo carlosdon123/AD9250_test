@@ -1,0 +1,93 @@
+Info: Starting: Create simulation model
+Info: qsys-generate E:\program\FPGA\AD9250\tb_tx_phyrst_ctl.qsys --simulation=VERILOG --allow-mixed-language-simulation --output-directory=E:\program\FPGA\AD9250\tb_tx_phyrst_ctl --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/tb_tx_phyrst_ctl.qsys
+Progress: Reading input file
+Progress: Adding xcvr_reset_control_0 [altera_xcvr_reset_control 16.1]
+Progress: Parameterizing module xcvr_reset_control_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: tb_tx_phyrst_ctl: "Transforming system: tb_tx_phyrst_ctl"
+Info: tb_tx_phyrst_ctl: Running transform generation_view_transform
+Info: tb_tx_phyrst_ctl: Running transform generation_view_transform took 0.000s
+Info: xcvr_reset_control_0: Running transform generation_view_transform
+Info: xcvr_reset_control_0: Running transform generation_view_transform took 0.000s
+Info: tb_tx_phyrst_ctl: Running transform merlin_avalon_transform
+Info: tb_tx_phyrst_ctl: Running transform merlin_avalon_transform took 0.100s
+Info: tb_tx_phyrst_ctl: "Naming system components in system: tb_tx_phyrst_ctl"
+Info: tb_tx_phyrst_ctl: "Processing generation queue"
+Info: tb_tx_phyrst_ctl: "Generating: tb_tx_phyrst_ctl"
+Info: tb_tx_phyrst_ctl: "Generating: altera_xcvr_reset_control"
+Info: xcvr_reset_control_0: add_fileset_file ./altera_xcvr_functions.sv SYSTEM_VERILOG PATH ../../../altera_xcvr_generic/altera_xcvr_functions.sv
+Info: xcvr_reset_control_0: add_fileset_file ./mentor/altera_xcvr_functions.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../altera_xcvr_generic/mentor/altera_xcvr_functions.sv MENTOR_SPECIFIC
+Info: xcvr_reset_control_0: add_fileset_file ./alt_xcvr_resync.sv SYSTEM_VERILOG PATH ../../../altera_xcvr_generic/ctrl/alt_xcvr_resync.sv
+Info: xcvr_reset_control_0: add_fileset_file ./mentor/alt_xcvr_resync.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../altera_xcvr_generic/mentor/ctrl/alt_xcvr_resync.sv MENTOR_SPECIFIC
+Info: xcvr_reset_control_0: add_fileset_file ./altera_xcvr_reset_control.sv SYSTEM_VERILOG PATH ..//altera_xcvr_reset_control.sv
+Info: xcvr_reset_control_0: add_fileset_file ./alt_xcvr_reset_counter.sv SYSTEM_VERILOG PATH ..//alt_xcvr_reset_counter.sv
+Info: xcvr_reset_control_0: add_fileset_file ./mentor/altera_xcvr_reset_control.sv SYSTEM_VERILOG_ENCRYPT PATH ../mentor/altera_xcvr_reset_control.sv MENTOR_SPECIFIC
+Info: xcvr_reset_control_0: add_fileset_file ./mentor/alt_xcvr_reset_counter.sv SYSTEM_VERILOG_ENCRYPT PATH ../mentor/alt_xcvr_reset_counter.sv MENTOR_SPECIFIC
+Info: tb_tx_phyrst_ctl: Done "tb_tx_phyrst_ctl" with 2 modules, 14 files
+Info: qsys-generate succeeded.
+Info: Finished: Create simulation model
+Info: Starting: Create Modelsim Project.
+Info: sim-script-gen --spd=E:\program\FPGA\AD9250\tb_tx_phyrst_ctl\tb_tx_phyrst_ctl.spd --output-directory=E:/program/FPGA/AD9250/tb_tx_phyrst_ctl/sim/ --use-relative-paths=true
+Info: Doing: ip-make-simscript --spd=E:\program\FPGA\AD9250\tb_tx_phyrst_ctl\tb_tx_phyrst_ctl.spd --output-directory=E:/program/FPGA/AD9250/tb_tx_phyrst_ctl/sim/ --use-relative-paths=true
+Info: Generating the following file(s) for MODELSIM simulator in E:/program/FPGA/AD9250/tb_tx_phyrst_ctl/sim/ directory:
+Info: 	mentor/msim_setup.tcl
+Info: Generating the following file(s) for VCS simulator in E:/program/FPGA/AD9250/tb_tx_phyrst_ctl/sim/ directory:
+Info: 	synopsys/vcs/vcs_setup.sh
+Info: Generating the following file(s) for VCSMX simulator in E:/program/FPGA/AD9250/tb_tx_phyrst_ctl/sim/ directory:
+Info: 	synopsys/vcsmx/synopsys_sim.setup
+Info: 	synopsys/vcsmx/vcsmx_setup.sh
+Info: Generating the following file(s) for NCSIM simulator in E:/program/FPGA/AD9250/tb_tx_phyrst_ctl/sim/ directory:
+Info: 	cadence/cds.lib
+Info: 	cadence/hdl.var
+Info: 	cadence/ncsim_setup.sh
+Info: 	1 .cds.lib files in cadence/cds_libs/ directory
+Info: Generating the following file(s) for RIVIERA simulator in E:/program/FPGA/AD9250/tb_tx_phyrst_ctl/sim/ directory:
+Info: 	aldec/rivierapro_setup.tcl
+Info: For information on how to simulate your IP, see the explanatory comments in the simulator-specific subdirectories under E:/program/FPGA/AD9250/tb_tx_phyrst_ctl/sim/.
+Info: Regenerate these scripts whenever you make any change to any Quartus-generated IP in your project.
+Info: Finished: Create Modelsim Project.
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate E:\program\FPGA\AD9250\tb_tx_phyrst_ctl.qsys --block-symbol-file --output-directory=E:\program\FPGA\AD9250\tb_tx_phyrst_ctl --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/tb_tx_phyrst_ctl.qsys
+Progress: Reading input file
+Progress: Adding xcvr_reset_control_0 [altera_xcvr_reset_control 16.1]
+Progress: Parameterizing module xcvr_reset_control_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate E:\program\FPGA\AD9250\tb_tx_phyrst_ctl.qsys --synthesis=VERILOG --output-directory=E:\program\FPGA\AD9250\tb_tx_phyrst_ctl --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/tb_tx_phyrst_ctl.qsys
+Progress: Reading input file
+Progress: Adding xcvr_reset_control_0 [altera_xcvr_reset_control 16.1]
+Progress: Parameterizing module xcvr_reset_control_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: tb_tx_phyrst_ctl: "Transforming system: tb_tx_phyrst_ctl"
+Info: tb_tx_phyrst_ctl: Running transform generation_view_transform
+Info: tb_tx_phyrst_ctl: Running transform generation_view_transform took 0.000s
+Info: xcvr_reset_control_0: Running transform generation_view_transform
+Info: xcvr_reset_control_0: Running transform generation_view_transform took 0.000s
+Info: tb_tx_phyrst_ctl: Running transform merlin_avalon_transform
+Info: tb_tx_phyrst_ctl: Running transform merlin_avalon_transform took 0.043s
+Info: tb_tx_phyrst_ctl: "Naming system components in system: tb_tx_phyrst_ctl"
+Info: tb_tx_phyrst_ctl: "Processing generation queue"
+Info: tb_tx_phyrst_ctl: "Generating: tb_tx_phyrst_ctl"
+Info: tb_tx_phyrst_ctl: "Generating: altera_xcvr_reset_control"
+Info: xcvr_reset_control_0: add_fileset_file ./altera_xcvr_functions.sv SYSTEM_VERILOG PATH ../../../altera_xcvr_generic/altera_xcvr_functions.sv
+Info: xcvr_reset_control_0: add_fileset_file ./alt_xcvr_resync.sv SYSTEM_VERILOG PATH ../../../altera_xcvr_generic/ctrl/alt_xcvr_resync.sv
+Info: xcvr_reset_control_0: add_fileset_file ./altera_xcvr_reset_control.sv SYSTEM_VERILOG PATH ..//altera_xcvr_reset_control.sv
+Info: xcvr_reset_control_0: add_fileset_file ./alt_xcvr_reset_counter.sv SYSTEM_VERILOG PATH ..//alt_xcvr_reset_counter.sv
+Info: tb_tx_phyrst_ctl: Done "tb_tx_phyrst_ctl" with 2 modules, 7 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis

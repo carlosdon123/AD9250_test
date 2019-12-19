@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="altera_xcvr_reset_control_161/sim/altera_xcvr_functions.sv"
+   type="SYSTEM_VERILOG"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="phyrst_controller_altera_xcvr_reset_control_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/alt_xcvr_resync.sv"
+   type="SYSTEM_VERILOG"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="phyrst_controller_altera_xcvr_reset_control_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/altera_xcvr_reset_control.sv"
+   type="SYSTEM_VERILOG"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/alt_xcvr_reset_counter.sv"
+   type="SYSTEM_VERILOG"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="phyrst_controller_altera_xcvr_reset_control_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="phyrst_controller_altera_xcvr_reset_control_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/plain_files.txt"
+   type="OTHER"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/mentor_files.txt"
+   type="OTHER"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/cadence_files.txt"
+   type="OTHER"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/synopsys_files.txt"
+   type="OTHER"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="altera_xcvr_reset_control_161/sim/aldec_files.txt"
+   type="OTHER"
+   library="phyrst_controller_altera_xcvr_reset_control_161" />
+ <file
+   path="sim/phyrst_controller.v"
+   type="VERILOG"
+   hasInlineConfiguration="true" />
+ <topLevel name="phyrst_controller" />
+ <deviceFamily name="arria10" />
+</simPackage>

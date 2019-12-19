@@ -1,0 +1,96 @@
+Info: Starting: Create simulation model
+Info: qsys-generate E:\program\FPGA\AD9250\fifo_56_28\fifo_56_28.qsys --simulation=VERILOG --allow-mixed-language-simulation --output-directory=E:\program\FPGA\AD9250\fifo_56_28\fifo_56_28 --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading fifo_56_28/fifo_56_28.qsys
+Progress: Reading input file
+Progress: Adding fifo_0 [fifo 16.1]
+Progress: Parameterizing module fifo_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+: fifo_56_28.fifo_0: Targeting device family: Arria 10.
+: fifo_56_28.fifo_0: Tab: 'SCFIFO Options' is unavailable while using Dual-Clock FIFO.
+: fifo_56_28.fifo_0: 'Output register option' is unavailable while using Dual-Clock FIFO.
+: fifo_56_28.fifo_0: SDC file will be generated to apply correct constraints. User may experience increase in fitter compilation time
+: fifo_56_28.fifo_0: Embedded set_false_path assignment is disabled.
+Info: fifo_56_28: "Transforming system: fifo_56_28"
+Info: fifo_56_28: Running transform generation_view_transform
+Info: fifo_56_28: Running transform generation_view_transform took 0.000s
+Info: fifo_0: Running transform generation_view_transform
+Info: fifo_0: Running transform generation_view_transform took 0.000s
+Info: fifo_56_28: Running transform merlin_avalon_transform
+Info: fifo_56_28: Running transform merlin_avalon_transform took 0.177s
+Info: fifo_56_28: "Naming system components in system: fifo_56_28"
+Info: fifo_56_28: "Processing generation queue"
+Info: fifo_56_28: "Generating: fifo_56_28"
+Info: fifo_56_28: "Generating: fifo_56_28_fifo_161_jjnbjqy"
+Info: fifo_56_28: Done "fifo_56_28" with 2 modules, 3 files
+Info: qsys-generate succeeded.
+Info: Finished: Create simulation model
+Info: Starting: Create Modelsim Project.
+Info: sim-script-gen --spd=E:\program\FPGA\AD9250\fifo_56_28\fifo_56_28\fifo_56_28.spd --output-directory=E:/program/FPGA/AD9250/fifo_56_28/fifo_56_28/sim/ --use-relative-paths=true
+Info: Doing: ip-make-simscript --spd=E:\program\FPGA\AD9250\fifo_56_28\fifo_56_28\fifo_56_28.spd --output-directory=E:/program/FPGA/AD9250/fifo_56_28/fifo_56_28/sim/ --use-relative-paths=true
+Info: Generating the following file(s) for MODELSIM simulator in E:/program/FPGA/AD9250/fifo_56_28/fifo_56_28/sim/ directory:
+Info: 	mentor/msim_setup.tcl
+Info: Generating the following file(s) for VCS simulator in E:/program/FPGA/AD9250/fifo_56_28/fifo_56_28/sim/ directory:
+Info: 	synopsys/vcs/vcs_setup.sh
+Info: Generating the following file(s) for VCSMX simulator in E:/program/FPGA/AD9250/fifo_56_28/fifo_56_28/sim/ directory:
+Info: 	synopsys/vcsmx/synopsys_sim.setup
+Info: 	synopsys/vcsmx/vcsmx_setup.sh
+Info: Generating the following file(s) for NCSIM simulator in E:/program/FPGA/AD9250/fifo_56_28/fifo_56_28/sim/ directory:
+Info: 	cadence/cds.lib
+Info: 	cadence/hdl.var
+Info: 	cadence/ncsim_setup.sh
+Info: 	1 .cds.lib files in cadence/cds_libs/ directory
+Info: Generating the following file(s) for RIVIERA simulator in E:/program/FPGA/AD9250/fifo_56_28/fifo_56_28/sim/ directory:
+Info: 	aldec/rivierapro_setup.tcl
+Info: For information on how to simulate your IP, see the explanatory comments in the simulator-specific subdirectories under E:/program/FPGA/AD9250/fifo_56_28/fifo_56_28/sim/.
+Info: Regenerate these scripts whenever you make any change to any Quartus-generated IP in your project.
+Info: Finished: Create Modelsim Project.
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate E:\program\FPGA\AD9250\fifo_56_28\fifo_56_28.qsys --block-symbol-file --output-directory=E:\program\FPGA\AD9250\fifo_56_28\fifo_56_28 --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading fifo_56_28/fifo_56_28.qsys
+Progress: Reading input file
+Progress: Adding fifo_0 [fifo 16.1]
+Progress: Parameterizing module fifo_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+: fifo_56_28.fifo_0: Targeting device family: Arria 10.
+: fifo_56_28.fifo_0: Tab: 'SCFIFO Options' is unavailable while using Dual-Clock FIFO.
+: fifo_56_28.fifo_0: 'Output register option' is unavailable while using Dual-Clock FIFO.
+: fifo_56_28.fifo_0: SDC file will be generated to apply correct constraints. User may experience increase in fitter compilation time
+: fifo_56_28.fifo_0: Embedded set_false_path assignment is disabled.
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate E:\program\FPGA\AD9250\fifo_56_28\fifo_56_28.qsys --synthesis=VERILOG --output-directory=E:\program\FPGA\AD9250\fifo_56_28\fifo_56_28 --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading fifo_56_28/fifo_56_28.qsys
+Progress: Reading input file
+Progress: Adding fifo_0 [fifo 16.1]
+Progress: Parameterizing module fifo_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+: fifo_56_28.fifo_0: Targeting device family: Arria 10.
+: fifo_56_28.fifo_0: Tab: 'SCFIFO Options' is unavailable while using Dual-Clock FIFO.
+: fifo_56_28.fifo_0: 'Output register option' is unavailable while using Dual-Clock FIFO.
+: fifo_56_28.fifo_0: SDC file will be generated to apply correct constraints. User may experience increase in fitter compilation time
+: fifo_56_28.fifo_0: Embedded set_false_path assignment is disabled.
+Info: fifo_56_28: "Transforming system: fifo_56_28"
+Info: fifo_56_28: Running transform generation_view_transform
+Info: fifo_56_28: Running transform generation_view_transform took 0.000s
+Info: fifo_0: Running transform generation_view_transform
+Info: fifo_0: Running transform generation_view_transform took 0.000s
+Info: fifo_56_28: Running transform merlin_avalon_transform
+Info: fifo_56_28: Running transform merlin_avalon_transform took 0.036s
+Info: fifo_56_28: "Naming system components in system: fifo_56_28"
+Info: fifo_56_28: "Processing generation queue"
+Info: fifo_56_28: "Generating: fifo_56_28"
+Info: fifo_56_28: "Generating: fifo_56_28_fifo_161_jjnbjqy"
+Info: fifo_56_28: Done "fifo_56_28" with 2 modules, 4 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis

@@ -1,0 +1,78 @@
+
+State Machine - |ad9250_top|spi_master:spi_master|current_state
+Name current_state.WRITE_DATA current_state.IDLE current_state.READ_DATA 
+current_state.IDLE 0 0 0 
+current_state.WRITE_DATA 1 1 0 
+current_state.READ_DATA 0 1 1 
+
+State Machine - |ad9250_top|control_unit:control_unit|current_state
+Name current_state.CLR_CORE_RESET current_state.CLR_AVS_RESET current_state.CLR_XCVR_RESET current_state.WRITE_SPI current_state.READ_ROM current_state.INIT_RESET current_state.INIT current_state.IDLE 
+current_state.INIT 0 0 0 0 0 0 0 0 
+current_state.INIT_RESET 0 0 0 0 0 1 1 0 
+current_state.READ_ROM 0 0 0 0 1 0 1 0 
+current_state.WRITE_SPI 0 0 0 1 0 0 1 0 
+current_state.CLR_XCVR_RESET 0 0 1 0 0 0 1 0 
+current_state.CLR_AVS_RESET 0 1 0 0 0 0 1 0 
+current_state.CLR_CORE_RESET 1 0 0 0 0 0 1 0 
+current_state.IDLE 0 0 0 0 0 0 1 1 
+
+State Machine - |ad9250_top|pattern_checker_top:u_chk|ramp_checker:ramp_chkN_inst|current_state
+Name current_state.MAX_ERROR_DETECT current_state.VALID_DATA current_state.INVALID_DATA current_state.IDLE 
+current_state.IDLE 0 0 0 0 
+current_state.INVALID_DATA 0 0 1 1 
+current_state.VALID_DATA 0 1 0 1 
+current_state.MAX_ERROR_DETECT 1 0 0 1 
+
+State Machine - |ad9250_top|pattern_checker_top:u_chk|alternate_checker:alternate_chkN_inst|current_state
+Name current_state.MAX_ERROR_DETECT current_state.VALID_DATA current_state.INVALID_DATA current_state.IDLE 
+current_state.IDLE 0 0 0 0 
+current_state.INVALID_DATA 0 0 1 1 
+current_state.VALID_DATA 0 1 0 1 
+current_state.MAX_ERROR_DETECT 1 0 0 1 
+
+State Machine - |ad9250_top|pattern_checker_top:u_chk|prbs_checker:prbs_chkN_inst|current_state
+Name current_state.MAX_ERROR_DETECT current_state.VALID_DATA current_state.INVALID_DATA current_state.IDLE 
+current_state.IDLE 0 0 0 0 
+current_state.INVALID_DATA 0 0 1 1 
+current_state.VALID_DATA 0 1 0 1 
+current_state.MAX_ERROR_DETECT 1 0 0 1 
+
+State Machine - |ad9250_top|jesd204b:jesd204b_rx|jesd204b_altera_jesd204_161_zta4dmq:jesd204_0|altera_jesd204_rx_base:inst_rx|altera_jesd204_rx_dll:rx_link_inst[1].altera_jesd204_rx_dll_inst|altera_jesd204_rx_dll_cs:altera_jesd204_rx_dll_cs|vcounter
+Name vcounter.11 vcounter.10 vcounter.01 vcounter.00 
+vcounter.00 0 0 0 0 
+vcounter.01 0 0 1 1 
+vcounter.10 0 1 0 1 
+vcounter.11 1 0 0 1 
+
+State Machine - |ad9250_top|jesd204b:jesd204b_rx|jesd204b_altera_jesd204_161_zta4dmq:jesd204_0|altera_jesd204_rx_base:inst_rx|altera_jesd204_rx_dll:rx_link_inst[1].altera_jesd204_rx_dll_inst|altera_jesd204_rx_dll_cs:altera_jesd204_rx_dll_cs|kcounter
+Name kcounter.11 kcounter.10 kcounter.01 kcounter.00 
+kcounter.00 0 0 0 0 
+kcounter.01 0 0 1 1 
+kcounter.10 0 1 0 1 
+kcounter.11 1 0 0 1 
+
+State Machine - |ad9250_top|jesd204b:jesd204b_rx|jesd204b_altera_jesd204_161_zta4dmq:jesd204_0|altera_jesd204_rx_base:inst_rx|altera_jesd204_rx_dll:rx_link_inst[1].altera_jesd204_rx_dll_inst|altera_jesd204_rx_dll_cs:altera_jesd204_rx_dll_cs|cs_state
+Name cs_state.CS_INIT cs_state.CS_DATA cs_state.CS_CHECK 
+cs_state.CS_INIT 0 0 0 
+cs_state.CS_CHECK 1 0 1 
+cs_state.CS_DATA 1 1 0 
+
+State Machine - |ad9250_top|jesd204b:jesd204b_rx|jesd204b_altera_jesd204_161_zta4dmq:jesd204_0|altera_jesd204_rx_base:inst_rx|altera_jesd204_rx_dll:rx_link_inst[0].altera_jesd204_rx_dll_inst|altera_jesd204_rx_dll_cs:altera_jesd204_rx_dll_cs|vcounter
+Name vcounter.11 vcounter.10 vcounter.01 vcounter.00 
+vcounter.00 0 0 0 0 
+vcounter.01 0 0 1 1 
+vcounter.10 0 1 0 1 
+vcounter.11 1 0 0 1 
+
+State Machine - |ad9250_top|jesd204b:jesd204b_rx|jesd204b_altera_jesd204_161_zta4dmq:jesd204_0|altera_jesd204_rx_base:inst_rx|altera_jesd204_rx_dll:rx_link_inst[0].altera_jesd204_rx_dll_inst|altera_jesd204_rx_dll_cs:altera_jesd204_rx_dll_cs|kcounter
+Name kcounter.11 kcounter.10 kcounter.01 kcounter.00 
+kcounter.00 0 0 0 0 
+kcounter.01 0 0 1 1 
+kcounter.10 0 1 0 1 
+kcounter.11 1 0 0 1 
+
+State Machine - |ad9250_top|jesd204b:jesd204b_rx|jesd204b_altera_jesd204_161_zta4dmq:jesd204_0|altera_jesd204_rx_base:inst_rx|altera_jesd204_rx_dll:rx_link_inst[0].altera_jesd204_rx_dll_inst|altera_jesd204_rx_dll_cs:altera_jesd204_rx_dll_cs|cs_state
+Name cs_state.CS_INIT cs_state.CS_DATA cs_state.CS_CHECK 
+cs_state.CS_INIT 0 0 0 
+cs_state.CS_CHECK 1 0 1 
+cs_state.CS_DATA 1 1 0 

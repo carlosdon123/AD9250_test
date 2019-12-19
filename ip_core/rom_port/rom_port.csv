@@ -1,0 +1,18 @@
+# system info rom_port on 2018.04.19.10:58:20
+system_info:
+name,value
+DEVICE,10AS027H4F34I3SG
+DEVICE_FAMILY,Arria 10
+GENERATION_ID,1524106700
+#
+#
+# Files generated for rom_port on 2018.04.19.10:58:20
+files:
+filepath,kind,attributes,module,is_top
+sim/rom_port.v,VERILOG,CONTAINS_INLINE_CONFIGURATION,rom_port,true
+rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v,VERILOG,,rom_port_rom_1port_161_m5cej6i,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+rom_port.rom_1port_0,rom_port_rom_1port_161_m5cej6i

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinplan
+ variation_name="jesd204_0"
+ megafunction_name="ALTERA_JESD204"
+ intended_family="Arria 10"
+ specifies="all_ports">
+ <global>
+  <pin name="pll_ref_clk" direction="input" scope="external" />
+  <pin name="rxlink_clk" direction="input" scope="external" />
+  <pin name="rxlink_rst_n_reset_n" direction="input" scope="external" />
+  <pin name="jesd204_rx_avs_clk" direction="input" scope="external" />
+  <pin name="jesd204_rx_avs_rst_n" direction="input" scope="external" />
+  <pin name="jesd204_rx_avs_chipselect" direction="input" scope="external" />
+  <pin
+     name="jesd204_rx_avs_address[7..0]"
+     direction="input"
+     scope="external" />
+  <pin name="jesd204_rx_avs_read" direction="input" scope="external" />
+  <pin
+     name="jesd204_rx_avs_readdata[31..0]"
+     direction="output"
+     scope="external" />
+  <pin name="jesd204_rx_avs_waitrequest" direction="output" scope="external" />
+  <pin name="jesd204_rx_avs_write" direction="input" scope="external" />
+  <pin
+     name="jesd204_rx_avs_writedata[31..0]"
+     direction="input"
+     scope="external" />
+  <pin
+     name="jesd204_rx_link_data[63..0]"
+     direction="output"
+     scope="external" />
+  <pin name="jesd204_rx_link_valid" direction="output" scope="external" />
+  <pin name="jesd204_rx_link_ready" direction="input" scope="external" />
+  <pin name="jesd204_rx_dlb_data[63..0]" direction="input" scope="external" />
+  <pin
+     name="jesd204_rx_dlb_data_valid[1..0]"
+     direction="input"
+     scope="external" />
+  <pin
+     name="jesd204_rx_dlb_kchar_data[7..0]"
+     direction="input"
+     scope="external" />
+  <pin
+     name="jesd204_rx_dlb_errdetect[7..0]"
+     direction="input"
+     scope="external" />
+  <pin
+     name="jesd204_rx_dlb_disperr[7..0]"
+     direction="input"
+     scope="external" />
+  <pin name="alldev_lane_aligned" direction="input" scope="external" />
+  <pin name="sysref" direction="input" scope="external" />
+  <pin name="jesd204_rx_frame_error" direction="input" scope="external" />
+  <pin name="jesd204_rx_int" direction="output" scope="external" />
+  <pin name="csr_rx_testmode[3..0]" direction="output" scope="external" />
+  <pin name="dev_lane_aligned" direction="output" scope="external" />
+  <pin name="dev_sync_n" direction="output" scope="external" />
+  <pin name="sof[3..0]" direction="output" scope="external" />
+  <pin name="somf[3..0]" direction="output" scope="external" />
+  <pin name="csr_f[7..0]" direction="output" scope="external" />
+  <pin name="csr_k[4..0]" direction="output" scope="external" />
+  <pin name="csr_l[4..0]" direction="output" scope="external" />
+  <pin name="csr_m[7..0]" direction="output" scope="external" />
+  <pin name="csr_n[4..0]" direction="output" scope="external" />
+  <pin name="csr_s[4..0]" direction="output" scope="external" />
+  <pin name="csr_cf[4..0]" direction="output" scope="external" />
+  <pin name="csr_cs[1..0]" direction="output" scope="external" />
+  <pin name="csr_hd" direction="output" scope="external" />
+  <pin name="csr_np[4..0]" direction="output" scope="external" />
+  <pin name="csr_lane_powerdown[1..0]" direction="output" scope="external" />
+  <pin name="rxphy_clk[1..0]" direction="output" scope="external" />
+  <pin name="rx_serial_data[1..0]" direction="input" scope="external" />
+  <pin name="rx_analogreset[1..0]" direction="input" scope="external" />
+  <pin name="rx_digitalreset[1..0]" direction="input" scope="external" />
+  <pin name="rx_islockedtodata[1..0]" direction="output" scope="external" />
+  <pin name="rx_cal_busy[1..0]" direction="output" scope="external" />
+ </global>
+</pinplan>

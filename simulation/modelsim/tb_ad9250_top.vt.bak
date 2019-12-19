@@ -1,0 +1,289 @@
+// Copyright (C) 2017  Intel Corporation. All rights reserved.
+// Your use of Intel Corporation's design tools, logic functions 
+// and other software and tools, and its AMPP partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Intel Program License 
+// Subscription Agreement, the Intel Quartus Prime License Agreement,
+// the Intel MegaCore Function License Agreement, or other 
+// applicable license agreement, including, without limitation, 
+// that your use is for the sole purpose of programming logic 
+// devices manufactured by Intel and sold by Intel or its 
+// authorized distributors.  Please refer to the applicable 
+// agreement for further details.
+
+// *****************************************************************************
+// This file contains a Verilog test bench template that is freely editable to  
+// suit user's needs .Comments are provided in each section to help the user    
+// fill out necessary details.                                                  
+// *****************************************************************************
+// Generated on "04/03/2018 11:16:59"
+                                                                                
+// Verilog Test Bench template for design : ad9250_top
+// 
+// Simulation tool : ModelSim-Altera (Verilog)
+// 
+
+`timescale 1 ns/ 1 fs
+
+module ad9250_top_vlg_tst();
+
+	reg device_clk = 1'b0;
+	reg global_rst_n;
+	reg mgmt_clk = 1'b0;
+	reg miso;
+	reg [1:0] rx_serial_data;
+	
+	// wires                                               
+	wire mosi;
+	wire rx_sync_n;
+	wire rx_sysref;
+	wire sclk;
+	wire ss_n;
+
+
+localparam  DEV_CLK_HALF_CYCLE_PERIOD   = 5/2; //200MHz
+
+
+
+// assign statements (if any)                          
+ad9250_top i1 (
+// port map - connection between master ports and signals/registers   
+	.device_clk(device_clk),
+	.global_rst_n(global_rst_n),
+	.mgmt_clk(mgmt_clk),
+	.miso(miso),
+	.mosi(mosi),
+	.rx_serial_data(rx_serial_data),
+	.rx_sync_n(rx_sync_n),
+	.rx_sysref(rx_sysref),
+	.sclk(sclk),
+	.ss_n(ss_n)
+					);
+
+				
+			
+		
+	
+	wire pll_powerdown;
+	wire [5:0] tx_bonding_clocks;
+    wire [1:0] tx_analogreset;
+	wire [1:0] tx_digitalreset;
+	wire [1:0] tx_ready;
+	wire [1:0] tx_cal_busy;
+	wire [1:0] tx_serial_data;
+	reg txlink_rst_n;
+	reg tx_avs_rst_n;
+	reg sysref;
+	
+	wire sync_n;
+	assign sync_n = rx_sync_n;
+	//assign sync_n = 1'b0;
+	
+	
+	initial	begin                                                                                             
+		$display("Running testbench");    
+		global_rst_n = 1'b1;
+		#5;
+		global_rst_n = 1'b0;	
+		# 100;
+		global_rst_n = 1'b1;
+	end   
+		
+			
+	
+	// device clock Generation
+	always #(DEV_CLK_HALF_CYCLE_PERIOD) device_clk <= ~device_clk;
+
+	// mgmt Clock (100MHz)
+	always #(5) mgmt_clk <= ~mgmt_clk;
+	
+	reg txlink_clk = 1'b0;
+	
+	always #(5) txlink_clk <= ~txlink_clk;
+	
+   assign rx_sysref = sysref;
+   
+   initial begin
+		
+		sysref = 1'b0;
+		txlink_rst_n = 1'b0;
+		tx_avs_rst_n = 1'b0;
+		
+		//@(posedge tx_ready) begin txlink_rst_n = 1'b1; tx_avs_rst_n = 1'b1; end
+		#5055; 
+		txlink_rst_n = 1'b1; 
+		tx_avs_rst_n = 1'b1;
+		//#5060;
+		#10;
+		$display("-------Inject single Sysref Pulse ---------");
+		
+		
+		@(posedge txlink_clk) sysref <=1'b1;
+
+		@(posedge txlink_clk) sysref <=1'b0;
+		
+   end
+	
+	
+	wire pll_locked;
+	wire [1:0] pll_locked_bus;
+	assign pll_locked_bus = {2{pll_locked}};
+	
+	//PHY contoller
+   	tb_tx_phyrst_ctl tx_phyrst_ctl (
+		.clock           (device_clk),       // input clock
+		.reset           (~global_rst_n),    // input reset
+		.pll_powerdown   (pll_powerdown),    // output pll_powerdown
+		.tx_analogreset  (tx_analogreset),   // output [1:0] tx_analogreset
+		.tx_digitalreset (tx_digitalreset),  // output [1:0] tx_digitalresett
+		.tx_ready        (tx_ready),         // output [1:0] tx_ready
+		.pll_locked      (pll_locked),   	 // input pll_locked
+		.pll_select      (1'b0),      		 // input pll_select
+		.tx_cal_busy     (tx_cal_busy)       // input [1:0] 
+													);
+	
+	atx_pll tb_atx_pll (
+		.pll_refclk0       (device_clk),
+		.mcgb_rst          (pll_powerdown | ~global_rst_n),      //input  wire mcgb_rst, 
+		.pll_powerdown     (pll_powerdown | ~global_rst_n),      //input  pll_powerdown
+		
+		.pll_cal_busy      (),     					 			 //output  pll_cal_busy
+		.tx_serial_clk     (),     								 //tx_serial_clk.clk 
+		.pll_locked        (pll_locked),        				 //output  pll_locked
+		.tx_bonding_clocks (tx_bonding_clocks)  );				 //output wire [5:0] tx_bonding_clocks 
+								
+		
+	//wire tx_frame_error;
+	wire [63:0] tx_dlb_data;
+	wire [7:0] tx_dlb_kchar;
+	wire txlink_ready;
+	reg [63:0] txlink_data;
+	wire dev_sync_n;
+	wire mdev_sync_n = dev_sync_n;
+	
+   	tx_jesd204b tx_jesd204b (
+		.sysref                     (rx_sysref),            //sysref.export
+
+		
+		.csr_f                      (),                     //csr_f.export
+		.csr_k                      (),                     //csr_k.export
+		.csr_l                      (),                     //csr_l.export
+		.csr_m                      (),                     //csr_m.export
+		.csr_n                      (),                     //csr_n.export
+		.csr_s                      (),                     //csr_s.export
+		.csr_cf                     (),                     //csr_cf.export
+		.csr_cs                     (),                     //csr_cs.export
+		.csr_hd                     (),                     //csr_hd.export
+		.csr_np                     (),                     //csr_np.export
+		.csr_lane_powerdown         (),       				//csr_lane_powerdown.export
+		.csr_tx_testmode            (),       				//csr_tx_testmode.export
+		.csr_tx_testpattern_a       (),       				//csr_tx_testpattern_a.export
+		.csr_tx_testpattern_b       (),       				//csr_tx_testpattern_b.export
+		.csr_tx_testpattern_c       (),       				//csr_tx_testpattern_c.export
+		.csr_tx_testpattern_d       (),      				//csr_tx_testpattern_d.export
+
+				
+		.txlink_clk                 (txlink_clk),       //txlink_clk.clk
+		.txlink_rst_n_reset_n       (txlink_rst_n),     //txlink_rst_n.reset_n
+		
+		.jesd204_tx_avs_clk         (mgmt_clk),         //jesd204_tx_avs_clk.clk
+		.jesd204_tx_avs_rst_n       (tx_avs_rst_n),     //jesd204_tx_avs_rst_n.reset_n
+		.jesd204_tx_avs_chipselect  (1'b1),  				//jesd204_tx_avs.chipselect
+		.jesd204_tx_avs_address     (8'd0),     			//.address
+		.jesd204_tx_avs_read        (1'b0),        			//.read
+		.jesd204_tx_avs_readdata    (),    				//.readdata
+		.jesd204_tx_avs_waitrequest (), 				//.waitrequest
+		.jesd204_tx_avs_write       (1'b0),       			//.write
+		.jesd204_tx_avs_writedata   (32'd0),   				//.writedata
+		
+		.jesd204_tx_link_data       (txlink_data),       //input [63:0]	jesd204_tx_link_data;
+		.jesd204_tx_link_valid      (txlink_ready),      //input		jesd204_tx_link_valid
+		.jesd204_tx_link_ready      (txlink_ready),      //output		jesd204_tx_link_ready
+		.jesd204_tx_int             (tx_int),            //output		jesd204_tx_int;
+		
+		.sync_n                     (sync_n),                     //input	sync_n;
+		.dev_sync_n                 (dev_sync_n),                 //output	dev_sync_n;
+		.mdev_sync_n                (mdev_sync_n),                //input	mdev_sync_n;
+		
+		.jesd204_tx_frame_ready     (jesd204_tx_frame_ready),     //output jesd204_tx_frame_ready
+		
+
+		
+		.jesd204_tx_frame_error     (1'b0),     		  //input jesd204_tx_frame_error
+		.jesd204_tx_dlb_data        (tx_dlb_data),        //output	[63:0]	jesd204_tx_dlb_data
+		.jesd204_tx_dlb_kchar_data  (tx_dlb_kchar),  	  //output	[63:0]	jesd204_tx_dlb_data
+		
+		.pll_locked                 (pll_locked_bus),     //input [1:0] pll_locked
+		.txphy_clk                  (),            		  //output [1:0] txphy_clk.export
+		
+		.tx_serial_data             (tx_serial_data),         //output [1:0] tx_serial_data 
+		.tx_analogreset             (tx_analogreset),         //input [1:0] tx_analogreset
+		.tx_digitalreset            (tx_digitalreset),        //input [1:0] tx_digitalreset
+		.tx_cal_busy                (tx_cal_busy),            //otuput [1:0] tx_cal_busy
+		.tx_bonding_clocks_ch0      (tx_bonding_clocks),      //input [5:0]	tx_bonding_clocks_ch0
+		.tx_bonding_clocks_ch1      (tx_bonding_clocks)       //input [5:0]	tx_bonding_clocks_ch1
+														 );
+
+	
+
+	always @ (*) rx_serial_data = tx_serial_data;
+
+
+		//-------------------------------------------------
+
+		// Data generator 
+
+		//-------------------------------------------------
+		
+		always @ (posedge txlink_clk or negedge txlink_rst_n)
+
+		begin
+
+		   if (!txlink_rst_n)
+
+		   begin
+
+			  txlink_data [63:0] <= 64'h00000000;
+
+		   end
+
+		   else 
+
+		   begin
+
+			  if (rx_sync_n && !txlink_ready)
+
+			  begin
+
+				 txlink_data [31:0]  <= 32'hEEEE1111;
+				 txlink_data [63:32] <= 32'hEEEE1111;
+
+			  end
+
+			  if (txlink_ready)
+			  begin
+
+				txlink_data [31:0] <= txlink_data[31:0] + 1'b1;
+				txlink_data [63:32] <= txlink_data[63:32] + 1'b1;
+				
+			  end 
+
+		   end
+
+		end
+
+reg [15:0] tx_data_tp_14;
+
+initial	begin
+	j=1;
+	tx_data_tp_14 = 16'hff;
+	#100;
+	tx_data_tp_14[j*16-1 -: 14] = 0;
+end
+
+
+ 
+endmodule
+

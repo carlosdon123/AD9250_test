@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinplan
+ variation_name="jesd204_0"
+ megafunction_name="ALTERA_JESD204"
+ intended_family="Arria 10"
+ specifies="all_ports">
+ <global>
+  <pin name="txlink_clk" direction="input" scope="external" />
+  <pin name="txlink_rst_n_reset_n" direction="input" scope="external" />
+  <pin name="jesd204_tx_avs_clk" direction="input" scope="external" />
+  <pin name="jesd204_tx_avs_rst_n" direction="input" scope="external" />
+  <pin name="jesd204_tx_avs_chipselect" direction="input" scope="external" />
+  <pin
+     name="jesd204_tx_avs_address[7..0]"
+     direction="input"
+     scope="external" />
+  <pin name="jesd204_tx_avs_read" direction="input" scope="external" />
+  <pin
+     name="jesd204_tx_avs_readdata[31..0]"
+     direction="output"
+     scope="external" />
+  <pin name="jesd204_tx_avs_waitrequest" direction="output" scope="external" />
+  <pin name="jesd204_tx_avs_write" direction="input" scope="external" />
+  <pin
+     name="jesd204_tx_avs_writedata[31..0]"
+     direction="input"
+     scope="external" />
+  <pin name="jesd204_tx_link_data[63..0]" direction="input" scope="external" />
+  <pin name="jesd204_tx_link_valid" direction="input" scope="external" />
+  <pin name="jesd204_tx_link_ready" direction="output" scope="external" />
+  <pin name="jesd204_tx_int" direction="output" scope="external" />
+  <pin name="sysref" direction="input" scope="external" />
+  <pin name="sync_n" direction="input" scope="external" />
+  <pin name="dev_sync_n" direction="output" scope="external" />
+  <pin name="mdev_sync_n" direction="input" scope="external" />
+  <pin name="jesd204_tx_frame_ready" direction="output" scope="external" />
+  <pin name="csr_l[4..0]" direction="output" scope="external" />
+  <pin name="csr_f[7..0]" direction="output" scope="external" />
+  <pin name="csr_k[4..0]" direction="output" scope="external" />
+  <pin name="csr_m[7..0]" direction="output" scope="external" />
+  <pin name="csr_cs[1..0]" direction="output" scope="external" />
+  <pin name="csr_n[4..0]" direction="output" scope="external" />
+  <pin name="csr_np[4..0]" direction="output" scope="external" />
+  <pin name="csr_s[4..0]" direction="output" scope="external" />
+  <pin name="csr_hd" direction="output" scope="external" />
+  <pin name="csr_cf[4..0]" direction="output" scope="external" />
+  <pin name="csr_lane_powerdown[1..0]" direction="output" scope="external" />
+  <pin name="csr_tx_testmode[3..0]" direction="output" scope="external" />
+  <pin
+     name="csr_tx_testpattern_a[31..0]"
+     direction="output"
+     scope="external" />
+  <pin
+     name="csr_tx_testpattern_b[31..0]"
+     direction="output"
+     scope="external" />
+  <pin
+     name="csr_tx_testpattern_c[31..0]"
+     direction="output"
+     scope="external" />
+  <pin
+     name="csr_tx_testpattern_d[31..0]"
+     direction="output"
+     scope="external" />
+  <pin name="jesd204_tx_frame_error" direction="input" scope="external" />
+  <pin name="jesd204_tx_dlb_data[63..0]" direction="output" scope="external" />
+  <pin
+     name="jesd204_tx_dlb_kchar_data[7..0]"
+     direction="output"
+     scope="external" />
+  <pin name="pll_locked[1..0]" direction="input" scope="external" />
+  <pin name="txphy_clk[1..0]" direction="output" scope="external" />
+  <pin name="tx_serial_data[1..0]" direction="output" scope="external" />
+  <pin name="tx_analogreset[1..0]" direction="input" scope="external" />
+  <pin name="tx_digitalreset[1..0]" direction="input" scope="external" />
+  <pin name="tx_cal_busy[1..0]" direction="output" scope="external" />
+  <pin name="tx_bonding_clocks_ch0[5..0]" direction="input" scope="external" />
+  <pin name="tx_bonding_clocks_ch1[5..0]" direction="input" scope="external" />
+ </global>
+</pinplan>

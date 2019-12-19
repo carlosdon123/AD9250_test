@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="altera_xcvr_native_a10_161/sim/altera_xcvr_native_a10_functions_h.sv"
+   type="SYSTEM_VERILOG"
+   library="altera_common_sv_packages"
+   systemVerilogPackageName="altera_xcvr_native_a10_functions_h" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/alt_xcvr_resync.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/alt_xcvr_arbiter.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_resync.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_xcvr_native_a10_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_xcvr_native_a10_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/twentynm_pcs.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/twentynm_pma.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/twentynm_xcvr_avmm.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/twentynm_xcvr_native.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_xcvr_native_a10_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_xcvr_native_a10_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_xcvr_native_a10_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_xcvr_native_a10_161"
+   simulator="modelsim" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/a10_avmm_h.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/alt_xcvr_native_pipe_retry.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/alt_xcvr_native_avmm_csr.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/alt_xcvr_native_prbs_accum.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/alt_xcvr_native_odi_accel.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_arb.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_params_h.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/pcie_mgmt_commands_h.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/pcie_mgmt_functions_h.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/pcie_mgmt_program.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/plain_files.txt"
+   type="OTHER"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/mentor_files.txt"
+   type="OTHER"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/cadence_files.txt"
+   type="OTHER"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/synopsys_files.txt"
+   type="OTHER"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/aldec_files.txt"
+   type="OTHER"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/docs/tx_jesd204b_altera_xcvr_native_a10_161_6d2kjaq_parameters.csv"
+   type="OTHER"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/tx_jesd204b_altera_xcvr_native_a10_161_6d2kjaq.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_opt_logic_6d2kjaq.sv"
+   type="SYSTEM_VERILOG"
+   library="tx_jesd204b_altera_xcvr_native_a10_161" />
+ <file
+   path="altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_phy_adapter_xs_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_phy_adapter_xs_161/sim/aldec/altera_jesd204_phy_adapter_xs.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_phy_adapter_xs_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_tx_mlpcs.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_enc.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_tx_pcs.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_enc.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/aldec/altera_jesd204_tx_mlpcs.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/aldec/altera_jesd204_8b10b_enc.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/aldec/altera_jesd204_tx_pcs.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/aldec/altera_jesd204_wys_lut.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/aldec/altera_jesd204_xn_8b10b_enc.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/aldec/altera_jesd204_pcfifo.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_mlpcs_161/sim/aldec/altera_jesd204_mixed_width_dcfifo.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_mlpcs_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_phy_161/sim/tx_jesd204b_altera_jesd204_phy_161_bhvxniy.v"
+   type="VERILOG"
+   library="tx_jesd204b_altera_jesd204_phy_161"
+   hasInlineConfiguration="true" />
+ <file
+   path="altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_base.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_csr.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_ctl.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_dll.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_regmap.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_regmap_opt.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_scrambler.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="modelsim" />
+ <file
+   path="altera_jesd204_tx_161/sim/aldec/altera_jesd204_tx_base.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_161/sim/aldec/altera_jesd204_tx_csr.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_161/sim/aldec/altera_jesd204_tx_ctl.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_161/sim/aldec/altera_jesd204_tx_dll.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_161/sim/aldec/altera_jesd204_tx_regmap.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_161/sim/aldec/altera_jesd204_tx_regmap_opt.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_tx_161/sim/aldec/altera_jesd204_tx_scrambler.v"
+   type="VERILOG_ENCRYPT"
+   library="tx_jesd204b_altera_jesd204_tx_161"
+   simulator="riviera" />
+ <file
+   path="altera_jesd204_161/sim/tx_jesd204b_altera_jesd204_161_py6ow4q.v"
+   type="VERILOG"
+   library="tx_jesd204b_altera_jesd204_161"
+   hasInlineConfiguration="true" />
+ <file path="sim/tx_jesd204b.v" type="VERILOG" hasInlineConfiguration="true" />
+ <topLevel name="tx_jesd204b" />
+ <deviceFamily name="arria10" />
+</simPackage>

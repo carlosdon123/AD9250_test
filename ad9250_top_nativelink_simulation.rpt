@@ -1,0 +1,22 @@
+Info: Start Nativelink Simulation process
+executing command line: ip-make-simscript --nativelink-mode --output-directory=ad9250_top_iputf_input --spd=F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/tb_tx_phyrst_ctl.spd --spd=F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/fifo_56_28/fifo_56_28/fifo_56_28.spd --spd=F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/tx_jesd204b.spd --spd=F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/rom_port.spd --spd=F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/phyrst_controller.spd --spd=F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/jesd204b.spd --spd=F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/core_pll.spd --spd=F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/atx_pll.spd 
+
+========= EDA Simulation Settings =====================
+
+Sim Mode              :  RTL
+Family                :  arria10
+Quartus root          :  d:/intelfpga/16.1/quartus/bin64/
+Quartus sim root      :  d:/intelfpga/16.1/quartus/eda/sim_lib
+Simulation Tool       :  modelsim-altera
+Simulation Language   :  verilog
+Simulation Mode       :  GUI
+Sim Output File       :  
+Sim SDF file          :  
+Sim dir               :  simulation\modelsim
+
+=======================================================
+
+Info: Starting NativeLink simulation with ModelSim-Altera software
+Sourced NativeLink script d:/intelfpga/16.1/quartus/common/tcl/internal/nativelink/modelsim.tcl
+Warning: File ad9250_top_run_msim_rtl_verilog.do already exists - backing up current file as ad9250_top_run_msim_rtl_verilog.do.bak
+Info: Spawning ModelSim-Altera Simulation software 

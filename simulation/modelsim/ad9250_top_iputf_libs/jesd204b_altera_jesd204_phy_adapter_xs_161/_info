@@ -1,0 +1,34 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/program/FPGA/AD9250/simulation/modelsim
+v42L1AFJ57qx/GdH5T8b3kHHDSWsfCmQD4rTiaDfnOr0=
+!s110 1576762807
+!i10b 0
+!s100 6Q:TQ2[zSd9cnAmzcG=EI3
+I?zj7L3fZmobe;9NKKg3mY2
+VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+!i8a 437532976
+dF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim
+w1576762807
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v
+L0 38
+OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1576762807.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v|-work|jesd204b_altera_jesd204_phy_adapter_xs_161|
+!i113 0
+o-work jesd204b_altera_jesd204_phy_adapter_xs_161
+tCvgOpt 0
+n714cc43

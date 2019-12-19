@@ -1,0 +1,110 @@
+Info: Starting: Create simulation model
+Info: qsys-generate E:\program\FPGA\AD9250\atx_pll.qsys --simulation=VERILOG --allow-mixed-language-simulation --output-directory=E:\program\FPGA\AD9250\atx_pll --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/atx_pll.qsys
+Progress: Reading input file
+Progress: Adding xcvr_atx_pll_a10_0 [altera_xcvr_atx_pll_a10 16.1]
+Info: altera_xcvr_atx_pll_a10: NOTE: Modified mcgb tcl package that enables ATX PLL Sharing
+Progress: Parameterizing module xcvr_atx_pll_a10_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: atx_pll.xcvr_atx_pll_a10_0: For the selected device(10AS027H4F34I3SG), PLL speed grade is 4.
+Info: atx_pll: "Transforming system: atx_pll"
+Info: atx_pll: Running transform generation_view_transform
+Info: atx_pll: Running transform generation_view_transform took 0.000s
+Info: xcvr_atx_pll_a10_0: Running transform generation_view_transform
+Info: xcvr_atx_pll_a10_0: Running transform generation_view_transform took 0.000s
+Info: atx_pll: Running transform merlin_avalon_transform
+Info: atx_pll: Running transform merlin_avalon_transform took 0.083s
+Info: atx_pll: "Naming system components in system: atx_pll"
+Info: atx_pll: "Processing generation queue"
+Info: atx_pll: "Generating: atx_pll"
+Info: atx_pll: "Generating: atx_pll_altera_xcvr_atx_pll_a10_161_25ew5mi"
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./twentynm_xcvr_avmm.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_xcvr_avmm.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./mentor/twentynm_xcvr_avmm.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../alt_xcvr_core/nf/mentor/twentynm_xcvr_avmm.sv MENTOR_SPECIFIC
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_resync.sv SYSTEM_VERILOG PATH ../../../../altera_xcvr_generic/ctrl/alt_xcvr_resync.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_arbiter.sv SYSTEM_VERILOG PATH ../../../../altera_xcvr_generic/ctrl/alt_xcvr_arbiter.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./mentor/alt_xcvr_resync.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../../altera_xcvr_generic/mentor/ctrl/alt_xcvr_resync.sv MENTOR_SPECIFIC
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./mentor/alt_xcvr_arbiter.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../../altera_xcvr_generic/mentor/ctrl/alt_xcvr_arbiter.sv MENTOR_SPECIFIC
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./a10_avmm_h.sv SYSTEM_VERILOG PATH ../../../altera_xcvr_native_phy/altera_xcvr_native_vi/a10_avmm_h.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./altera_xcvr_native_a10_functions_h.sv SYSTEM_VERILOG PATH ../../../altera_xcvr_native_phy/altera_xcvr_native_vi/altera_xcvr_native_a10_functions_h.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_atx_pll_rcfg_arb.sv SYSTEM_VERILOG PATH ../source/alt_xcvr_atx_pll_rcfg_arb.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./a10_xcvr_atx_pll.sv SYSTEM_VERILOG PATH ../source/a10_xcvr_atx_pll.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_pll_embedded_debug.sv SYSTEM_VERILOG PATH ../source/alt_xcvr_pll_embedded_debug.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_pll_avmm_csr.sv SYSTEM_VERILOG PATH ../source/alt_xcvr_pll_avmm_csr.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./mentor/alt_xcvr_atx_pll_rcfg_arb.sv SYSTEM_VERILOG_ENCRYPT PATH ../mentor/source/alt_xcvr_atx_pll_rcfg_arb.sv MENTOR_SPECIFIC
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./mentor/a10_xcvr_atx_pll.sv SYSTEM_VERILOG_ENCRYPT PATH ../mentor/source/a10_xcvr_atx_pll.sv MENTOR_SPECIFIC
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./mentor/alt_xcvr_pll_embedded_debug.sv SYSTEM_VERILOG_ENCRYPT PATH ../mentor/source/alt_xcvr_pll_embedded_debug.sv MENTOR_SPECIFIC
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./mentor/alt_xcvr_pll_avmm_csr.sv SYSTEM_VERILOG_ENCRYPT PATH ../mentor/source/alt_xcvr_pll_avmm_csr.sv MENTOR_SPECIFIC
+Info: atx_pll: Done "atx_pll" with 2 modules, 24 files
+Info: qsys-generate succeeded.
+Info: Finished: Create simulation model
+Info: Starting: Create Modelsim Project.
+Info: sim-script-gen --spd=E:\program\FPGA\AD9250\atx_pll\atx_pll.spd --output-directory=E:/program/FPGA/AD9250/atx_pll/sim/ --use-relative-paths=true
+Info: Doing: ip-make-simscript --spd=E:\program\FPGA\AD9250\atx_pll\atx_pll.spd --output-directory=E:/program/FPGA/AD9250/atx_pll/sim/ --use-relative-paths=true
+Info: Generating the following file(s) for MODELSIM simulator in E:/program/FPGA/AD9250/atx_pll/sim/ directory:
+Info: 	mentor/msim_setup.tcl
+Info: Generating the following file(s) for VCS simulator in E:/program/FPGA/AD9250/atx_pll/sim/ directory:
+Info: 	synopsys/vcs/vcs_setup.sh
+Info: Generating the following file(s) for VCSMX simulator in E:/program/FPGA/AD9250/atx_pll/sim/ directory:
+Info: 	synopsys/vcsmx/synopsys_sim.setup
+Info: 	synopsys/vcsmx/vcsmx_setup.sh
+Info: Generating the following file(s) for NCSIM simulator in E:/program/FPGA/AD9250/atx_pll/sim/ directory:
+Info: 	cadence/cds.lib
+Info: 	cadence/hdl.var
+Info: 	cadence/ncsim_setup.sh
+Info: 	2 .cds.lib files in cadence/cds_libs/ directory
+Info: Generating the following file(s) for RIVIERA simulator in E:/program/FPGA/AD9250/atx_pll/sim/ directory:
+Info: 	aldec/rivierapro_setup.tcl
+Info: For information on how to simulate your IP, see the explanatory comments in the simulator-specific subdirectories under E:/program/FPGA/AD9250/atx_pll/sim/.
+Info: Regenerate these scripts whenever you make any change to any Quartus-generated IP in your project.
+Info: Finished: Create Modelsim Project.
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate E:\program\FPGA\AD9250\atx_pll.qsys --block-symbol-file --output-directory=E:\program\FPGA\AD9250\atx_pll --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/atx_pll.qsys
+Progress: Reading input file
+Progress: Adding xcvr_atx_pll_a10_0 [altera_xcvr_atx_pll_a10 16.1]
+Progress: Parameterizing module xcvr_atx_pll_a10_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: atx_pll.xcvr_atx_pll_a10_0: For the selected device(10AS027H4F34I3SG), PLL speed grade is 4.
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate E:\program\FPGA\AD9250\atx_pll.qsys --synthesis=VERILOG --output-directory=E:\program\FPGA\AD9250\atx_pll --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/atx_pll.qsys
+Progress: Reading input file
+Progress: Adding xcvr_atx_pll_a10_0 [altera_xcvr_atx_pll_a10 16.1]
+Progress: Parameterizing module xcvr_atx_pll_a10_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: atx_pll.xcvr_atx_pll_a10_0: For the selected device(10AS027H4F34I3SG), PLL speed grade is 4.
+Info: atx_pll: "Transforming system: atx_pll"
+Info: atx_pll: Running transform generation_view_transform
+Info: atx_pll: Running transform generation_view_transform took 0.000s
+Info: xcvr_atx_pll_a10_0: Running transform generation_view_transform
+Info: xcvr_atx_pll_a10_0: Running transform generation_view_transform took 0.000s
+Info: atx_pll: Running transform merlin_avalon_transform
+Info: atx_pll: Running transform merlin_avalon_transform took 0.154s
+Info: atx_pll: "Naming system components in system: atx_pll"
+Info: atx_pll: "Processing generation queue"
+Info: atx_pll: "Generating: atx_pll"
+Info: atx_pll: "Generating: atx_pll_altera_xcvr_atx_pll_a10_161_25ew5mi"
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./twentynm_xcvr_avmm.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_xcvr_avmm.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_resync.sv SYSTEM_VERILOG PATH ../../../../altera_xcvr_generic/ctrl/alt_xcvr_resync.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_arbiter.sv SYSTEM_VERILOG PATH ../../../../altera_xcvr_generic/ctrl/alt_xcvr_arbiter.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./a10_avmm_h.sv SYSTEM_VERILOG PATH ../../../altera_xcvr_native_phy/altera_xcvr_native_vi/a10_avmm_h.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./altera_xcvr_native_a10_functions_h.sv SYSTEM_VERILOG PATH ../../../altera_xcvr_native_phy/altera_xcvr_native_vi/altera_xcvr_native_a10_functions_h.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_atx_pll_rcfg_arb.sv SYSTEM_VERILOG PATH ../source/alt_xcvr_atx_pll_rcfg_arb.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./a10_xcvr_atx_pll.sv SYSTEM_VERILOG PATH ../source/a10_xcvr_atx_pll.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_pll_embedded_debug.sv SYSTEM_VERILOG PATH ../source/alt_xcvr_pll_embedded_debug.sv
+Info: xcvr_atx_pll_a10_0: add_fileset_file ./alt_xcvr_pll_avmm_csr.sv SYSTEM_VERILOG PATH ../source/alt_xcvr_pll_avmm_csr.sv
+Info: atx_pll: Done "atx_pll" with 2 modules, 14 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis

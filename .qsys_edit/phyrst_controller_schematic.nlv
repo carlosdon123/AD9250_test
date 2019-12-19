@@ -1,0 +1,13 @@
+# # File gsaved with Nlview version 6.3.8  2013-12-19 bk=1.2992 VDI=34 GEI=35
+# 
+preplace inst phyrst_controller -pg 1 -lvl 1 -y 40 -regy -20
+preplace inst phyrst_controller.xcvr_reset_control_0 -pg 1 -lvl 1 -y 30
+preplace netloc EXPORT<net_container>phyrst_controller</net_container>(SLAVE)phyrst_controller.rx_digitalreset,(SLAVE)xcvr_reset_control_0.rx_digitalreset) 1 0 1 NJ
+preplace netloc EXPORT<net_container>phyrst_controller</net_container>(SLAVE)phyrst_controller.rx_is_lockedtodata,(SLAVE)xcvr_reset_control_0.rx_is_lockedtodata) 1 0 1 NJ
+preplace netloc EXPORT<net_container>phyrst_controller</net_container>(SLAVE)phyrst_controller.rx_ready,(SLAVE)xcvr_reset_control_0.rx_ready) 1 0 1 NJ
+preplace netloc EXPORT<net_container>phyrst_controller</net_container>(SLAVE)phyrst_controller.rx_cal_busy,(SLAVE)xcvr_reset_control_0.rx_cal_busy) 1 0 1 NJ
+preplace netloc EXPORT<net_container>phyrst_controller</net_container>(SLAVE)xcvr_reset_control_0.reset,(SLAVE)phyrst_controller.reset) 1 0 1 NJ
+preplace netloc EXPORT<net_container>phyrst_controller</net_container>(SLAVE)phyrst_controller.rx_analogreset,(SLAVE)xcvr_reset_control_0.rx_analogreset) 1 0 1 NJ
+preplace netloc EXPORT<net_container>phyrst_controller</net_container>(SLAVE)phyrst_controller.clock,(SLAVE)xcvr_reset_control_0.clock) 1 0 1 NJ
+levelinfo -pg 1 0 120 330
+levelinfo -hier phyrst_controller 130 160 320

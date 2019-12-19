@@ -1,0 +1,30 @@
+# system info tb_tx_phyrst_ctl on 2018.04.04.08:53:59
+system_info:
+name,value
+DEVICE,10AS027H4F34I3SG
+DEVICE_FAMILY,Arria 10
+GENERATION_ID,1522803238
+#
+#
+# Files generated for tb_tx_phyrst_ctl on 2018.04.04.08:53:59
+files:
+filepath,kind,attributes,module,is_top
+sim/tb_tx_phyrst_ctl.v,VERILOG,CONTAINS_INLINE_CONFIGURATION,tb_tx_phyrst_ctl,true
+altera_xcvr_reset_control_161/sim/altera_xcvr_functions.sv,SYSTEM_VERILOG,,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv,SYSTEM_VERILOG_ENCRYPT,MENTOR_SPECIFIC,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/alt_xcvr_resync.sv,SYSTEM_VERILOG,,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv,SYSTEM_VERILOG_ENCRYPT,MENTOR_SPECIFIC,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/altera_xcvr_reset_control.sv,SYSTEM_VERILOG,,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/alt_xcvr_reset_counter.sv,SYSTEM_VERILOG,,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv,SYSTEM_VERILOG_ENCRYPT,MENTOR_SPECIFIC,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv,SYSTEM_VERILOG_ENCRYPT,MENTOR_SPECIFIC,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/plain_files.txt,OTHER,,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/mentor_files.txt,OTHER,,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/cadence_files.txt,OTHER,,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/synopsys_files.txt,OTHER,,altera_xcvr_reset_control,false
+altera_xcvr_reset_control_161/sim/aldec_files.txt,OTHER,,altera_xcvr_reset_control,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+tb_tx_phyrst_ctl.xcvr_reset_control_0,altera_xcvr_reset_control

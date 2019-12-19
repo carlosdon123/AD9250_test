@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/program/FPGA/AD9250/simulation/modelsim
+vrom_port_rom_1port_161_m5cej6i
+!s110 1576762793
+!i10b 1
+!s100 @eQO4Hb@4PcgbAlSi0HAM2
+Il>IXY93RRL@bOoC]?T=ko0
+VDg1SIo80bB@j0V0VzS_@n1
+dF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim
+w1524106702
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v
+L0 18
+OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1576762793.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v|-work|rom_port_rom_1port_161|
+!i113 0
+o-work rom_port_rom_1port_161
+tCvgOpt 0

@@ -1,0 +1,18 @@
+# system info core_pll on 2018.04.11.15:26:19
+system_info:
+name,value
+DEVICE,10AS027H4F34I3SG
+DEVICE_FAMILY,Arria 10
+GENERATION_ID,1523431578
+#
+#
+# Files generated for core_pll on 2018.04.11.15:26:19
+files:
+filepath,kind,attributes,module,is_top
+sim/core_pll.v,VERILOG,CONTAINS_INLINE_CONFIGURATION,core_pll,true
+altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo,VERILOG,,core_pll_altera_iopll_161_ep46qai,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+core_pll.iopll_0,core_pll_altera_iopll_161_ep46qai

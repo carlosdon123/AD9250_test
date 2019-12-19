@@ -1,0 +1,6 @@
+config jesd204b_altera_jesd204_161_zta4dmq_cfg;
+		design jesd204b_altera_jesd204_161_zta4dmq;
+		instance jesd204b_altera_jesd204_161_zta4dmq.inst_rx use jesd204b_altera_jesd204_rx_161.altera_jesd204_rx_base;
+		instance jesd204b_altera_jesd204_161_zta4dmq.inst_phy use jesd204b_altera_jesd204_phy_161.jesd204b_altera_jesd204_phy_161_yorkvea;
+endconfig
+

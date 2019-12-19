@@ -1,0 +1,13 @@
+# # File gsaved with Nlview version 6.3.8  2013-12-19 bk=1.2992 VDI=34 GEI=35
+# 
+preplace inst atx_pll -pg 1 -lvl 1 -y 40 -regy -20
+preplace inst atx_pll.xcvr_atx_pll_a10_0 -pg 1 -lvl 1 -y 30
+preplace netloc EXPORT<net_container>atx_pll</net_container>(SLAVE)atx_pll.pll_refclk0,(SLAVE)xcvr_atx_pll_a10_0.pll_refclk0) 1 0 1 NJ
+preplace netloc EXPORT<net_container>atx_pll</net_container>(SLAVE)atx_pll.pll_powerdown,(SLAVE)xcvr_atx_pll_a10_0.pll_powerdown) 1 0 1 NJ
+preplace netloc EXPORT<net_container>atx_pll</net_container>(MASTER)xcvr_atx_pll_a10_0.tx_bonding_clocks,(MASTER)atx_pll.tx_bonding_clocks) 1 1 1 NJ
+preplace netloc EXPORT<net_container>atx_pll</net_container>(SLAVE)atx_pll.pll_locked,(SLAVE)xcvr_atx_pll_a10_0.pll_locked) 1 0 1 NJ
+preplace netloc EXPORT<net_container>atx_pll</net_container>(SLAVE)atx_pll.mcgb_rst,(SLAVE)xcvr_atx_pll_a10_0.mcgb_rst) 1 0 1 NJ
+preplace netloc EXPORT<net_container>atx_pll</net_container>(SLAVE)atx_pll.pll_cal_busy,(SLAVE)xcvr_atx_pll_a10_0.pll_cal_busy) 1 0 1 NJ
+preplace netloc EXPORT<net_container>atx_pll</net_container>(MASTER)atx_pll.tx_serial_clk,(MASTER)xcvr_atx_pll_a10_0.tx_serial_clk) 1 1 1 NJ
+levelinfo -pg 1 0 90 490
+levelinfo -hier atx_pll 100 130 350

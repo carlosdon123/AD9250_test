@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/program/FPGA/AD9250/simulation/modelsim
+vGEVuJNG1TEMBT2N57V0tPBNAiTwctBpx2z/vWoG9U5s=
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 DXx4 work 21 altera_xcvr_functions 0 22 JL=?=LO24a5HkebVn2;Wm1
+Z2 !s110 1576762776
+!i10b 0
+!s100 geH1^Pm[?X2:i>0_LEzaY1
+IekKZ<RQSZjUAlmQN=@[C<3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+!i8a 332220512
+!s105 alt_xcvr_reset_counter_sv_unit
+S1
+Z4 dF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim
+Z5 w1576762776
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv
+Z6 L0 38
+Z7 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z8 !s108 1576762776.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv|
+!s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
+!i113 0
+Z9 o-sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161
+Z10 tCvgOpt 0
+n84fc752
+voS10a28XNYG1ImBY4cfi0A==
+R0
+Z11 !s110 1576762775
+!i10b 0
+!s100 :NQYf<5UjiZebbhR_kdGS0
+I33c]X;icWMBKN7g2:H>RX3
+R3
+!i119 1
+!i8a 1116053504
+!s105 alt_xcvr_resync_sv_unit
+S1
+R4
+Z12 w1576762775
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv
+R6
+R7
+r1
+!s85 0
+31
+!s108 1576762775.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv|
+!s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
+!i113 0
+R9
+R10
+nce26b13
+X6P6FCVfmt3BxC01Uce5xUrILMvLzQHvKD+T3bH9WLGw=
+R0
+R11
+!i10b 0
+!s100 jR]SUkTMP:8SGVU0kH9fX0
+IJL=?=LO24a5HkebVn2;Wm1
+VJL=?=LO24a5HkebVn2;Wm1
+!i119 1
+!i8a 64811840
+S1
+R4
+R12
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv
+R6
+R7
+r1
+!s85 0
+31
+!s108 1576762774.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv|
+!s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
+!i113 0
+R9
+R10
+n48ac723
+vbfmhhbLWvZmEDqiGPaV2GMmzNJrPH5YbasbbLxccADo=
+R0
+R1
+R2
+!i10b 0
+!s100 gml>03B;_RaOVGj?aTggF0
+I7[fVRYGUe`S1BogcN^35G2
+R3
+!i119 1
+!i8a 693517216
+!s105 altera_xcvr_reset_control_sv_unit
+S1
+R4
+R5
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv|
+!s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
+!i113 0
+R9
+R10
+n5c536c

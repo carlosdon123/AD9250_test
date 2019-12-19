@@ -1,0 +1,15 @@
+# # File gsaved with Nlview version 6.3.8  2013-12-19 bk=1.2992 VDI=34 GEI=35
+# 
+preplace inst tb_tx_phyrst_ctl.xcvr_reset_control_0 -pg 1 -lvl 1 -y 30
+preplace inst tb_tx_phyrst_ctl -pg 1 -lvl 1 -y 40 -regy -20
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)tb_tx_phyrst_ctl.clock,(SLAVE)xcvr_reset_control_0.clock) 1 0 1 NJ
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)tb_tx_phyrst_ctl.pll_select,(SLAVE)xcvr_reset_control_0.pll_select) 1 0 1 NJ
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)tb_tx_phyrst_ctl.pll_locked,(SLAVE)xcvr_reset_control_0.pll_locked) 1 0 1 NJ
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)tb_tx_phyrst_ctl.tx_cal_busy,(SLAVE)xcvr_reset_control_0.tx_cal_busy) 1 0 1 NJ
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)tb_tx_phyrst_ctl.tx_analogreset,(SLAVE)xcvr_reset_control_0.tx_analogreset) 1 0 1 NJ
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)xcvr_reset_control_0.pll_powerdown,(SLAVE)tb_tx_phyrst_ctl.pll_powerdown) 1 0 1 NJ
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)tb_tx_phyrst_ctl.tx_digitalreset,(SLAVE)xcvr_reset_control_0.tx_digitalreset) 1 0 1 NJ
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)xcvr_reset_control_0.reset,(SLAVE)tb_tx_phyrst_ctl.reset) 1 0 1 NJ
+preplace netloc EXPORT<net_container>tb_tx_phyrst_ctl</net_container>(SLAVE)xcvr_reset_control_0.tx_ready,(SLAVE)tb_tx_phyrst_ctl.tx_ready) 1 0 1 NJ
+levelinfo -pg 1 0 110 320
+levelinfo -hier tb_tx_phyrst_ctl 120 160 310

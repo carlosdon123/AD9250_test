@@ -1,0 +1,8 @@
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ../../ip_core/tb_tx_phyrst_ctl/tb_tx_phyrst_ctl.qip]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ../../ip_core/fifo_56_28/fifo_56_28/fifo_56_28.qip]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ../../ip_core/tx_jesd204b/tx_jesd204b.qip]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ../../ip_core/rom_port/rom_port.qip]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ../../ip_core/phyrst_controller/phyrst_controller.qip]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ../../ip_core/jesd204b/jesd204b.qip]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ../../ip_core/core_pll/core_pll.qip]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ../../ip_core/atx_pll/atx_pll.qip]

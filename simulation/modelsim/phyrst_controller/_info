@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/program/FPGA/AD9250/simulation/modelsim
+Jphyrst_controller_cfg
+!s110 1522725654
+!i10b 0
+!s100 35UYLAeK_TW`W7[X0i7LE1
+I3jSQFMT9EU`B28j@kHaEU3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1522721956
+8E:/program/FPGA/AD9250/phyrst_controller/synth/phyrst_controller_cfg.v
+FE:/program/FPGA/AD9250/phyrst_controller/synth/phyrst_controller_cfg.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1522725654.000000
+!s107 E:/program/FPGA/AD9250/phyrst_controller/synth/phyrst_controller_cfg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|phyrst_controller|+incdir+E:/program/FPGA/AD9250/phyrst_controller/synth|E:/program/FPGA/AD9250/phyrst_controller/synth/phyrst_controller_cfg.v|
+!i113 1
+o-vlog01compat -work phyrst_controller
+!s92 -vlog01compat -work phyrst_controller +incdir+E:/program/FPGA/AD9250/phyrst_controller/synth
+tCvgOpt 0

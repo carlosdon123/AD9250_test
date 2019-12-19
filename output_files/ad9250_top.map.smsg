@@ -1,0 +1,8 @@
+Warning (10268): Verilog HDL information at ramp_checker.sv(83): always construct contains both blocking and non-blocking assignments File: E:/program/FPGA/AD9250_test/src/ramp_checker.sv Line: 83
+Warning (10268): Verilog HDL information at spi_master.v(93): always construct contains both blocking and non-blocking assignments File: E:/program/FPGA/AD9250_test/src/spi_master.v Line: 93
+Info (10281): Verilog HDL Declaration information at control_unit.v(77): object "init_reset" differs only in case from object "INIT_RESET" in the same scope File: E:/program/FPGA/AD9250_test/src/control_unit.v Line: 77
+Info (10281): Verilog HDL Declaration information at control_unit.v(65): object "set_reset" differs only in case from object "SET_RESET" in the same scope File: E:/program/FPGA/AD9250_test/src/control_unit.v Line: 65
+Info (10281): Verilog HDL Declaration information at control_unit.v(66): object "clr_xcvr_reset" differs only in case from object "CLR_XCVR_RESET" in the same scope File: E:/program/FPGA/AD9250_test/src/control_unit.v Line: 66
+Info (10281): Verilog HDL Declaration information at control_unit.v(67): object "clr_avs_reset" differs only in case from object "CLR_AVS_RESET" in the same scope File: E:/program/FPGA/AD9250_test/src/control_unit.v Line: 67
+Info (10281): Verilog HDL Declaration information at control_unit.v(68): object "clr_core_reset" differs only in case from object "CLR_CORE_RESET" in the same scope File: E:/program/FPGA/AD9250_test/src/control_unit.v Line: 68
+Warning (10268): Verilog HDL information at ad9250_top.v(312): always construct contains both blocking and non-blocking assignments File: E:/program/FPGA/AD9250_test/src/ad9250_top.v Line: 312

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Apr 23 19:41:58 2018
+Quartus Prime Version : 16.1.2 Build 203 01/18/2017 SJ Standard Edition
+Revision Name : ad9250_top
+Top-level Entity Name : ad9250_top
+Family : Arria 10
+Logic utilization (in ALMs) : N/A
+Total registers : 1407
+Total pins : 40
+Total virtual pins : 0
+Total block memory bits : 4,480
+Total DSP Blocks : 1
+Total HSSI RX channels : 2
+Total HSSI TX channels : 0
+Total PLLs : 3

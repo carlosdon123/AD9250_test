@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo"
+   type="VERILOG"
+   library="core_pll_altera_iopll_161" />
+ <file path="sim/core_pll.v" type="VERILOG" hasInlineConfiguration="true" />
+ <topLevel name="core_pll" />
+ <deviceFamily name="arria10" />
+</simPackage>

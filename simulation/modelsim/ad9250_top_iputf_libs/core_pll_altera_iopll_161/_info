@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/program/FPGA/AD9250/simulation/modelsim
+vcore_pll_altera_iopll_161_ep46qai
+!s110 1576762818
+!i10b 1
+!s100 YB;^P2J=l27YYTS<mA5CV1
+IIFANhJfa>HhW4[>dNG5`[1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+dF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim
+w1523431580
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo
+L0 2
+OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1576762818.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo|-work|core_pll_altera_iopll_161|
+!i113 0
+Z2 o-work core_pll_altera_iopll_161
+Z3 tCvgOpt 0
+vcore_pll_altera_iopll_161_qg7ebya
+!s110 1523323313
+!i10b 1
+!s100 LbNLfnbU^U4JXPL2g6>T72
+I;BfDFQ;YaR7kU`kHDek>R1
+R1
+R0
+w1522657490
+8E:/program/FPGA/AD9250/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_qg7ebya.vo
+FE:/program/FPGA/AD9250/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_qg7ebya.vo
+L0 2
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1523323313.000000
+!s107 E:/program/FPGA/AD9250/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_qg7ebya.vo|
+!s90 -reportprogress|300|E:/program/FPGA/AD9250/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_qg7ebya.vo|-work|core_pll_altera_iopll_161|
+!i113 1
+R2
+R3
+vcore_pll_altera_iopll_161_ziurrki
+!s110 1523429647
+!i10b 1
+!s100 HBJR1hj]ga`E7lnZbhE:j2
+IY4@LOa]5IA8AOmJPi`z9W1
+R1
+R0
+w1523329916
+8E:/program/FPGA/AD9250/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ziurrki.vo
+FE:/program/FPGA/AD9250/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ziurrki.vo
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1523429647.000000
+!s107 E:/program/FPGA/AD9250/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ziurrki.vo|
+!s90 -reportprogress|300|E:/program/FPGA/AD9250/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ziurrki.vo|-work|core_pll_altera_iopll_161|
+!i113 1
+R2
+R3

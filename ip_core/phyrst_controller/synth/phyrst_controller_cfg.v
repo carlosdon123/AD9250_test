@@ -1,0 +1,5 @@
+config phyrst_controller_cfg;
+		design phyrst_controller;
+		instance phyrst_controller.xcvr_reset_control_0 use phyrst_controller_altera_xcvr_reset_control_161.altera_xcvr_reset_control;
+endconfig
+

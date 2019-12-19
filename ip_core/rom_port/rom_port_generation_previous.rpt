@@ -1,0 +1,92 @@
+Info: Starting: Create simulation model
+Info: qsys-generate E:\program\FPGA\AD9250\rom_port.qsys --simulation=VERILOG --allow-mixed-language-simulation --output-directory=E:\program\FPGA\AD9250\rom_port --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/rom_port.qsys
+Progress: Reading input file
+Progress: Adding rom_1port_0 [rom_1port 16.1]
+Progress: Parameterizing module rom_1port_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+: rom_port.rom_1port_0: Targeting device family: Arria 10.
+: rom_port.rom_1port_0: The initial content file can only conforms to PORT_A's dimensions for ROM:1-PORT.
+Warning: rom_port.rom_1port_0: Initialization data file containing the initial memory content must be specified.
+Info: rom_port: "Transforming system: rom_port"
+Info: rom_port: Running transform generation_view_transform
+Info: rom_port: Running transform generation_view_transform took 0.000s
+Info: rom_1port_0: Running transform generation_view_transform
+Info: rom_1port_0: Running transform generation_view_transform took 0.000s
+Info: rom_port: Running transform merlin_avalon_transform
+Info: rom_port: Running transform merlin_avalon_transform took 0.033s
+Info: rom_port: "Naming system components in system: rom_port"
+Info: rom_port: "Processing generation queue"
+Info: rom_port: "Generating: rom_port"
+Info: rom_port: "Generating: rom_port_rom_1port_161_hb5ktxq"
+Error: rom_1port_0: Generation is not complete if you did not specify a file containing the initial memory content.
+Info: rom_port: Done "rom_port" with 2 modules, 2 files
+Error: qsys-generate failed with exit code 1: 1 Error, 1 Warning
+Info: Finished: Create simulation model
+Info: Starting: Create Modelsim Project.
+Info: sim-script-gen --spd=E:\program\FPGA\AD9250\rom_port\rom_port.spd --output-directory=E:/program/FPGA/AD9250/rom_port/sim/ --use-relative-paths=true
+Info: Doing: ip-make-simscript --spd=E:\program\FPGA\AD9250\rom_port\rom_port.spd --output-directory=E:/program/FPGA/AD9250/rom_port/sim/ --use-relative-paths=true
+Info: Generating the following file(s) for MODELSIM simulator in E:/program/FPGA/AD9250/rom_port/sim/ directory:
+Info: 	mentor/msim_setup.tcl
+Info: Generating the following file(s) for VCS simulator in E:/program/FPGA/AD9250/rom_port/sim/ directory:
+Info: 	synopsys/vcs/vcs_setup.sh
+Info: Generating the following file(s) for VCSMX simulator in E:/program/FPGA/AD9250/rom_port/sim/ directory:
+Info: 	synopsys/vcsmx/synopsys_sim.setup
+Info: 	synopsys/vcsmx/vcsmx_setup.sh
+Info: Generating the following file(s) for NCSIM simulator in E:/program/FPGA/AD9250/rom_port/sim/ directory:
+Info: 	cadence/cds.lib
+Info: 	cadence/hdl.var
+Info: 	cadence/ncsim_setup.sh
+Info: 	1 .cds.lib files in cadence/cds_libs/ directory
+Info: Generating the following file(s) for RIVIERA simulator in E:/program/FPGA/AD9250/rom_port/sim/ directory:
+Info: 	aldec/rivierapro_setup.tcl
+Info: For information on how to simulate your IP, see the explanatory comments in the simulator-specific subdirectories under E:/program/FPGA/AD9250/rom_port/sim/.
+Info: Regenerate these scripts whenever you make any change to any Quartus-generated IP in your project.
+Info: Finished: Create Modelsim Project.
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate E:\program\FPGA\AD9250\rom_port.qsys --block-symbol-file --output-directory=E:\program\FPGA\AD9250\rom_port --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/rom_port.qsys
+Progress: Reading input file
+Progress: Adding rom_1port_0 [rom_1port 16.1]
+Progress: Parameterizing module rom_1port_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+: rom_port.rom_1port_0: Targeting device family: Arria 10.
+: rom_port.rom_1port_0: The initial content file can only conforms to PORT_A's dimensions for ROM:1-PORT.
+Warning: rom_port.rom_1port_0: Initialization data file containing the initial memory content must be specified.
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate E:\program\FPGA\AD9250\rom_port.qsys --synthesis=VERILOG --output-directory=E:\program\FPGA\AD9250\rom_port --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading AD9250/rom_port.qsys
+Progress: Reading input file
+Progress: Adding rom_1port_0 [rom_1port 16.1]
+Progress: Parameterizing module rom_1port_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+: rom_port.rom_1port_0: Targeting device family: Arria 10.
+: rom_port.rom_1port_0: The initial content file can only conforms to PORT_A's dimensions for ROM:1-PORT.
+Warning: rom_port.rom_1port_0: Initialization data file containing the initial memory content must be specified.
+Info: rom_port: "Transforming system: rom_port"
+Info: rom_port: Running transform generation_view_transform
+Info: rom_port: Running transform generation_view_transform took 0.000s
+Info: rom_1port_0: Running transform generation_view_transform
+Info: rom_1port_0: Running transform generation_view_transform took 0.000s
+Info: rom_port: Running transform merlin_avalon_transform
+Info: rom_port: Running transform merlin_avalon_transform took 0.008s
+Info: rom_port: "Naming system components in system: rom_port"
+Info: rom_port: "Processing generation queue"
+Info: rom_port: "Generating: rom_port"
+Info: rom_port: "Generating: rom_port_rom_1port_161_hb5ktxq"
+Error: rom_1port_0: Generation is not complete if you did not specify a file containing the initial memory content.
+Info: rom_port: Done "rom_port" with 2 modules, 3 files
+Error: qsys-generate failed with exit code 1: 1 Error, 1 Warning
+Info: Finished: Create HDL design files for synthesis

@@ -1,0 +1,202 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/program/FPGA/AD9250/simulation/modelsim
+vUsjcLOr0Jetm7P1wYeVjQdcb+FOimicEpBgVX/lztVA=
+Z0 !s110 1576762808
+!i10b 0
+!s100 @WC?^l5KHK]4k4COGYUR^2
+I^gOYb:RFfm[iMiJ;0cLKY0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+!i8a 1563403632
+Z2 dF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim
+Z3 w1576762808
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_dec.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_dec.v
+Z4 L0 38
+Z5 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z6 !s108 1576762808.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_dec.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_dec.v|-work|jesd204b_altera_jesd204_rx_mlpcs_161|
+!i113 0
+Z7 o-work jesd204b_altera_jesd204_rx_mlpcs_161
+Z8 tCvgOpt 0
+nbd1113
+vwdBq98aaKdrrNwgcpKTImaDL3pwyiFIR9yC36EOkgkC8jQCr1WZfVH8ZOSmr1zRZ
+!s110 1576762811
+!i10b 0
+!s100 X]R48e0DKTl=3GTZVz0lb3
+I_iZDRGODWDdMAZ5ed9AK02
+R1
+!i119 1
+!i8a 381104976
+R2
+w1576762811
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v
+R4
+R5
+r1
+!s85 0
+31
+Z9 !s108 1576762810.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v|-work|jesd204b_altera_jesd204_rx_mlpcs_161|
+!i113 0
+R7
+R8
+n709d33f
+vuNRk7mtpbx5gURfE7xvYsRFCwAPZowyFiq5UXfOhUBE=
+Z10 !s110 1576762810
+!i10b 0
+!s100 4IWh84A0jcVe3Sff:He4b0
+IcHQ`]SomloX9FD@gg7nEV3
+R1
+!i119 1
+!i8a 1304466176
+R2
+Z11 w1576762810
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v|-work|jesd204b_altera_jesd204_rx_mlpcs_161|
+!i113 0
+R7
+R8
+n36827f
+veCXyVpZ63MAyxQtpuUXD3sIzux7Evib88zM0RpSzd5c=
+R0
+!i10b 0
+!s100 hWBdT22z`nb>KE>KRW[bX1
+I5aHzmJiRCbPdWfYRkH[eg2
+R1
+!i119 1
+!i8a 1500974656
+R2
+R3
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_mlpcs.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_mlpcs.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1576762807.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_mlpcs.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_mlpcs.v|-work|jesd204b_altera_jesd204_rx_mlpcs_161|
+!i113 0
+R7
+R8
+n32f8663
+vOpkR/lbP1fbyqxoqn3S3+ctmHBmyGEatF9K80ZlbRNI=
+Z12 !s110 1576762809
+!i10b 0
+!s100 GS@hGg5NPKIT4FQ;bfP?80
+IzVN<9QjUQ56:^kfhGiofP2
+R1
+!i119 1
+!i8a 1720848496
+R2
+Z13 w1576762809
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_pcs.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_pcs.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_pcs.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_pcs.v|-work|jesd204b_altera_jesd204_rx_mlpcs_161|
+!i113 0
+R7
+R8
+nc32b13
+vmGyEUaZ+maA5IuoEkIw6sQ2e4Xvk5Rbr2oJq5kpV6/U=
+R12
+!i10b 0
+!s100 dALI1Aoo9SV3nnYejzW3;2
+IGWHE890XnUfADbLL_lK<L0
+R1
+!i119 1
+!i8a 1912463328
+R2
+R13
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wa.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wa.v
+R4
+R5
+r1
+!s85 0
+31
+Z14 !s108 1576762809.000000
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wa.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wa.v|-work|jesd204b_altera_jesd204_rx_mlpcs_161|
+!i113 0
+R7
+R8
+nf4db081
+vtCdePyZuIoLrVK5sIFwLo76SIafochFK+4ubttMHqs8=
+R12
+!i10b 0
+!s100 gD]ae=1dKFTln=`a[Jn=F1
+IhPWkiYN5<10<E8<6Og7>K0
+R1
+!i119 1
+!i8a 537868368
+R2
+R13
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v
+R4
+R5
+r1
+!s85 0
+31
+R14
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v|-work|jesd204b_altera_jesd204_rx_mlpcs_161|
+!i113 0
+R7
+R8
+ncfd98c4
+vipBlFKs0J/gfr/H7luw9AEnNK12BUH18VMNMOTQxwBY=
+R10
+!i10b 0
+!s100 SL5Czz^FINC5H5a:9oS?51
+I9YBh>Um5F;PG5YkCNVXR^1
+R1
+!i119 1
+!i8a 224313168
+R2
+R11
+8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_dec.v
+FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_dec.v
+R4
+R5
+r1
+!s85 0
+31
+R14
+!s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_dec.v|
+!s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_dec.v|-work|jesd204b_altera_jesd204_rx_mlpcs_161|
+!i113 0
+R7
+R8
+n4ab3953

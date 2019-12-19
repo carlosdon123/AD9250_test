@@ -1,0 +1,192 @@
+Info: Starting: Create simulation model
+Info: qsys-generate E:\program\FPGA\AD9250_test\ip_core\tx_jesd204b.qsys --simulation=VERILOG --allow-mixed-language-simulation --output-directory=E:\program\FPGA\AD9250_test\ip_core\tx_jesd204b --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading ip_core/tx_jesd204b.qsys
+Progress: Reading input file
+Progress: Adding jesd204_0 [altera_jesd204 16.1]
+Progress: Parameterizing module jesd204_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: tx_jesd204b.jesd204_0: The IP core simulation testbench (ip_sim) is generated when the Generate Example Design button is pushed
+Info: tx_jesd204b.jesd204_0: No example  design that matches the parameters selected in the IP tab is available.
+Warning: tx_jesd204b.jesd204_0: Generic example design parameter selection may not match the parameters selected in the IP tab. Refer to the JESD204B User Guide for more details on the generic example design parameter assignments.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: Simplified data interface has been enabled. The Native PHY will present the data/control interface for the current configuration only. Dynamic reconfiguration of the data interface cannot be supported. The unused_tx_parallel_data and unused_tx_control ports should be connected to 0.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: For the selected device(10AS027H4F34I3SG), transceiver speed grade is 4 and core speed grade is 3.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: Note - The external TX PLL IP must be configured with an output clock frequency of 2000.0 MHz.
+Info: tx_jesd204b: "Transforming system: tx_jesd204b"
+Info: tx_jesd204b: Running transform generation_view_transform
+Info: tx_jesd204b: Running transform generation_view_transform took 0.000s
+Info: jesd204_0: Running transform generation_view_transform
+Info: jesd204_0: Running transform generation_view_transform took 0.000s
+Info: inst_clk_bridge: Running transform generation_view_transform
+Info: inst_clk_bridge: Running transform generation_view_transform took 0.000s
+Info: inst_rst_n_bridge: Running transform generation_view_transform
+Info: inst_rst_n_bridge: Running transform generation_view_transform took 0.000s
+Info: inst_tx: Running transform generation_view_transform
+Info: inst_tx: Running transform generation_view_transform took 0.000s
+Info: inst_phy: Running transform generation_view_transform
+Info: inst_phy: Running transform generation_view_transform took 0.000s
+Info: inst_tx_mlpcs: Running transform generation_view_transform
+Info: inst_tx_mlpcs: Running transform generation_view_transform took 0.000s
+Info: inst_phy_adapter: Running transform generation_view_transform
+Info: inst_phy_adapter: Running transform generation_view_transform took 0.000s
+Info: inst_xcvr: Running transform generation_view_transform
+Info: inst_xcvr: Running transform generation_view_transform took 0.000s
+Info: tx_jesd204b: Running transform merlin_avalon_transform
+Info: tx_jesd204b: Running transform merlin_avalon_transform took 0.037s
+Info: jesd204_0: Running transform merlin_avalon_transform
+Info: jesd204_0: Running transform merlin_avalon_transform took 0.009s
+Info: inst_phy: Running transform merlin_avalon_transform
+Info: inst_phy: Running transform merlin_avalon_transform took 0.007s
+Info: tx_jesd204b: "Naming system components in system: tx_jesd204b"
+Info: tx_jesd204b: "Processing generation queue"
+Info: tx_jesd204b: "Generating: tx_jesd204b"
+Info: tx_jesd204b: "Generating: tx_jesd204b_altera_jesd204_161_py6ow4q"
+Info: tx_jesd204b: "Generating: altera_jesd204_tx_base"
+Info: tx_jesd204b: "Generating: tx_jesd204b_altera_jesd204_phy_161_bhvxniy"
+Info: tx_jesd204b: "Generating: altera_jesd204_tx_mlpcs"
+Info: tx_jesd204b: "Generating: altera_jesd204_phy_adapter_xs"
+Info: tx_jesd204b: "Generating: tx_jesd204b_altera_xcvr_native_a10_161_6d2kjaq"
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_resync.sv SYSTEM_VERILOG PATH ../../../../altera_xcvr_generic/ctrl/alt_xcvr_resync.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_arbiter.sv SYSTEM_VERILOG PATH ../../../../altera_xcvr_generic/ctrl/alt_xcvr_arbiter.sv
+Info: inst_xcvr: add_fileset_file ./mentor/alt_xcvr_resync.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../../altera_xcvr_generic/mentor/ctrl/alt_xcvr_resync.sv MENTOR_SPECIFIC
+Info: inst_xcvr: add_fileset_file ./mentor/alt_xcvr_arbiter.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../../altera_xcvr_generic/mentor/ctrl/alt_xcvr_arbiter.sv MENTOR_SPECIFIC
+Info: inst_xcvr: add_fileset_file ./twentynm_pcs.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_pcs.sv
+Info: inst_xcvr: add_fileset_file ./twentynm_pma.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_pma.sv
+Info: inst_xcvr: add_fileset_file ./twentynm_xcvr_avmm.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_xcvr_avmm.sv
+Info: inst_xcvr: add_fileset_file ./twentynm_xcvr_native.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_xcvr_native.sv
+Info: inst_xcvr: add_fileset_file ./mentor/twentynm_pcs.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../alt_xcvr_core/nf/mentor/twentynm_pcs.sv MENTOR_SPECIFIC
+Info: inst_xcvr: add_fileset_file ./mentor/twentynm_pma.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../alt_xcvr_core/nf/mentor/twentynm_pma.sv MENTOR_SPECIFIC
+Info: inst_xcvr: add_fileset_file ./mentor/twentynm_xcvr_avmm.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../alt_xcvr_core/nf/mentor/twentynm_xcvr_avmm.sv MENTOR_SPECIFIC
+Info: inst_xcvr: add_fileset_file ./mentor/twentynm_xcvr_native.sv SYSTEM_VERILOG_ENCRYPT PATH ../../../alt_xcvr_core/nf/mentor/twentynm_xcvr_native.sv MENTOR_SPECIFIC
+Info: inst_xcvr: add_fileset_file ./altera_xcvr_native_a10_functions_h.sv SYSTEM_VERILOG PATH ..//altera_xcvr_native_a10_functions_h.sv
+Info: inst_xcvr: add_fileset_file ./a10_avmm_h.sv SYSTEM_VERILOG PATH ..//a10_avmm_h.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_pipe_retry.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_pipe_retry.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_avmm_csr.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_avmm_csr.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_prbs_accum.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_prbs_accum.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_odi_accel.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_odi_accel.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_rcfg_arb.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_rcfg_arb.sv
+Info: inst_xcvr: add_fileset_file ./altera_xcvr_native_pcie_dfe_params_h.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/altera_xcvr_native_pcie_dfe_params_h.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_commands_h.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_commands_h.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_functions_h.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_functions_h.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_program.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_program.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_cpu.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_cpu.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_master.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_master.sv
+Info: inst_xcvr: add_fileset_file ./altera_xcvr_native_pcie_dfe_ip.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/altera_xcvr_native_pcie_dfe_ip.sv
+Info: tx_jesd204b: Done "tx_jesd204b" with 7 modules, 67 files
+Info: qsys-generate succeeded.
+Info: Finished: Create simulation model
+Info: Starting: Create Modelsim Project.
+Info: sim-script-gen --spd=E:\program\FPGA\AD9250_test\ip_core\tx_jesd204b\tx_jesd204b.spd --output-directory=E:/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/ --use-relative-paths=true
+Info: Doing: ip-make-simscript --spd=E:\program\FPGA\AD9250_test\ip_core\tx_jesd204b\tx_jesd204b.spd --output-directory=E:/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/ --use-relative-paths=true
+Info: Generating the following file(s) for MODELSIM simulator in E:/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/ directory:
+Info: 	mentor/msim_setup.tcl
+Info: Generating the following file(s) for VCS simulator in E:/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/ directory:
+Info: 	synopsys/vcs/vcs_setup.sh
+Info: Generating the following file(s) for VCSMX simulator in E:/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/ directory:
+Info: 	synopsys/vcsmx/synopsys_sim.setup
+Info: 	synopsys/vcsmx/vcsmx_setup.sh
+Info: Generating the following file(s) for NCSIM simulator in E:/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/ directory:
+Info: 	cadence/cds.lib
+Info: 	cadence/hdl.var
+Info: 	cadence/ncsim_setup.sh
+Info: 	4 .cds.lib files in cadence/cds_libs/ directory
+Info: Generating the following file(s) for RIVIERA simulator in E:/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/ directory:
+Info: 	aldec/rivierapro_setup.tcl
+Info: For information on how to simulate your IP, see the explanatory comments in the simulator-specific subdirectories under E:/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/.
+Info: Regenerate these scripts whenever you make any change to any Quartus-generated IP in your project.
+Info: Finished: Create Modelsim Project.
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate E:\program\FPGA\AD9250_test\ip_core\tx_jesd204b.qsys --block-symbol-file --output-directory=E:\program\FPGA\AD9250_test\ip_core\tx_jesd204b --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading ip_core/tx_jesd204b.qsys
+Progress: Reading input file
+Progress: Adding jesd204_0 [altera_jesd204 16.1]
+Progress: Parameterizing module jesd204_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: tx_jesd204b.jesd204_0: The IP core simulation testbench (ip_sim) is generated when the Generate Example Design button is pushed
+Info: tx_jesd204b.jesd204_0: No example  design that matches the parameters selected in the IP tab is available.
+Warning: tx_jesd204b.jesd204_0: Generic example design parameter selection may not match the parameters selected in the IP tab. Refer to the JESD204B User Guide for more details on the generic example design parameter assignments.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: Simplified data interface has been enabled. The Native PHY will present the data/control interface for the current configuration only. Dynamic reconfiguration of the data interface cannot be supported. The unused_tx_parallel_data and unused_tx_control ports should be connected to 0.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: For the selected device(10AS027H4F34I3SG), transceiver speed grade is 4 and core speed grade is 3.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: Note - The external TX PLL IP must be configured with an output clock frequency of 2000.0 MHz.
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate E:\program\FPGA\AD9250_test\ip_core\tx_jesd204b.qsys --synthesis=VERILOG --output-directory=E:\program\FPGA\AD9250_test\ip_core\tx_jesd204b --family="Arria 10" --part=10AS027H4F34I3SG
+Progress: Loading ip_core/tx_jesd204b.qsys
+Progress: Reading input file
+Progress: Adding jesd204_0 [altera_jesd204 16.1]
+Progress: Parameterizing module jesd204_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: tx_jesd204b.jesd204_0: The IP core simulation testbench (ip_sim) is generated when the Generate Example Design button is pushed
+Info: tx_jesd204b.jesd204_0: No example  design that matches the parameters selected in the IP tab is available.
+Warning: tx_jesd204b.jesd204_0: Generic example design parameter selection may not match the parameters selected in the IP tab. Refer to the JESD204B User Guide for more details on the generic example design parameter assignments.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: Simplified data interface has been enabled. The Native PHY will present the data/control interface for the current configuration only. Dynamic reconfiguration of the data interface cannot be supported. The unused_tx_parallel_data and unused_tx_control ports should be connected to 0.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: For the selected device(10AS027H4F34I3SG), transceiver speed grade is 4 and core speed grade is 3.
+Info: tx_jesd204b.jesd204_0.inst_phy.inst_xcvr: Note - The external TX PLL IP must be configured with an output clock frequency of 2000.0 MHz.
+Info: tx_jesd204b: "Transforming system: tx_jesd204b"
+Info: tx_jesd204b: Running transform generation_view_transform
+Info: tx_jesd204b: Running transform generation_view_transform took 0.000s
+Info: jesd204_0: Running transform generation_view_transform
+Info: jesd204_0: Running transform generation_view_transform took 0.000s
+Info: inst_clk_bridge: Running transform generation_view_transform
+Info: inst_clk_bridge: Running transform generation_view_transform took 0.000s
+Info: inst_rst_n_bridge: Running transform generation_view_transform
+Info: inst_rst_n_bridge: Running transform generation_view_transform took 0.000s
+Info: inst_tx: Running transform generation_view_transform
+Info: inst_tx: Running transform generation_view_transform took 0.000s
+Info: inst_phy: Running transform generation_view_transform
+Info: inst_phy: Running transform generation_view_transform took 0.000s
+Info: inst_tx_mlpcs: Running transform generation_view_transform
+Info: inst_tx_mlpcs: Running transform generation_view_transform took 0.000s
+Info: inst_phy_adapter: Running transform generation_view_transform
+Info: inst_phy_adapter: Running transform generation_view_transform took 0.000s
+Info: inst_xcvr: Running transform generation_view_transform
+Info: inst_xcvr: Running transform generation_view_transform took 0.000s
+Info: tx_jesd204b: Running transform merlin_avalon_transform
+Info: tx_jesd204b: Running transform merlin_avalon_transform took 0.008s
+Info: jesd204_0: Running transform merlin_avalon_transform
+Info: jesd204_0: Running transform merlin_avalon_transform took 0.007s
+Info: inst_phy: Running transform merlin_avalon_transform
+Info: inst_phy: Running transform merlin_avalon_transform took 0.007s
+Info: tx_jesd204b: "Naming system components in system: tx_jesd204b"
+Info: tx_jesd204b: "Processing generation queue"
+Info: tx_jesd204b: "Generating: tx_jesd204b"
+Info: tx_jesd204b: "Generating: tx_jesd204b_altera_jesd204_161_py6ow4q"
+Info: tx_jesd204b: "Generating: altera_jesd204_tx_base"
+Info: tx_jesd204b: "Generating: tx_jesd204b_altera_jesd204_phy_161_bhvxniy"
+Info: tx_jesd204b: "Generating: altera_jesd204_tx_mlpcs"
+Info: tx_jesd204b: "Generating: altera_jesd204_phy_adapter_xs"
+Info: tx_jesd204b: "Generating: tx_jesd204b_altera_xcvr_native_a10_161_6d2kjaq"
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_resync.sv SYSTEM_VERILOG PATH ../../../../altera_xcvr_generic/ctrl/alt_xcvr_resync.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_arbiter.sv SYSTEM_VERILOG PATH ../../../../altera_xcvr_generic/ctrl/alt_xcvr_arbiter.sv
+Info: inst_xcvr: add_fileset_file ./twentynm_pcs.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_pcs.sv
+Info: inst_xcvr: add_fileset_file ./twentynm_pma.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_pma.sv
+Info: inst_xcvr: add_fileset_file ./twentynm_xcvr_avmm.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_xcvr_avmm.sv
+Info: inst_xcvr: add_fileset_file ./twentynm_xcvr_native.sv SYSTEM_VERILOG PATH ../../../alt_xcvr_core/nf/twentynm_xcvr_native.sv
+Info: inst_xcvr: add_fileset_file ./altera_xcvr_native_a10_functions_h.sv SYSTEM_VERILOG PATH ..//altera_xcvr_native_a10_functions_h.sv
+Info: inst_xcvr: add_fileset_file ./a10_avmm_h.sv SYSTEM_VERILOG PATH ..//a10_avmm_h.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_pipe_retry.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_pipe_retry.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_avmm_csr.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_avmm_csr.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_prbs_accum.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_prbs_accum.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_odi_accel.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_odi_accel.sv
+Info: inst_xcvr: add_fileset_file ./alt_xcvr_native_rcfg_arb.sv SYSTEM_VERILOG PATH ..//alt_xcvr_native_rcfg_arb.sv
+Info: inst_xcvr: add_fileset_file ./altera_xcvr_native_a10_false_paths.sdc SDC PATH ..//altera_xcvr_native_a10_false_paths.sdc
+Info: inst_xcvr: add_fileset_file ./altera_xcvr_native_pcie_dfe_params_h.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/altera_xcvr_native_pcie_dfe_params_h.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_commands_h.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_commands_h.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_functions_h.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_functions_h.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_program.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_program.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_cpu.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_cpu.sv
+Info: inst_xcvr: add_fileset_file ./pcie_mgmt_master.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/pcie_mgmt_master.sv
+Info: inst_xcvr: add_fileset_file ./altera_xcvr_native_pcie_dfe_ip.sv SYSTEM_VERILOG PATH ../pcie_dfe_ip/altera_xcvr_native_pcie_dfe_ip.sv
+Info: tx_jesd204b: Done "tx_jesd204b" with 7 modules, 52 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deploy
+ date="2018.04.19.10:58:21"
+ outputDirectory="E:/program/FPGA/AD9250/rom_port/">
+ <perimeter>
+  <parameter
+     name="AUTO_GENERATION_ID"
+     type="Integer"
+     defaultValue="0"
+     onHdl="0"
+     affectsHdl="1" />
+  <parameter
+     name="AUTO_UNIQUE_ID"
+     type="String"
+     defaultValue=""
+     onHdl="0"
+     affectsHdl="1" />
+  <parameter
+     name="AUTO_DEVICE_FAMILY"
+     type="String"
+     defaultValue="Arria 10"
+     onHdl="0"
+     affectsHdl="1" />
+  <parameter
+     name="AUTO_DEVICE"
+     type="String"
+     defaultValue="10AS027H4F34I3SG"
+     onHdl="0"
+     affectsHdl="1" />
+  <parameter
+     name="AUTO_DEVICE_SPEEDGRADE"
+     type="String"
+     defaultValue="3"
+     onHdl="0"
+     affectsHdl="1" />
+  <interface name="rom_input" kind="conduit" start="0">
+   <property name="associatedClock" value="" />
+   <property name="associatedReset" value="" />
+   <port name="address" direction="input" role="address" width="6" />
+   <port name="clock" direction="input" role="clk" width="1" />
+   <port name="clken" direction="input" role="clken" width="1" />
+  </interface>
+  <interface name="rom_output" kind="conduit" start="0">
+   <property name="associatedClock" value="" />
+   <property name="associatedReset" value="" />
+   <port name="q" direction="output" role="dataout" width="24" />
+  </interface>
+ </perimeter>
+ <entity kind="rom_port" version="1.0" name="rom_port">
+  <parameter name="AUTO_GENERATION_ID" value="1524106701" />
+  <parameter name="AUTO_DEVICE" value="10AS027H4F34I3SG" />
+  <parameter name="AUTO_DEVICE_FAMILY" value="Arria 10" />
+  <parameter name="AUTO_UNIQUE_ID" value="" />
+  <parameter name="AUTO_DEVICE_SPEEDGRADE" value="3" />
+  <generatedFiles>
+   <file
+       path="E:\program\FPGA\AD9250\rom_port\synth\rom_port.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+   <file
+       path="E:\program\FPGA\AD9250\rom_port\synth\rom_port_cfg.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+  </generatedFiles>
+  <childGeneratedFiles>
+   <file
+       path="E:\program\FPGA\AD9250\rom_port\synth\rom_port.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+   <file
+       path="E:\program\FPGA\AD9250\rom_port\synth\rom_port_cfg.v"
+       attributes="CONTAINS_INLINE_CONFIGURATION" />
+  </childGeneratedFiles>
+  <sourceFiles>
+   <file path="E:/program/FPGA/AD9250/rom_port.qsys" />
+  </sourceFiles>
+  <childSourceFiles>
+   <file
+       path="D:/intelfpga/16.1/ip/altera/megafunctions/rom_1port/rom_1_port_hw.tcl" />
+  </childSourceFiles>
+  <messages>
+   <message level="Info" culprit="rom_port">"Generating: rom_port"</message>
+   <message level="Info" culprit="rom_port">"Generating: rom_port_rom_1port_161_m5cej6i"</message>
+  </messages>
+ </entity>
+ <entity kind="rom_1port" version="16.1" name="rom_port_rom_1port_161_m5cej6i">
+  <parameter name="GUI_CLOCK_ENABLE_INPUT_A" value="false" />
+  <parameter name="GUI_NUMWORDS_A" value="64" />
+  <parameter name="DEVICE_FAMILY" value="Arria 10" />
+  <parameter name="GUI_RAM_BLOCK_TYPE" value="Auto" />
+  <parameter name="GUI_SingleClock" value="0" />
+  <parameter name="GUI_AclrAddr" value="false" />
+  <parameter name="GUI_INIT_FILE_LAYOUT" value="PORT_A" />
+  <parameter name="GUI_MAXIMUM_DEPTH" value="0" />
+  <parameter name="GUI_RegOutput" value="true" />
+  <parameter name="GUI_CLOCK_ENABLE_OUTPUT_A" value="true" />
+  <parameter name="GUI_RESOURCE_USAGE" value="1 M20K" />
+  <parameter name="GUI_rden" value="false" />
+  <parameter name="GUI_JTAG_ID" value="NONE" />
+  <parameter name="GUI_WIDTH_A" value="24" />
+  <parameter name="GUI_FORCE_TO_ZERO" value="false" />
+  <parameter
+     name="GUI_MIFfilename"
+     value="E:/program/FPGA/AD9250/rom_port/adc.mif" />
+  <parameter name="GUI_RegAddr" value="true" />
+  <parameter name="GUI_JTAG_ENABLED" value="false" />
+  <parameter name="GUI_INIT_TO_SIM_X" value="false" />
+  <parameter name="GUI_AclrOutput" value="false" />
+  <parameter name="GUI_WIDTHAD_A" value="6" />
+  <parameter name="GUI_ADDRESSSTALL_A" value="false" />
+  <parameter name="GUI_FILE_REFERENCE" value="0" />
+  <parameter name="GUI_TBENCH" value="false" />
+  <parameter name="GUI_SclrOutput" value="false" />
+  <parameter name="GUI_MODULE_NAME" value="altera_syncram" />
+  <parameter name="GUI_BlankMemory" value="1" />
+  <generatedFiles>
+   <file
+       path="E:\program\FPGA\AD9250\rom_port\rom_1port_161\synth\rom_port_rom_1port_161_m5cej6i.v"
+       attributes="" />
+  </generatedFiles>
+  <childGeneratedFiles>
+   <file
+       path="E:\program\FPGA\AD9250\rom_port\rom_1port_161\synth\rom_port_rom_1port_161_m5cej6i.v"
+       attributes="" />
+  </childGeneratedFiles>
+  <sourceFiles>
+   <file
+       path="D:/intelfpga/16.1/ip/altera/megafunctions/rom_1port/rom_1_port_hw.tcl" />
+  </sourceFiles>
+  <childSourceFiles/>
+  <instantiator instantiator="rom_port" as="rom_1port_0" />
+  <messages>
+   <message level="Info" culprit="rom_port">"Generating: rom_port_rom_1port_161_m5cej6i"</message>
+  </messages>
+ </entity>
+</deploy>

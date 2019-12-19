@@ -9,7 +9,7 @@ z2
 cModel Technology
 dE:/program/FPGA/AD9250/simulation/modelsim
 vfifo_56_28_fifo_161_jjnbjqy
-!s110 1576762776
+!s110 1576764078
 !i10b 1
 !s100 iI:1^H7OPgS053AhAj0@k2
 IBP7kG1dH2^8MNW]0T^_<?0
@@ -23,7 +23,7 @@ OL;L;10.6d;65
 r1
 !s85 0
 31
-!s108 1576762776.000000
+!s108 1576764078.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/fifo_56_28/fifo_56_28/fifo_161/sim/fifo_56_28_fifo_161_jjnbjqy.v|
 !s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/fifo_56_28/fifo_56_28/fifo_161/sim/fifo_56_28_fifo_161_jjnbjqy.v|-work|fifo_56_28_fifo_161|
 !i113 0

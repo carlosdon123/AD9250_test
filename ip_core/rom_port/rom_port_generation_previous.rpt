@@ -10,21 +10,19 @@ Progress: Validating
 Progress: Done reading input file
 : rom_port.rom_1port_0: Targeting device family: Arria 10.
 : rom_port.rom_1port_0: The initial content file can only conforms to PORT_A's dimensions for ROM:1-PORT.
-Warning: rom_port.rom_1port_0: Initialization data file containing the initial memory content must be specified.
 Info: rom_port: "Transforming system: rom_port"
 Info: rom_port: Running transform generation_view_transform
 Info: rom_port: Running transform generation_view_transform took 0.000s
 Info: rom_1port_0: Running transform generation_view_transform
 Info: rom_1port_0: Running transform generation_view_transform took 0.000s
 Info: rom_port: Running transform merlin_avalon_transform
-Info: rom_port: Running transform merlin_avalon_transform took 0.033s
+Info: rom_port: Running transform merlin_avalon_transform took 0.007s
 Info: rom_port: "Naming system components in system: rom_port"
 Info: rom_port: "Processing generation queue"
 Info: rom_port: "Generating: rom_port"
-Info: rom_port: "Generating: rom_port_rom_1port_161_hb5ktxq"
-Error: rom_1port_0: Generation is not complete if you did not specify a file containing the initial memory content.
+Info: rom_port: "Generating: rom_port_rom_1port_161_m5cej6i"
 Info: rom_port: Done "rom_port" with 2 modules, 2 files
-Error: qsys-generate failed with exit code 1: 1 Error, 1 Warning
+Info: qsys-generate succeeded.
 Info: Finished: Create simulation model
 Info: Starting: Create Modelsim Project.
 Info: sim-script-gen --spd=E:\program\FPGA\AD9250\rom_port\rom_port.spd --output-directory=E:/program/FPGA/AD9250/rom_port/sim/ --use-relative-paths=true
@@ -58,7 +56,6 @@ Progress: Validating
 Progress: Done reading input file
 : rom_port.rom_1port_0: Targeting device family: Arria 10.
 : rom_port.rom_1port_0: The initial content file can only conforms to PORT_A's dimensions for ROM:1-PORT.
-Warning: rom_port.rom_1port_0: Initialization data file containing the initial memory content must be specified.
 Info: qsys-generate succeeded.
 Info: Finished: Create block symbol file (.bsf)
 Info: 
@@ -74,19 +71,17 @@ Progress: Validating
 Progress: Done reading input file
 : rom_port.rom_1port_0: Targeting device family: Arria 10.
 : rom_port.rom_1port_0: The initial content file can only conforms to PORT_A's dimensions for ROM:1-PORT.
-Warning: rom_port.rom_1port_0: Initialization data file containing the initial memory content must be specified.
 Info: rom_port: "Transforming system: rom_port"
 Info: rom_port: Running transform generation_view_transform
 Info: rom_port: Running transform generation_view_transform took 0.000s
 Info: rom_1port_0: Running transform generation_view_transform
 Info: rom_1port_0: Running transform generation_view_transform took 0.000s
 Info: rom_port: Running transform merlin_avalon_transform
-Info: rom_port: Running transform merlin_avalon_transform took 0.008s
+Info: rom_port: Running transform merlin_avalon_transform took 0.013s
 Info: rom_port: "Naming system components in system: rom_port"
 Info: rom_port: "Processing generation queue"
 Info: rom_port: "Generating: rom_port"
-Info: rom_port: "Generating: rom_port_rom_1port_161_hb5ktxq"
-Error: rom_1port_0: Generation is not complete if you did not specify a file containing the initial memory content.
+Info: rom_port: "Generating: rom_port_rom_1port_161_m5cej6i"
 Info: rom_port: Done "rom_port" with 2 modules, 3 files
-Error: qsys-generate failed with exit code 1: 1 Error, 1 Warning
+Info: qsys-generate succeeded.
 Info: Finished: Create HDL design files for synthesis

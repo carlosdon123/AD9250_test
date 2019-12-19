@@ -5,4 +5,4 @@ set_global_assignment -library "lib_rom_port" -name SPD_FILE [file join $::quart
 set_global_assignment -library "lib_rom_port" -name MISC_FILE [file join $::quartus(sip_path) "../rom_port.qsys"]
 
 set_global_assignment -library "lib_rom_port" -name MISC_FILE [file join $::quartus(sip_path) "sim/rom_port.v"]
-set_global_assignment -library "lib_rom_port" -name MISC_FILE [file join $::quartus(sip_path) "rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v"]
+set_global_assignment -library "lib_rom_port" -name MISC_FILE [file join $::quartus(sip_path) "rom_1port_161/sim/rom_port_rom_1port_161_iitz24a.v"]

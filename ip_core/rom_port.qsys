@@ -6,7 +6,7 @@
    version="1.0"
    description=""
    tags="INTERNAL_COMPONENT=true"
-   categories="" />
+   categories="System" />
  <parameter name="bonusData"><![CDATA[bonusData 
 {
    element rom_1port_0
@@ -74,7 +74,7 @@
   <parameter name="GUI_JTAG_ENABLED" value="false" />
   <parameter name="GUI_JTAG_ID" value="NONE" />
   <parameter name="GUI_MAXIMUM_DEPTH" value="0" />
-  <parameter name="GUI_MIFfilename">E:/program/FPGA/AD9250/rom_port/adc.mif</parameter>
+  <parameter name="GUI_MIFfilename">F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250/rom_port/adc.mif</parameter>
   <parameter name="GUI_NUMWORDS_A" value="64" />
   <parameter name="GUI_RAM_BLOCK_TYPE" value="Auto" />
   <parameter name="GUI_RegAddr" value="true" />

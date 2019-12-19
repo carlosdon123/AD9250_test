@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dE:/program/FPGA/AD9250/simulation/modelsim
 vcore_pll_altera_iopll_161_ep46qai
-!s110 1576762818
+!s110 1576764120
 !i10b 1
 !s100 YB;^P2J=l27YYTS<mA5CV1
 IIFANhJfa>HhW4[>dNG5`[1
@@ -23,7 +23,7 @@ OL;L;10.6d;65
 r1
 !s85 0
 31
-!s108 1576762818.000000
+!s108 1576764120.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo|
 !s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo|-work|core_pll_altera_iopll_161|
 !i113 0

@@ -1,5 +1,5 @@
 
-# (C) 2001-2018 Altera Corporation. All rights reserved.
+# (C) 2001-2019 Altera Corporation. All rights reserved.
 # Your use of Altera Corporation's design tools, logic functions and 
 # other software and tools, and its AMPP partner logic functions, and 
 # any output files any of the foregoing (including device programming 
@@ -92,7 +92,7 @@
 # within the Quartus project, and generate a unified
 # script which supports all the Altera IP within the design.
 # ----------------------------------------
-# ACDS 16.1 203 win32 2018.04.19.10:58:20
+# ACDS 16.1 203 win32 2019.12.19.22:20:18
 
 # ----------------------------------------
 # Initialize variables
@@ -186,7 +186,7 @@ alias dev_com {
 # Compile the design files in correct order
 alias com {
   echo "\[exec\] com"
-  eval  vlog $USER_DEFINED_COMPILE_OPTIONS "$QSYS_SIMDIR/../rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v" -work rom_port_rom_1port_161
+  eval  vlog $USER_DEFINED_COMPILE_OPTIONS "$QSYS_SIMDIR/../rom_1port_161/sim/rom_port_rom_1port_161_iitz24a.v" -work rom_port_rom_1port_161
   eval  vlog $USER_DEFINED_COMPILE_OPTIONS "$QSYS_SIMDIR/rom_port.v"                                                                        
 }
 

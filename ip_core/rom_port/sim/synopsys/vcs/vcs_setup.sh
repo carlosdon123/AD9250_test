@@ -1,5 +1,5 @@
 
-# (C) 2001-2018 Altera Corporation. All rights reserved.
+# (C) 2001-2019 Altera Corporation. All rights reserved.
 # Your use of Altera Corporation's design tools, logic functions and 
 # other software and tools, and its AMPP partner logic functions, and 
 # any output files any of the foregoing (including device programming 
@@ -12,7 +12,7 @@
 # or its authorized distributors. Please refer to the applicable 
 # agreement for further details.
 
-# ACDS 16.1 203 win32 2018.04.19.10:58:20
+# ACDS 16.1 203 win32 2019.12.19.22:20:18
 
 # ----------------------------------------
 # vcs - auto-generated simulation script
@@ -94,7 +94,7 @@
 # within the Quartus project, and generate a unified
 # script which supports all the Altera IP within the design.
 # ----------------------------------------
-# ACDS 16.1 203 win32 2018.04.19.10:58:20
+# ACDS 16.1 203 win32 2019.12.19.22:20:18
 # ----------------------------------------
 # initialize variables
 TOP_LEVEL_NAME="rom_port"
@@ -142,7 +142,7 @@ vcs -lca -timescale=1ps/1ps -sverilog +verilog2001ext+.v -ntb_opts dtm $ELAB_OPT
   -v $QUARTUS_INSTALL_DIR/eda/sim_lib/twentynm_hssi_atoms.v \
   -v $QUARTUS_INSTALL_DIR/eda/sim_lib/synopsys/twentynm_hip_atoms_ncrypt.v \
   -v $QUARTUS_INSTALL_DIR/eda/sim_lib/twentynm_hip_atoms.v \
-  $QSYS_SIMDIR/../rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v \
+  $QSYS_SIMDIR/../rom_1port_161/sim/rom_port_rom_1port_161_iitz24a.v \
   $QSYS_SIMDIR/rom_port.v \
   -top $TOP_LEVEL_NAME
 # ----------------------------------------

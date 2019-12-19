@@ -146,168 +146,168 @@
 # 
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/altera_xcvr_functions.sv"                                               -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:34 on Dec 19,2019
+# Start time: 22:01:16 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/altera_xcvr_functions.sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # -- Compiling package altera_xcvr_functions
 # ** Warning: (vlog-2070) Existing protected design unit "altera_xcvr_functions" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:34 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:16 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv"                                        -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:34 on Dec 19,2019
+# Start time: 22:01:16 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "altera_xcvr_functions" is being recompiled as protected.
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:35 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:17 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/alt_xcvr_resync.sv"                                                     -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:35 on Dec 19,2019
+# Start time: 22:01:17 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/alt_xcvr_resync.sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # -- Compiling module alt_xcvr_resync
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_resync" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_resync
-# End time: 21:39:35 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:17 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv"                                              -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:35 on Dec 19,2019
+# Start time: 22:01:17 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_resync" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:35 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:17 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/altera_xcvr_reset_control.sv"                                           -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:35 on Dec 19,2019
+# Start time: 22:01:17 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/altera_xcvr_reset_control.sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # -- Compiling module altera_xcvr_reset_control
 # ** Warning: (vlog-2070) Existing protected design unit "altera_xcvr_reset_control" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	altera_xcvr_reset_control
-# End time: 21:39:35 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:17 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/alt_xcvr_reset_counter.sv"                                              -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:35 on Dec 19,2019
+# Start time: 22:01:17 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/alt_xcvr_reset_counter.sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # -- Compiling module alt_xcvr_reset_counter
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_reset_counter" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_reset_counter
-# End time: 21:39:36 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:17 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv"                                    -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:36 on Dec 19,2019
+# Start time: 22:01:17 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "altera_xcvr_reset_control" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:36 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:18 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv"                                       -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:36 on Dec 19,2019
+# Start time: 22:01:18 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_reset_counter" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:36 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:18 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/sim/tb_tx_phyrst_ctl.v"                                                                                                                                        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:36 on Dec 19,2019
+# Start time: 22:01:18 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/sim/tb_tx_phyrst_ctl.v 
 # -- Compiling module tb_tx_phyrst_ctl
 # 
 # Top level modules:
 # 	tb_tx_phyrst_ctl
-# End time: 21:39:36 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:18 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/fifo_56_28/fifo_56_28/fifo_161/sim/fifo_56_28_fifo_161_jjnbjqy.v"                                                          -work fifo_56_28_fifo_161                            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:36 on Dec 19,2019
+# Start time: 22:01:18 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/fifo_56_28/fifo_56_28/fifo_161/sim/fifo_56_28_fifo_161_jjnbjqy.v -work fifo_56_28_fifo_161 
 # -- Compiling module fifo_56_28_fifo_161_jjnbjqy
 # 
 # Top level modules:
 # 	fifo_56_28_fifo_161_jjnbjqy
-# End time: 21:39:36 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:18 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/fifo_56_28/fifo_56_28/sim/fifo_56_28.v"                                                                                                                                         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:37 on Dec 19,2019
+# Start time: 22:01:19 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/fifo_56_28/fifo_56_28/sim/fifo_56_28.v 
 # -- Compiling module fifo_56_28
 # 
 # Top level modules:
 # 	fifo_56_28
-# End time: 21:39:37 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:19 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_a10_functions_h.sv"                                          -work altera_common_sv_packages                      
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:37 on Dec 19,2019
+# Start time: 22:01:19 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_a10_functions_h.sv -work altera_common_sv_packages 
 # -- Compiling package altera_xcvr_native_a10_functions_h
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:37 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:19 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_resync.sv"                                -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:37 on Dec 19,2019
+# Start time: 22:01:19 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_resync.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_resync
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_resync" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_resync
-# End time: 21:39:37 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:19 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_arbiter.sv"                               -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:37 on Dec 19,2019
+# Start time: 22:01:19 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_arbiter.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_arbiter
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_arbiter" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_arbiter
-# End time: 21:39:37 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:19 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_resync.sv"                         -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:37 on Dec 19,2019
+# Start time: 22:01:19 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_resync.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_resync" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:37 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:19 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv"                        -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:37 on Dec 19,2019
+# Start time: 22:01:20 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_arbiter" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:38 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:20 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/twentynm_pcs.sv"                                   -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:38 on Dec 19,2019
+# Start time: 22:01:20 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/twentynm_pcs.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module twentynm_pcs_rev_20nm1
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_pcs_rev_20nm1" is being recompiled as unprotected.
@@ -335,11 +335,11 @@
 # 	twentynm_pcs_rev_20nm5es
 # 	twentynm_pcs_rev_20nm5es2
 # 	twentynm_pcs_rev_20nm4es
-# End time: 21:39:39 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:21 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 8
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/twentynm_pma.sv"                                   -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:39 on Dec 19,2019
+# Start time: 22:01:21 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/twentynm_pma.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module twentynm_pma_rev_20nm1
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_pma_rev_20nm1" is being recompiled as unprotected.
@@ -367,22 +367,22 @@
 # 	twentynm_pma_rev_20nm5es
 # 	twentynm_pma_rev_20nm5es2
 # 	twentynm_pma_rev_20nm4es
-# End time: 21:39:39 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:21 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 8
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/twentynm_xcvr_avmm.sv"                             -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:39 on Dec 19,2019
+# Start time: 22:01:21 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/twentynm_xcvr_avmm.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module twentynm_xcvr_avmm
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_xcvr_avmm" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	twentynm_xcvr_avmm
-# End time: 21:39:39 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:21 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/twentynm_xcvr_native.sv"                           -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:39 on Dec 19,2019
+# Start time: 22:01:21 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/twentynm_xcvr_native.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module twentynm_xcvr_native
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_xcvr_native" is being recompiled as unprotected.
@@ -405,11 +405,11 @@
 # 
 # Top level modules:
 # 	twentynm_xcvr_native
-# End time: 21:39:40 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:22 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 9
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv"                            -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:40 on Dec 19,2019
+# Start time: 22:01:22 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pcs_rev_20nm1" is being recompiled as protected.
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pcs_rev_20nm2" is being recompiled as protected.
@@ -421,11 +421,11 @@
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pcs_rev_20nm4es" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:42 on Dec 19,2019, Elapsed time: 0:00:02
+# End time: 22:01:24 on Dec 19,2019, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 16
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv"                            -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:42 on Dec 19,2019
+# Start time: 22:01:24 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pma_rev_20nm1" is being recompiled as protected.
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pma_rev_20nm2" is being recompiled as protected.
@@ -437,20 +437,20 @@
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pma_rev_20nm4es" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:43 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:25 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 16
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv"                      -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:43 on Dec 19,2019
+# Start time: 22:01:25 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_avmm" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:43 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:26 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv"                    -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:43 on Dec 19,2019
+# Start time: 22:01:26 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_native" is being recompiled as protected.
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_native_rev_20nm1" is being recompiled as protected.
@@ -463,82 +463,82 @@
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_native_rev_20nm4es" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:45 on Dec 19,2019, Elapsed time: 0:00:02
+# End time: 22:01:27 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 18
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/a10_avmm_h.sv"                                     -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:45 on Dec 19,2019
+# Start time: 22:01:27 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/a10_avmm_h.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling package a10_avmm_h
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:45 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:27 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_pipe_retry.sv"                     -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:45 on Dec 19,2019
+# Start time: 22:01:27 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_pipe_retry.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_pipe_retry
 # 
 # Top level modules:
 # 	alt_xcvr_native_pipe_retry
-# End time: 21:39:45 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:27 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_avmm_csr.sv"                       -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:45 on Dec 19,2019
+# Start time: 22:01:27 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_avmm_csr.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_avmm_csr
 # -- Importing package a10_avmm_h
 # 
 # Top level modules:
 # 	alt_xcvr_native_avmm_csr
-# End time: 21:39:45 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:27 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_prbs_accum.sv"                     -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:45 on Dec 19,2019
+# Start time: 22:01:28 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_prbs_accum.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_prbs_accum
 # 
 # Top level modules:
 # 	alt_xcvr_native_prbs_accum
-# End time: 21:39:45 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:28 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_odi_accel.sv"                      -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:45 on Dec 19,2019
+# Start time: 22:01:28 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_odi_accel.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_odi_accel
 # 
 # Top level modules:
 # 	alt_xcvr_native_odi_accel
-# End time: 21:39:45 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:28 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_arb.sv"                       -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:45 on Dec 19,2019
+# Start time: 22:01:28 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_arb.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_rcfg_arb
 # 
 # Top level modules:
 # 	alt_xcvr_native_rcfg_arb
-# End time: 21:39:45 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:28 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_params_h.sv"           -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:45 on Dec 19,2019
+# Start time: 22:01:28 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_params_h.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling package altera_xcvr_native_pcie_dfe_params_h
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:45 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:28 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_commands_h.sv"                           -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:46 on Dec 19,2019
+# Start time: 22:01:28 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_commands_h.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2083) F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_commands_h.sv(14): Carriage return (0x0D) is not followed by a newline (0x0A).
 # -- Compiling package pcie_mgmt_commands_h
@@ -588,11 +588,11 @@
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:46 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:28 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 44
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_functions_h.sv"                          -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:46 on Dec 19,2019
+# Start time: 22:01:28 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_functions_h.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2083) F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_functions_h.sv(14): Carriage return (0x0D) is not followed by a newline (0x0A).
 # -- Compiling package pcie_mgmt_functions_h
@@ -722,11 +722,11 @@
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:46 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:29 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 123
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_program.sv"                              -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:46 on Dec 19,2019
+# Start time: 22:01:29 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_program.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling package pcie_mgmt_program
 # -- Importing package pcie_mgmt_functions_h
@@ -735,22 +735,22 @@
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:47 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:29 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv"                                  -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:47 on Dec 19,2019
+# Start time: 22:01:29 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module pcie_mgmt_cpu
 # -- Importing package pcie_mgmt_commands_h
 # 
 # Top level modules:
 # 	pcie_mgmt_cpu
-# End time: 21:39:47 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:29 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv"                               -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:47 on Dec 19,2019
+# Start time: 22:01:29 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module pcie_mgmt_master
 # -- Importing package pcie_mgmt_functions_h
@@ -760,345 +760,345 @@
 # 
 # Top level modules:
 # 	pcie_mgmt_master
-# End time: 21:39:47 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:29 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv"                 -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:47 on Dec 19,2019
+# Start time: 22:01:29 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module altera_xcvr_native_pcie_dfe_ip
 # -- Importing package altera_xcvr_native_pcie_dfe_params_h
 # 
 # Top level modules:
 # 	altera_xcvr_native_pcie_dfe_ip
-# End time: 21:39:47 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:29 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/tx_jesd204b_altera_xcvr_native_a10_161_6d2kjaq.sv" -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:47 on Dec 19,2019
+# Start time: 22:01:29 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/tx_jesd204b_altera_xcvr_native_a10_161_6d2kjaq.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module tx_jesd204b_altera_xcvr_native_a10_161_6d2kjaq
 # -- Importing package altera_common_sv_packages.altera_xcvr_native_a10_functions_h
 # 
 # Top level modules:
 # 	tx_jesd204b_altera_xcvr_native_a10_161_6d2kjaq
-# End time: 21:39:47 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:29 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_opt_logic_6d2kjaq.sv"         -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:47 on Dec 19,2019
+# Start time: 22:01:29 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_opt_logic_6d2kjaq.sv -L altera_common_sv_packages -work tx_jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_rcfg_opt_logic_6d2kjaq
 # -- Importing package altera_common_sv_packages.altera_xcvr_native_a10_functions_h
 # 
 # Top level modules:
 # 	alt_xcvr_native_rcfg_opt_logic_6d2kjaq
-# End time: 21:39:47 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:30 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v"                                  -work tx_jesd204b_altera_jesd204_phy_adapter_xs_161  
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:47 on Dec 19,2019
+# Start time: 22:01:30 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v -work tx_jesd204b_altera_jesd204_phy_adapter_xs_161 
 # 
 # Top level modules:
-# End time: 21:39:48 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:30 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_tx_mlpcs.v"                                              -work tx_jesd204b_altera_jesd204_tx_mlpcs_161        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:48 on Dec 19,2019
+# Start time: 22:01:30 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_tx_mlpcs.v -work tx_jesd204b_altera_jesd204_tx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:39:48 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:30 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_enc.v"                                             -work tx_jesd204b_altera_jesd204_tx_mlpcs_161        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:48 on Dec 19,2019
+# Start time: 22:01:30 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_enc.v -work tx_jesd204b_altera_jesd204_tx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:39:48 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:31 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_tx_pcs.v"                                                -work tx_jesd204b_altera_jesd204_tx_mlpcs_161        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:48 on Dec 19,2019
+# Start time: 22:01:31 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_tx_pcs.v -work tx_jesd204b_altera_jesd204_tx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:39:49 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:31 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v"                                               -work tx_jesd204b_altera_jesd204_tx_mlpcs_161        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:49 on Dec 19,2019
+# Start time: 22:01:31 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v -work tx_jesd204b_altera_jesd204_tx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:39:49 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:31 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_enc.v"                                          -work tx_jesd204b_altera_jesd204_tx_mlpcs_161        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:49 on Dec 19,2019
+# Start time: 22:01:31 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_enc.v -work tx_jesd204b_altera_jesd204_tx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:39:49 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:32 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v"                                                -work tx_jesd204b_altera_jesd204_tx_mlpcs_161        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:49 on Dec 19,2019
+# Start time: 22:01:32 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v -work tx_jesd204b_altera_jesd204_tx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:39:50 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:32 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v"                                    -work tx_jesd204b_altera_jesd204_tx_mlpcs_161        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:50 on Dec 19,2019
+# Start time: 22:01:32 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v -work tx_jesd204b_altera_jesd204_tx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:39:50 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:33 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_phy_161/sim/tx_jesd204b_altera_jesd204_phy_161_bhvxniy.v"                                       -work tx_jesd204b_altera_jesd204_phy_161             
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:50 on Dec 19,2019
+# Start time: 22:01:33 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_phy_161/sim/tx_jesd204b_altera_jesd204_phy_161_bhvxniy.v -work tx_jesd204b_altera_jesd204_phy_161 
 # -- Compiling module tx_jesd204b_altera_jesd204_phy_161_bhvxniy
 # 
 # Top level modules:
 # 	tx_jesd204b_altera_jesd204_phy_161_bhvxniy
-# End time: 21:39:50 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:33 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_base.v"                                                     -work tx_jesd204b_altera_jesd204_tx_161              
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:50 on Dec 19,2019
+# Start time: 22:01:33 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_base.v -work tx_jesd204b_altera_jesd204_tx_161 
 # 
 # Top level modules:
-# End time: 21:39:51 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:33 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_csr.v"                                                      -work tx_jesd204b_altera_jesd204_tx_161              
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:51 on Dec 19,2019
+# Start time: 22:01:33 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_csr.v -work tx_jesd204b_altera_jesd204_tx_161 
 # 
 # Top level modules:
-# End time: 21:39:51 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:34 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_ctl.v"                                                      -work tx_jesd204b_altera_jesd204_tx_161              
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:51 on Dec 19,2019
+# Start time: 22:01:34 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_ctl.v -work tx_jesd204b_altera_jesd204_tx_161 
 # 
 # Top level modules:
-# End time: 21:39:51 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:34 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_dll.v"                                                      -work tx_jesd204b_altera_jesd204_tx_161              
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:51 on Dec 19,2019
+# Start time: 22:01:34 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_dll.v -work tx_jesd204b_altera_jesd204_tx_161 
 # 
 # Top level modules:
-# End time: 21:39:52 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:34 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_regmap.v"                                                   -work tx_jesd204b_altera_jesd204_tx_161              
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:52 on Dec 19,2019
+# Start time: 22:01:34 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_regmap.v -work tx_jesd204b_altera_jesd204_tx_161 
 # 
 # Top level modules:
-# End time: 21:39:52 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:35 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_regmap_opt.v"                                               -work tx_jesd204b_altera_jesd204_tx_161              
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:52 on Dec 19,2019
+# Start time: 22:01:35 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_regmap_opt.v -work tx_jesd204b_altera_jesd204_tx_161 
 # 
 # Top level modules:
-# End time: 21:39:53 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:35 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_scrambler.v"                                                -work tx_jesd204b_altera_jesd204_tx_161              
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:53 on Dec 19,2019
+# Start time: 22:01:35 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_tx_161/sim/mentor/altera_jesd204_tx_scrambler.v -work tx_jesd204b_altera_jesd204_tx_161 
 # 
 # Top level modules:
-# End time: 21:39:53 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:36 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_161/sim/tx_jesd204b_altera_jesd204_161_py6ow4q.v"                                               -work tx_jesd204b_altera_jesd204_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:53 on Dec 19,2019
+# Start time: 22:01:36 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/altera_jesd204_161/sim/tx_jesd204b_altera_jesd204_161_py6ow4q.v -work tx_jesd204b_altera_jesd204_161 
 # -- Compiling module tx_jesd204b_altera_jesd204_161_py6ow4q
 # 
 # Top level modules:
 # 	tx_jesd204b_altera_jesd204_161_py6ow4q
-# End time: 21:39:53 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:36 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/tx_jesd204b.v"                                                                                                                                                  
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:53 on Dec 19,2019
+# Start time: 22:01:36 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tx_jesd204b/sim/tx_jesd204b.v 
 # -- Compiling module tx_jesd204b
 # 
 # Top level modules:
 # 	tx_jesd204b
-# End time: 21:39:53 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:36 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v"                                                               -work rom_port_rom_1port_161                         
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:53 on Dec 19,2019
+# Start time: 22:01:36 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/rom_1port_161/sim/rom_port_rom_1port_161_m5cej6i.v -work rom_port_rom_1port_161 
 # -- Compiling module rom_port_rom_1port_161_m5cej6i
 # 
 # Top level modules:
 # 	rom_port_rom_1port_161_m5cej6i
-# End time: 21:39:53 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:36 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/sim/rom_port.v"                                                                                                                                                        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:53 on Dec 19,2019
+# Start time: 22:01:36 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/sim/rom_port.v 
 # -- Compiling module rom_port
 # 
 # Top level modules:
 # 	rom_port
-# End time: 21:39:54 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:36 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/altera_xcvr_functions.sv"                                              -work phyrst_controller_altera_xcvr_reset_control_161
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:54 on Dec 19,2019
+# Start time: 22:01:36 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/altera_xcvr_functions.sv -work phyrst_controller_altera_xcvr_reset_control_161 
 # -- Compiling package altera_xcvr_functions
 # ** Warning: (vlog-2070) Existing protected design unit "altera_xcvr_functions" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:54 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:37 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv"                                       -work phyrst_controller_altera_xcvr_reset_control_161
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:54 on Dec 19,2019
+# Start time: 22:01:37 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv -work phyrst_controller_altera_xcvr_reset_control_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "altera_xcvr_functions" is being recompiled as protected.
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:39:54 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:37 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/alt_xcvr_resync.sv"                                                    -work phyrst_controller_altera_xcvr_reset_control_161
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:54 on Dec 19,2019
+# Start time: 22:01:37 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/alt_xcvr_resync.sv -work phyrst_controller_altera_xcvr_reset_control_161 
 # -- Compiling module alt_xcvr_resync
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_resync" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_resync
-# End time: 21:39:54 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:37 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv"                                             -work phyrst_controller_altera_xcvr_reset_control_161
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:54 on Dec 19,2019
+# Start time: 22:01:37 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv -work phyrst_controller_altera_xcvr_reset_control_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_resync" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:55 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:37 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/altera_xcvr_reset_control.sv"                                          -work phyrst_controller_altera_xcvr_reset_control_161
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:55 on Dec 19,2019
+# Start time: 22:01:37 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/altera_xcvr_reset_control.sv -work phyrst_controller_altera_xcvr_reset_control_161 
 # -- Compiling module altera_xcvr_reset_control
 # ** Warning: (vlog-2070) Existing protected design unit "altera_xcvr_reset_control" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	altera_xcvr_reset_control
-# End time: 21:39:55 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:38 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/alt_xcvr_reset_counter.sv"                                             -work phyrst_controller_altera_xcvr_reset_control_161
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:55 on Dec 19,2019
+# Start time: 22:01:38 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/alt_xcvr_reset_counter.sv -work phyrst_controller_altera_xcvr_reset_control_161 
 # -- Compiling module alt_xcvr_reset_counter
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_reset_counter" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_reset_counter
-# End time: 21:39:55 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:38 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv"                                   -work phyrst_controller_altera_xcvr_reset_control_161
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:55 on Dec 19,2019
+# Start time: 22:01:38 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv -work phyrst_controller_altera_xcvr_reset_control_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "altera_xcvr_reset_control" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:55 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:38 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv"                                      -work phyrst_controller_altera_xcvr_reset_control_161
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:55 on Dec 19,2019
+# Start time: 22:01:38 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv -work phyrst_controller_altera_xcvr_reset_control_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_reset_counter" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:56 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:38 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/sim/phyrst_controller.v"                                                                                                                                      
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:56 on Dec 19,2019
+# Start time: 22:01:38 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/phyrst_controller/sim/phyrst_controller.v 
 # -- Compiling module phyrst_controller
 # 
 # Top level modules:
 # 	phyrst_controller
-# End time: 21:39:56 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:39 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_resync.sv"                                   -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:56 on Dec 19,2019
+# Start time: 22:01:39 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_resync.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_resync
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_resync" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_resync
-# End time: 21:39:56 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:39 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_arbiter.sv"                                  -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:56 on Dec 19,2019
+# Start time: 22:01:39 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_arbiter.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_arbiter
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_arbiter" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_arbiter
-# End time: 21:39:56 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:39 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_resync.sv"                            -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:56 on Dec 19,2019
+# Start time: 22:01:39 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_resync.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_resync" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:56 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:39 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv"                           -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:56 on Dec 19,2019
+# Start time: 22:01:39 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_arbiter" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:39:57 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:40 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/twentynm_pcs.sv"                                      -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:57 on Dec 19,2019
+# Start time: 22:01:40 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/twentynm_pcs.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module twentynm_pcs_rev_20nm1
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_pcs_rev_20nm1" is being recompiled as unprotected.
@@ -1126,11 +1126,11 @@
 # 	twentynm_pcs_rev_20nm5es
 # 	twentynm_pcs_rev_20nm5es2
 # 	twentynm_pcs_rev_20nm4es
-# End time: 21:39:58 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:41 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 8
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/twentynm_pma.sv"                                      -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:58 on Dec 19,2019
+# Start time: 22:01:41 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/twentynm_pma.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module twentynm_pma_rev_20nm1
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_pma_rev_20nm1" is being recompiled as unprotected.
@@ -1158,22 +1158,22 @@
 # 	twentynm_pma_rev_20nm5es
 # 	twentynm_pma_rev_20nm5es2
 # 	twentynm_pma_rev_20nm4es
-# End time: 21:39:58 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:41 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 8
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/twentynm_xcvr_avmm.sv"                                -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:58 on Dec 19,2019
+# Start time: 22:01:41 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/twentynm_xcvr_avmm.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module twentynm_xcvr_avmm
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_xcvr_avmm" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	twentynm_xcvr_avmm
-# End time: 21:39:58 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:41 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/twentynm_xcvr_native.sv"                              -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:58 on Dec 19,2019
+# Start time: 22:01:41 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/twentynm_xcvr_native.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module twentynm_xcvr_native
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_xcvr_native" is being recompiled as unprotected.
@@ -1196,11 +1196,11 @@
 # 
 # Top level modules:
 # 	twentynm_xcvr_native
-# End time: 21:39:59 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:42 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 9
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv"                               -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:39:59 on Dec 19,2019
+# Start time: 22:01:42 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pcs_rev_20nm1" is being recompiled as protected.
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pcs_rev_20nm2" is being recompiled as protected.
@@ -1212,11 +1212,11 @@
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pcs_rev_20nm4es" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:01 on Dec 19,2019, Elapsed time: 0:00:02
+# End time: 22:01:44 on Dec 19,2019, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 16
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv"                               -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:01 on Dec 19,2019
+# Start time: 22:01:44 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pma_rev_20nm1" is being recompiled as protected.
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pma_rev_20nm2" is being recompiled as protected.
@@ -1228,20 +1228,20 @@
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_pma_rev_20nm4es" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:02 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:45 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 16
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv"                         -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:02 on Dec 19,2019
+# Start time: 22:01:45 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_avmm" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:02 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:45 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv"                       -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:02 on Dec 19,2019
+# Start time: 22:01:45 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_native" is being recompiled as protected.
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_native_rev_20nm1" is being recompiled as protected.
@@ -1254,82 +1254,82 @@
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_native_rev_20nm4es" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:04 on Dec 19,2019, Elapsed time: 0:00:02
+# End time: 22:01:47 on Dec 19,2019, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 18
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/a10_avmm_h.sv"                                        -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:04 on Dec 19,2019
+# Start time: 22:01:47 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/a10_avmm_h.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling package a10_avmm_h
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:40:04 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:47 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_pipe_retry.sv"                        -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:04 on Dec 19,2019
+# Start time: 22:01:47 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_pipe_retry.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_pipe_retry
 # 
 # Top level modules:
 # 	alt_xcvr_native_pipe_retry
-# End time: 21:40:04 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:47 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_avmm_csr.sv"                          -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:04 on Dec 19,2019
+# Start time: 22:01:47 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_avmm_csr.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_avmm_csr
 # -- Importing package a10_avmm_h
 # 
 # Top level modules:
 # 	alt_xcvr_native_avmm_csr
-# End time: 21:40:04 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:47 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_prbs_accum.sv"                        -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:04 on Dec 19,2019
+# Start time: 22:01:47 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_prbs_accum.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_prbs_accum
 # 
 # Top level modules:
 # 	alt_xcvr_native_prbs_accum
-# End time: 21:40:04 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:48 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_odi_accel.sv"                         -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:04 on Dec 19,2019
+# Start time: 22:01:48 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_odi_accel.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_odi_accel
 # 
 # Top level modules:
 # 	alt_xcvr_native_odi_accel
-# End time: 21:40:04 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:48 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_arb.sv"                          -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:04 on Dec 19,2019
+# Start time: 22:01:48 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_arb.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_rcfg_arb
 # 
 # Top level modules:
 # 	alt_xcvr_native_rcfg_arb
-# End time: 21:40:05 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:48 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_params_h.sv"              -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:05 on Dec 19,2019
+# Start time: 22:01:48 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_params_h.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling package altera_xcvr_native_pcie_dfe_params_h
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:40:05 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:48 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_commands_h.sv"                              -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:05 on Dec 19,2019
+# Start time: 22:01:48 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_commands_h.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2083) F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_commands_h.sv(14): Carriage return (0x0D) is not followed by a newline (0x0A).
 # -- Compiling package pcie_mgmt_commands_h
@@ -1379,11 +1379,11 @@
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:40:05 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:48 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 44
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_functions_h.sv"                             -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:05 on Dec 19,2019
+# Start time: 22:01:48 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_functions_h.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # ** Warning: (vlog-2083) F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_functions_h.sv(14): Carriage return (0x0D) is not followed by a newline (0x0A).
 # -- Compiling package pcie_mgmt_functions_h
@@ -1513,11 +1513,11 @@
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:40:05 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:49 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 123
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_program.sv"                                 -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:06 on Dec 19,2019
+# Start time: 22:01:49 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_program.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling package pcie_mgmt_program
 # -- Importing package pcie_mgmt_functions_h
@@ -1526,22 +1526,22 @@
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:40:06 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:49 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv"                                     -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:06 on Dec 19,2019
+# Start time: 22:01:49 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module pcie_mgmt_cpu
 # -- Importing package pcie_mgmt_commands_h
 # 
 # Top level modules:
 # 	pcie_mgmt_cpu
-# End time: 21:40:06 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:49 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv"                                  -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:06 on Dec 19,2019
+# Start time: 22:01:49 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module pcie_mgmt_master
 # -- Importing package pcie_mgmt_functions_h
@@ -1551,397 +1551,397 @@
 # 
 # Top level modules:
 # 	pcie_mgmt_master
-# End time: 21:40:06 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:49 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv"                    -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:06 on Dec 19,2019
+# Start time: 22:01:49 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module altera_xcvr_native_pcie_dfe_ip
 # -- Importing package altera_xcvr_native_pcie_dfe_params_h
 # 
 # Top level modules:
 # 	altera_xcvr_native_pcie_dfe_ip
-# End time: 21:40:06 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:49 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/jesd204b_altera_xcvr_native_a10_161_ou2lroi.sv"       -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:06 on Dec 19,2019
+# Start time: 22:01:49 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/jesd204b_altera_xcvr_native_a10_161_ou2lroi.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module jesd204b_altera_xcvr_native_a10_161_ou2lroi
 # -- Importing package altera_common_sv_packages.altera_xcvr_native_a10_functions_h
 # 
 # Top level modules:
 # 	jesd204b_altera_xcvr_native_a10_161_ou2lroi
-# End time: 21:40:06 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:50 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_opt_logic_ou2lroi.sv"            -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:06 on Dec 19,2019
+# Start time: 22:01:50 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_opt_logic_ou2lroi.sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161 
 # -- Compiling module alt_xcvr_native_rcfg_opt_logic_ou2lroi
 # -- Importing package altera_common_sv_packages.altera_xcvr_native_a10_functions_h
 # 
 # Top level modules:
 # 	alt_xcvr_native_rcfg_opt_logic_ou2lroi
-# End time: 21:40:07 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:50 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v"                                     -work jesd204b_altera_jesd204_phy_adapter_xs_161     
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:07 on Dec 19,2019
+# Start time: 22:01:50 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_phy_adapter_xs_161/sim/mentor/altera_jesd204_phy_adapter_xs.v -work jesd204b_altera_jesd204_phy_adapter_xs_161 
 # 
 # Top level modules:
-# End time: 21:40:07 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:50 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_mlpcs.v"                                                 -work jesd204b_altera_jesd204_rx_mlpcs_161           
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:07 on Dec 19,2019
+# Start time: 22:01:50 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_mlpcs.v -work jesd204b_altera_jesd204_rx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:40:08 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:50 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_dec.v"                                                -work jesd204b_altera_jesd204_rx_mlpcs_161           
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:08 on Dec 19,2019
+# Start time: 22:01:51 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_8b10b_dec.v -work jesd204b_altera_jesd204_rx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:40:08 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:51 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_pcs.v"                                                   -work jesd204b_altera_jesd204_rx_mlpcs_161           
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:08 on Dec 19,2019
+# Start time: 22:01:51 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_rx_pcs.v -work jesd204b_altera_jesd204_rx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:40:09 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:51 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wa.v"                                                       -work jesd204b_altera_jesd204_rx_mlpcs_161           
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:09 on Dec 19,2019
+# Start time: 22:01:51 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wa.v -work jesd204b_altera_jesd204_rx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:40:09 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:52 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v"                                                  -work jesd204b_altera_jesd204_rx_mlpcs_161           
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:09 on Dec 19,2019
+# Start time: 22:01:52 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_wys_lut.v -work jesd204b_altera_jesd204_rx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:40:09 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:52 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_dec.v"                                             -work jesd204b_altera_jesd204_rx_mlpcs_161           
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:09 on Dec 19,2019
+# Start time: 22:01:52 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_xn_8b10b_dec.v -work jesd204b_altera_jesd204_rx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:40:10 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:52 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v"                                                   -work jesd204b_altera_jesd204_rx_mlpcs_161           
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:10 on Dec 19,2019
+# Start time: 22:01:52 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_pcfifo.v -work jesd204b_altera_jesd204_rx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:40:10 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:53 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v"                                       -work jesd204b_altera_jesd204_rx_mlpcs_161           
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:10 on Dec 19,2019
+# Start time: 22:01:53 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_mlpcs_161/sim/mentor/altera_jesd204_mixed_width_dcfifo.v -work jesd204b_altera_jesd204_rx_mlpcs_161 
 # 
 # Top level modules:
-# End time: 21:40:11 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:53 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_phy_161/sim/jesd204b_altera_jesd204_phy_161_yorkvea.v"                                             -work jesd204b_altera_jesd204_phy_161                
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:11 on Dec 19,2019
+# Start time: 22:01:53 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_phy_161/sim/jesd204b_altera_jesd204_phy_161_yorkvea.v -work jesd204b_altera_jesd204_phy_161 
 # -- Compiling module jesd204b_altera_jesd204_phy_161_yorkvea
 # 
 # Top level modules:
 # 	jesd204b_altera_jesd204_phy_161_yorkvea
-# End time: 21:40:11 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:53 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_base.v"                                                        -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:11 on Dec 19,2019
+# Start time: 22:01:53 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_base.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:11 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:54 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_csr.v"                                                         -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:11 on Dec 19,2019
+# Start time: 22:01:54 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_csr.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:12 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:54 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_ctl.v"                                                         -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:12 on Dec 19,2019
+# Start time: 22:01:54 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_ctl.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:12 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:54 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_descrambler.v"                                                 -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:12 on Dec 19,2019
+# Start time: 22:01:54 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_descrambler.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:12 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:55 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll.v"                                                         -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:12 on Dec 19,2019
+# Start time: 22:01:55 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:13 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:55 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_char_val.v"                                                -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:13 on Dec 19,2019
+# Start time: 22:01:55 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_char_val.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:13 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:56 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_cs.v"                                                      -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:13 on Dec 19,2019
+# Start time: 22:01:56 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_cs.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:14 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:56 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_fs_char_replace.v"                                         -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:14 on Dec 19,2019
+# Start time: 22:01:56 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_fs_char_replace.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:14 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:56 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_frame_align.v"                                             -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:14 on Dec 19,2019
+# Start time: 22:01:56 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_frame_align.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:15 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:57 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_lane_align.v"                                              -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:15 on Dec 19,2019
+# Start time: 22:01:57 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_lane_align.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:15 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:57 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_data_store.v"                                              -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:15 on Dec 19,2019
+# Start time: 22:01:57 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_data_store.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:16 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:57 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_ecc_enc.v"                                                 -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:16 on Dec 19,2019
+# Start time: 22:01:58 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_ecc_enc.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:16 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:58 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_ecc_dec.v"                                                 -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:16 on Dec 19,2019
+# Start time: 22:01:58 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_ecc_dec.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:16 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:59 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_ecc_fifo.v"                                                -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:16 on Dec 19,2019
+# Start time: 22:01:59 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_ecc_fifo.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:17 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:01:59 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_wo_ecc_fifo.v"                                             -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:17 on Dec 19,2019
+# Start time: 22:01:59 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_dll_wo_ecc_fifo.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:17 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:01:59 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_regmap.v"                                                      -work jesd204b_altera_jesd204_rx_161                 
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:17 on Dec 19,2019
+# Start time: 22:01:59 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_rx_161/sim/mentor/altera_jesd204_rx_regmap.v -work jesd204b_altera_jesd204_rx_161 
 # 
 # Top level modules:
-# End time: 21:40:18 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:02:00 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_161/sim/jesd204b_altera_jesd204_161_zta4dmq.v"                                                     -work jesd204b_altera_jesd204_161                    
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:18 on Dec 19,2019
+# Start time: 22:02:00 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_161/sim/jesd204b_altera_jesd204_161_zta4dmq.v -work jesd204b_altera_jesd204_161 
 # -- Compiling module jesd204b_altera_jesd204_161_zta4dmq
 # 
 # Top level modules:
 # 	jesd204b_altera_jesd204_161_zta4dmq
-# End time: 21:40:18 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:00 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/sim/jesd204b.v"                                                                                                                                                        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:18 on Dec 19,2019
+# Start time: 22:02:00 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/sim/jesd204b.v 
 # -- Compiling module jesd204b
 # 
 # Top level modules:
 # 	jesd204b
-# End time: 21:40:18 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:00 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo"                                                        -work core_pll_altera_iopll_161                      
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:18 on Dec 19,2019
+# Start time: 22:02:00 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/altera_iopll_161/sim/core_pll_altera_iopll_161_ep46qai.vo -work core_pll_altera_iopll_161 
 # -- Compiling module core_pll_altera_iopll_161_ep46qai
 # 
 # Top level modules:
 # 	core_pll_altera_iopll_161_ep46qai
-# End time: 21:40:18 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:00 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/sim/core_pll.v"                                                                                                                                                        
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:18 on Dec 19,2019
+# Start time: 22:02:00 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/core_pll/sim/core_pll.v 
 # -- Compiling module core_pll
 # 
 # Top level modules:
 # 	core_pll
-# End time: 21:40:18 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:00 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/twentynm_xcvr_avmm.sv"                                -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:18 on Dec 19,2019
+# Start time: 22:02:00 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/twentynm_xcvr_avmm.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module twentynm_xcvr_avmm
 # ** Warning: (vlog-2070) Existing protected design unit "twentynm_xcvr_avmm" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	twentynm_xcvr_avmm
-# End time: 21:40:18 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:00 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/twentynm_xcvr_avmm.sv"                         -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:18 on Dec 19,2019
+# Start time: 22:02:00 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/twentynm_xcvr_avmm.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "twentynm_xcvr_avmm" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:19 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:02:01 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_resync.sv"                                   -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:19 on Dec 19,2019
+# Start time: 22:02:01 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_resync.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module alt_xcvr_resync
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_resync" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_resync
-# End time: 21:40:19 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:01 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_arbiter.sv"                                  -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:19 on Dec 19,2019
+# Start time: 22:02:01 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_arbiter.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module alt_xcvr_arbiter
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_arbiter" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_arbiter
-# End time: 21:40:19 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:01 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_resync.sv"                            -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:19 on Dec 19,2019
+# Start time: 22:02:01 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_resync.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_resync" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:19 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:01 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_arbiter.sv"                           -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:19 on Dec 19,2019
+# Start time: 22:02:02 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_arbiter.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_arbiter" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:20 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:02:02 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/a10_avmm_h.sv"                                        -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:20 on Dec 19,2019
+# Start time: 22:02:02 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/a10_avmm_h.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling package a10_avmm_h
 # 
 # Top level modules:
 # 	--none--
-# End time: 21:40:20 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:02 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_atx_pll_rcfg_arb.sv"                         -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:20 on Dec 19,2019
+# Start time: 22:02:02 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_atx_pll_rcfg_arb.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module alt_xcvr_atx_pll_rcfg_arb
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_atx_pll_rcfg_arb" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_atx_pll_rcfg_arb
-# End time: 21:40:20 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:02 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/a10_xcvr_atx_pll.sv"                                  -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:20 on Dec 19,2019
+# Start time: 22:02:02 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/a10_xcvr_atx_pll.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module a10_xcvr_atx_pll
 # ** Warning: (vlog-2070) Existing protected design unit "a10_xcvr_atx_pll" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	a10_xcvr_atx_pll
-# End time: 21:40:20 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:02 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_pll_embedded_debug.sv"                       -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:20 on Dec 19,2019
+# Start time: 22:02:02 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_pll_embedded_debug.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module alt_xcvr_pll_embedded_debug
 # ** Warning: (vlog-2070) Existing protected design unit "alt_xcvr_pll_embedded_debug" is being recompiled as unprotected.
 # 
 # Top level modules:
 # 	alt_xcvr_pll_embedded_debug
-# End time: 21:40:20 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:02 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_pll_avmm_csr.sv"                             -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:20 on Dec 19,2019
+# Start time: 22:02:03 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_pll_avmm_csr.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module alt_xcvr_pll_avmm_csr
 # -- Importing package a10_avmm_h
@@ -1949,332 +1949,332 @@
 # 
 # Top level modules:
 # 	alt_xcvr_pll_avmm_csr
-# End time: 21:40:20 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:03 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_atx_pll_rcfg_arb.sv"                  -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:20 on Dec 19,2019
+# Start time: 22:02:03 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_atx_pll_rcfg_arb.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_atx_pll_rcfg_arb" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:21 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:02:03 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/a10_xcvr_atx_pll.sv"                           -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:21 on Dec 19,2019
+# Start time: 22:02:03 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/a10_xcvr_atx_pll.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "a10_xcvr_atx_pll" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:21 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:03 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_pll_embedded_debug.sv"                -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:21 on Dec 19,2019
+# Start time: 22:02:03 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_pll_embedded_debug.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_pll_embedded_debug" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:22 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:02:04 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_pll_avmm_csr.sv"                      -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:22 on Dec 19,2019
+# Start time: 22:02:04 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/mentor/alt_xcvr_pll_avmm_csr.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Importing package a10_avmm_h
 # ** Warning: (vlog-2070) Existing unprotected design unit "alt_xcvr_pll_avmm_csr" is being recompiled as protected.
 # 
 # Top level modules:
-# End time: 21:40:22 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:04 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 2
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/atx_pll_altera_xcvr_atx_pll_a10_161_25ew5mi.sv"       -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:22 on Dec 19,2019
+# Start time: 22:02:04 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/atx_pll_altera_xcvr_atx_pll_a10_161_25ew5mi.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module atx_pll_altera_xcvr_atx_pll_a10_161_25ew5mi
 # 
 # Top level modules:
 # 	atx_pll_altera_xcvr_atx_pll_a10_161_25ew5mi
-# End time: 21:40:22 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:04 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_atx_pll_rcfg_opt_logic_25ew5mi.sv"           -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161            
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:22 on Dec 19,2019
+# Start time: 22:02:04 on Dec 19,2019
 # vlog -reportprogress 300 -sv F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/altera_xcvr_atx_pll_a10_161/sim/alt_xcvr_atx_pll_rcfg_opt_logic_25ew5mi.sv -L altera_common_sv_packages -work atx_pll_altera_xcvr_atx_pll_a10_161 
 # -- Compiling module alt_xcvr_atx_pll_rcfg_opt_logic_25ew5mi
 # -- Importing package altera_common_sv_packages.altera_xcvr_native_a10_functions_h
 # 
 # Top level modules:
 # 	alt_xcvr_atx_pll_rcfg_opt_logic_25ew5mi
-# End time: 21:40:22 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:04 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog     "F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/sim/atx_pll.v"                                                                                                                                                          
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:22 on Dec 19,2019
+# Start time: 22:02:04 on Dec 19,2019
 # vlog -reportprogress 300 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/atx_pll/sim/atx_pll.v 
 # -- Compiling module atx_pll
 # 
 # Top level modules:
 # 	atx_pll
-# End time: 21:40:22 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:05 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/spi_master.v}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:22 on Dec 19,2019
+# Start time: 22:02:05 on Dec 19,2019
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/spi_master.v 
 # -- Compiling module spi_master
 # 
 # Top level modules:
 # 	spi_master
-# End time: 21:40:22 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:05 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/gen_multi_sysref.v}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:22 on Dec 19,2019
+# Start time: 22:02:05 on Dec 19,2019
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/gen_multi_sysref.v 
 # -- Compiling module gen_multi_sysref
 # 
 # Top level modules:
 # 	gen_multi_sysref
-# End time: 21:40:23 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:02:05 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/control_unit.v}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:23 on Dec 19,2019
+# Start time: 22:02:05 on Dec 19,2019
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/control_unit.v 
 # -- Compiling module control_unit
 # 
 # Top level modules:
 # 	control_unit
-# End time: 21:40:23 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:05 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/altera_reset_synchronizer.v}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:23 on Dec 19,2019
+# Start time: 22:02:05 on Dec 19,2019
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/altera_reset_synchronizer.v 
 # -- Compiling module altera_reset_synchronizer
 # 
 # Top level modules:
 # 	altera_reset_synchronizer
-# End time: 21:40:23 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:05 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/altera_reset_controller.v}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:23 on Dec 19,2019
+# Start time: 22:02:05 on Dec 19,2019
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/altera_reset_controller.v 
 # -- Compiling module altera_reset_controller
 # 
 # Top level modules:
 # 	altera_reset_controller
-# End time: 21:40:23 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:05 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/ad9250_top.v}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:23 on Dec 19,2019
+# Start time: 22:02:05 on Dec 19,2019
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/ad9250_top.v 
 # -- Compiling module ad9250_top
 # 
 # Top level modules:
 # 	ad9250_top
-# End time: 21:40:23 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:05 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/ramp_checker.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:23 on Dec 19,2019
+# Start time: 22:02:05 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/ramp_checker.sv 
 # -- Compiling module ramp_checker
 # 
 # Top level modules:
 # 	ramp_checker
-# End time: 21:40:23 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:05 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/prbs_checker.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:23 on Dec 19,2019
+# Start time: 22:02:06 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/prbs_checker.sv 
 # -- Compiling module prbs_checker
 # 
 # Top level modules:
 # 	prbs_checker
-# End time: 21:40:23 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:06 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/pattern_checker_top.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:24 on Dec 19,2019
+# Start time: 22:02:06 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/pattern_checker_top.sv 
 # -- Compiling module pattern_checker_top
 # 
 # Top level modules:
 # 	pattern_checker_top
-# End time: 21:40:24 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:06 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/alternate_checker.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:24 on Dec 19,2019
+# Start time: 22:02:06 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/alternate_checker.sv 
 # -- Compiling module alternate_checker
 # 
 # Top level modules:
 # 	alternate_checker
-# End time: 21:40:24 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:06 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/altera_jesd204_transport_rx_top.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:24 on Dec 19,2019
+# Start time: 22:02:06 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/altera_jesd204_transport_rx_top.sv 
 # -- Compiling module altera_jesd204_transport_rx_top
 # 
 # Top level modules:
 # 	altera_jesd204_transport_rx_top
-# End time: 21:40:24 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:06 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/altera_jesd204_deassembler.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:24 on Dec 19,2019
+# Start time: 22:02:06 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/src/altera_jesd204_deassembler.sv 
 # -- Compiling module altera_jesd204_deassembler
 # 
 # Top level modules:
 # 	altera_jesd204_deassembler
-# End time: 21:40:24 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:06 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/tb_ad9250_top.v}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:24 on Dec 19,2019
+# Start time: 22:02:06 on Dec 19,2019
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/tb_ad9250_top.v 
 # -- Compiling module ad9250_top_vlg_tst
 # 
 # Top level modules:
 # 	ad9250_top_vlg_tst
-# End time: 21:40:24 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:06 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/alternate_checker.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:24 on Dec 19,2019
+# Start time: 22:02:06 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/alternate_checker.sv 
 # -- Compiling module alternate_checker
 # 
 # Top level modules:
 # 	alternate_checker
-# End time: 21:40:24 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:06 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/alternate_generator.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:24 on Dec 19,2019
+# Start time: 22:02:06 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/alternate_generator.sv 
 # -- Compiling module alternate_generator
 # 
 # Top level modules:
 # 	alternate_generator
-# End time: 21:40:24 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:06 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/pattern_checker_top.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:24 on Dec 19,2019
+# Start time: 22:02:07 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/pattern_checker_top.sv 
 # -- Compiling module pattern_checker_top
 # 
 # Top level modules:
 # 	pattern_checker_top
-# End time: 21:40:25 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:02:07 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/pattern_generator_top.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:25 on Dec 19,2019
+# Start time: 22:02:07 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/pattern_generator_top.sv 
 # -- Compiling module pattern_generator_top
 # 
 # Top level modules:
 # 	pattern_generator_top
-# End time: 21:40:25 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:07 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/prbs_checker.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:25 on Dec 19,2019
+# Start time: 22:02:07 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/prbs_checker.sv 
 # -- Compiling module prbs_checker
 # 
 # Top level modules:
 # 	prbs_checker
-# End time: 21:40:25 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:07 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/prbs_generator.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:25 on Dec 19,2019
+# Start time: 22:02:07 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/prbs_generator.sv 
 # -- Compiling module prbs_generator
 # 
 # Top level modules:
 # 	prbs_generator
-# End time: 21:40:25 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:07 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/ramp_checker.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:25 on Dec 19,2019
+# Start time: 22:02:07 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/ramp_checker.sv 
 # -- Compiling module ramp_checker
 # 
 # Top level modules:
 # 	ramp_checker
-# End time: 21:40:25 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:07 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/ramp_generator.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:25 on Dec 19,2019
+# Start time: 22:02:07 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/pattern/ramp_generator.sv 
 # -- Compiling module ramp_generator
 # 
 # Top level modules:
 # 	ramp_generator
-# End time: 21:40:25 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:07 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer/altera_jesd204_assembler.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:25 on Dec 19,2019
+# Start time: 22:02:07 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer/altera_jesd204_assembler.sv 
 # -- Compiling module altera_jesd204_assembler
 # 
 # Top level modules:
 # 	altera_jesd204_assembler
-# End time: 21:40:25 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:07 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer/altera_jesd204_deassembler.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:25 on Dec 19,2019
+# Start time: 22:02:07 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer/altera_jesd204_deassembler.sv 
 # -- Compiling module altera_jesd204_deassembler
 # 
 # Top level modules:
 # 	altera_jesd204_deassembler
-# End time: 21:40:25 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:08 on Dec 19,2019, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer/altera_jesd204_transport_rx_top.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:25 on Dec 19,2019
+# Start time: 22:02:08 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer/altera_jesd204_transport_rx_top.sv 
 # -- Compiling module altera_jesd204_transport_rx_top
 # 
 # Top level modules:
 # 	altera_jesd204_transport_rx_top
-# End time: 21:40:26 on Dec 19,2019, Elapsed time: 0:00:01
+# End time: 22:02:08 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer {F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer/altera_jesd204_transport_tx_top.sv}
 # Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
-# Start time: 21:40:26 on Dec 19,2019
+# Start time: 22:02:08 on Dec 19,2019
 # vlog -reportprogress 300 -sv -work work "+incdir+F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer" F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/transport_layer/altera_jesd204_transport_tx_top.sv 
 # -- Compiling module altera_jesd204_transport_tx_top
 # 
 # Top level modules:
 # 	altera_jesd204_transport_tx_top
-# End time: 21:40:26 on Dec 19,2019, Elapsed time: 0:00:00
+# End time: 22:02:08 on Dec 19,2019, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L twentynm_ver -L twentynm_hssi_ver -L twentynm_hip_ver -L rtl_work -L work -L tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 -L fifo_56_28_fifo_161 -L altera_common_sv_packages -L tx_jesd204b_altera_xcvr_native_a10_161 -L tx_jesd204b_altera_jesd204_phy_adapter_xs_161 -L tx_jesd204b_altera_jesd204_tx_mlpcs_161 -L tx_jesd204b_altera_jesd204_phy_161 -L tx_jesd204b_altera_jesd204_tx_161 -L tx_jesd204b_altera_jesd204_161 -L rom_port_rom_1port_161 -L phyrst_controller_altera_xcvr_reset_control_161 -L jesd204b_altera_xcvr_native_a10_161 -L jesd204b_altera_jesd204_phy_adapter_xs_161 -L jesd204b_altera_jesd204_rx_mlpcs_161 -L jesd204b_altera_jesd204_phy_161 -L jesd204b_altera_jesd204_rx_161 -L jesd204b_altera_jesd204_161 -L core_pll_altera_iopll_161 -L atx_pll_altera_xcvr_atx_pll_a10_161 -voptargs="+acc"  ad9250_top_vlg_tst
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L twentynm_ver -L twentynm_hssi_ver -L twentynm_hip_ver -L rtl_work -L work -L tb_tx_phyrst_ctl_altera_xcvr_reset_control_161 -L fifo_56_28_fifo_161 -L altera_common_sv_packages -L tx_jesd204b_altera_xcvr_native_a10_161 -L tx_jesd204b_altera_jesd204_phy_adapter_xs_161 -L tx_jesd204b_altera_jesd204_tx_mlpcs_161 -L tx_jesd204b_altera_jesd204_phy_161 -L tx_jesd204b_altera_jesd204_tx_161 -L tx_jesd204b_altera_jesd204_161 -L rom_port_rom_1port_161 -L phyrst_controller_altera_xcvr_reset_control_161 -L jesd204b_altera_xcvr_native_a10_161 -L jesd204b_altera_jesd204_phy_adapter_xs_161 -L jesd204b_altera_jesd204_rx_mlpcs_161 -L jesd204b_altera_jesd204_phy_161 -L jesd204b_altera_jesd204_rx_161 -L jesd204b_altera_jesd204_161 -L core_pll_altera_iopll_161 -L atx_pll_altera_xcvr_atx_pll_a10_161 -voptargs=""+acc"" ad9250_top_vlg_tst 
-# Start time: 21:40:26 on Dec 19,2019
+# Start time: 22:02:08 on Dec 19,2019
 # ** Note: (vsim-3812) Design is being optimized...
 # ** Note: (vopt-143) Recognized 1 FSM in module "prbs_checker(fast)".
 # ** Warning: /build/swbuild/SJ/nightly/16.1/196/l64/work/modelsim/eda/sim_lib/altera_lnsim.sv(33820): (vopt-2685) [TFMPC] - Too few port connections for 'iopll_inst'.  Expected 51, found 50.
@@ -2478,49 +2478,18 @@
 # do wave.do
 # onerror {resume}
 # quietly WaveActivateNextPane {} 0
-# add wave -noupdate /tb/clk_sys
-# ** Error: (vish-4014) No objects found matching '/tb/clk_sys'.
-# Executing ONERROR command at macro ./wave.do line 3
-# add wave -noupdate /tb/rst_n
-# ** Error: (vish-4014) No objects found matching '/tb/rst_n'.
-# Executing ONERROR command at macro ./wave.do line 4
-# add wave -noupdate /tb/led_o
-# ** Error: (vish-4014) No objects found matching '/tb/led_o'.
-# Executing ONERROR command at macro ./wave.do line 5
-# add wave -noupdate /tb/TB/cnt_ns
-# ** Error: (vish-4014) No objects found matching '/tb/TB/cnt_ns'.
-# Executing ONERROR command at macro ./wave.do line 6
-# add wave -noupdate /tb/TB/cnt_us
-# ** Error: (vish-4014) No objects found matching '/tb/TB/cnt_us'.
-# Executing ONERROR command at macro ./wave.do line 7
-# add wave -noupdate /tb/TB/cnt_ms
-# ** Error: (vish-4014) No objects found matching '/tb/TB/cnt_ms'.
-# Executing ONERROR command at macro ./wave.do line 8
-# add wave -noupdate /tb/TB/cnt_s
-# ** Error: (vish-4014) No objects found matching '/tb/TB/cnt_s'.
-# Executing ONERROR command at macro ./wave.do line 9
-# add wave -noupdate /tb/TB/led_o_temp
-# ** Error: (vish-4014) No objects found matching '/tb/TB/led_o_temp'.
-# Executing ONERROR command at macro ./wave.do line 10
-# add wave -noupdate /tb/TB/led_out_status
-# ** Error: (vish-4014) No objects found matching '/tb/TB/led_out_status'.
-# Executing ONERROR command at macro ./wave.do line 11
-# add wave -noupdate /tb/TB/cnt_ns_flag
-# ** Error: (vish-4014) No objects found matching '/tb/TB/cnt_ns_flag'.
-# Executing ONERROR command at macro ./wave.do line 12
-# add wave -noupdate /tb/TB/cnt_us_flag
-# ** Error: (vish-4014) No objects found matching '/tb/TB/cnt_us_flag'.
-# Executing ONERROR command at macro ./wave.do line 13
-# add wave -noupdate /tb/TB/cnt_ms_flag
-# ** Error: (vish-4014) No objects found matching '/tb/TB/cnt_ms_flag'.
-# Executing ONERROR command at macro ./wave.do line 14
-# add wave -noupdate /tb/TB/cnt_s_flag
-# ** Error: (vish-4014) No objects found matching '/tb/TB/cnt_s_flag'.
-# Executing ONERROR command at macro ./wave.do line 15
+# add wave -noupdate /ad9250_top_vlg_tst/i1/rx_sync_n
+# add wave -noupdate /ad9250_top_vlg_tst/i1/sysref_out
+# add wave -noupdate /ad9250_top_vlg_tst/i1/global_rst_n
+# add wave -noupdate /ad9250_top_vlg_tst/i1/jesd204_rx_link_ready
+# add wave -noupdate /ad9250_top_vlg_tst/i1/rxlink_rst_n
+# add wave -noupdate /ad9250_top_vlg_tst/i1/rx_frame_rst_n
+# add wave -noupdate /ad9250_top_vlg_tst/i1/rx_avs_rst_n
+# add wave -noupdate /ad9250_top_vlg_tst/i1/xcvr_rst_n
 # TreeUpdate [SetDefaultTree]
-# WaveRestoreCursors {{Cursor 1} {20270239578 ps} 0}
+# WaveRestoreCursors {{Cursor 1} {1320799761 ps} 0}
 # quietly wave cursor active 1
-# configure wave -namecolwidth 150
+# configure wave -namecolwidth 398
 # configure wave -valuecolwidth 100
 # configure wave -justifyvalue left
 # configure wave -signalnamewidth 0
@@ -2534,7 +2503,7 @@
 # configure wave -timeline 0
 # configure wave -timelineunits ns
 # update
-# WaveRestoreZoom {20257732963 ps} {20288750897 ps}
+# WaveRestoreZoom {0 ps} {16203382784 ps}
 # view structure
 # .main_pane.structure.interior.cs.body.struct
 # view signals
@@ -5405,38 +5374,20 @@
 # 
 # -------Inject single Sysref Pulse ---------
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_cf \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_cs \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_f \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_hd \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_k \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_l \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_lane_powerdown \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_m \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_n \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_np \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_rx_testmode \
-sim:/ad9250_top_vlg_tst/i1/jesd204b_rx/csr_s
+sim:/ad9250_top_vlg_tst/i1/control_unit/xcvr_rst_n
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/rx_sync_n
+sim:/ad9250_top_vlg_tst/i1/control_unit/link_rst_n
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/sysref_out
+sim:/ad9250_top_vlg_tst/i1/control_unit/frame_rst_n
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/rx_serial_data
-run -all
+sim:/ad9250_top_vlg_tst/i1/control_unit/avs_rst_n
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/global_rst_n
+sim:/ad9250_top_vlg_tst/i1/control_unit/current_state
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/rxlink_clk
+sim:/ad9250_top_vlg_tst/i1/control_unit/clk
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/frame_clk
+sim:/ad9250_top_vlg_tst/i1/control_unit/init_reset
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/jesd204_rx_link_ready
+sim:/ad9250_top_vlg_tst/i1/control_unit/rom_addr_ptr
 add wave -position insertpoint  \
-sim:/ad9250_top_vlg_tst/i1/rxlink_rst_n \
-sim:/ad9250_top_vlg_tst/i1/rx_frame_rst_n \
-sim:/ad9250_top_vlg_tst/i1/rx_avs_rst_n \
-sim:/ad9250_top_vlg_tst/i1/xcvr_rst_n
-write format wave -window .main_pane.wave.interior.cs.body.pw.wf F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim/wave.do
-# End time: 21:50:16 on Dec 19,2019, Elapsed time: 0:09:50
-# Errors: 39, Warnings: 116
+sim:/ad9250_top_vlg_tst/i1/control_unit/rom0_data_out

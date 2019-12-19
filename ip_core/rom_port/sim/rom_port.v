@@ -10,7 +10,7 @@ module rom_port (
 		output wire [23:0] q        // rom_output.dataout
 	);
 
-	rom_port_rom_1port_161_m5cej6i rom_1port_0 (
+	rom_port_rom_1port_161_iitz24a rom_1port_0 (
 		.address (address), //  rom_input.address
 		.clock   (clock),   //           .clk
 		.clken   (clken),   //           .clken

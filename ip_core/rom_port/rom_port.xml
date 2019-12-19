@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deploy
- date="2018.04.19.10:58:21"
- outputDirectory="E:/program/FPGA/AD9250/rom_port/">
+ date="2019.12.19.22:20:22"
+ outputDirectory="F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port/">
  <perimeter>
   <parameter
      name="AUTO_GENERATION_ID"
@@ -47,29 +47,30 @@
   </interface>
  </perimeter>
  <entity kind="rom_port" version="1.0" name="rom_port">
-  <parameter name="AUTO_GENERATION_ID" value="1524106701" />
+  <parameter name="AUTO_GENERATION_ID" value="1576765222" />
   <parameter name="AUTO_DEVICE" value="10AS027H4F34I3SG" />
   <parameter name="AUTO_DEVICE_FAMILY" value="Arria 10" />
   <parameter name="AUTO_UNIQUE_ID" value="" />
   <parameter name="AUTO_DEVICE_SPEEDGRADE" value="3" />
   <generatedFiles>
    <file
-       path="E:\program\FPGA\AD9250\rom_port\synth\rom_port.v"
+       path="F:\Project_Fiels\TXY\MS\cpy\program\FPGA\AD9250_test\ip_core\rom_port\synth\rom_port.v"
        attributes="CONTAINS_INLINE_CONFIGURATION" />
    <file
-       path="E:\program\FPGA\AD9250\rom_port\synth\rom_port_cfg.v"
+       path="F:\Project_Fiels\TXY\MS\cpy\program\FPGA\AD9250_test\ip_core\rom_port\synth\rom_port_cfg.v"
        attributes="CONTAINS_INLINE_CONFIGURATION" />
   </generatedFiles>
   <childGeneratedFiles>
    <file
-       path="E:\program\FPGA\AD9250\rom_port\synth\rom_port.v"
+       path="F:\Project_Fiels\TXY\MS\cpy\program\FPGA\AD9250_test\ip_core\rom_port\synth\rom_port.v"
        attributes="CONTAINS_INLINE_CONFIGURATION" />
    <file
-       path="E:\program\FPGA\AD9250\rom_port\synth\rom_port_cfg.v"
+       path="F:\Project_Fiels\TXY\MS\cpy\program\FPGA\AD9250_test\ip_core\rom_port\synth\rom_port_cfg.v"
        attributes="CONTAINS_INLINE_CONFIGURATION" />
   </childGeneratedFiles>
   <sourceFiles>
-   <file path="E:/program/FPGA/AD9250/rom_port.qsys" />
+   <file
+       path="F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/rom_port.qsys" />
   </sourceFiles>
   <childSourceFiles>
    <file
@@ -77,10 +78,10 @@
   </childSourceFiles>
   <messages>
    <message level="Info" culprit="rom_port">"Generating: rom_port"</message>
-   <message level="Info" culprit="rom_port">"Generating: rom_port_rom_1port_161_m5cej6i"</message>
+   <message level="Info" culprit="rom_port">"Generating: rom_port_rom_1port_161_iitz24a"</message>
   </messages>
  </entity>
- <entity kind="rom_1port" version="16.1" name="rom_port_rom_1port_161_m5cej6i">
+ <entity kind="rom_1port" version="16.1" name="rom_port_rom_1port_161_iitz24a">
   <parameter name="GUI_CLOCK_ENABLE_INPUT_A" value="false" />
   <parameter name="GUI_NUMWORDS_A" value="64" />
   <parameter name="DEVICE_FAMILY" value="Arria 10" />
@@ -98,7 +99,7 @@
   <parameter name="GUI_FORCE_TO_ZERO" value="false" />
   <parameter
      name="GUI_MIFfilename"
-     value="E:/program/FPGA/AD9250/rom_port/adc.mif" />
+     value="F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250/rom_port/adc.mif" />
   <parameter name="GUI_RegAddr" value="true" />
   <parameter name="GUI_JTAG_ENABLED" value="false" />
   <parameter name="GUI_INIT_TO_SIM_X" value="false" />
@@ -112,12 +113,12 @@
   <parameter name="GUI_BlankMemory" value="1" />
   <generatedFiles>
    <file
-       path="E:\program\FPGA\AD9250\rom_port\rom_1port_161\synth\rom_port_rom_1port_161_m5cej6i.v"
+       path="F:\Project_Fiels\TXY\MS\cpy\program\FPGA\AD9250_test\ip_core\rom_port\rom_1port_161\synth\rom_port_rom_1port_161_iitz24a.v"
        attributes="" />
   </generatedFiles>
   <childGeneratedFiles>
    <file
-       path="E:\program\FPGA\AD9250\rom_port\rom_1port_161\synth\rom_port_rom_1port_161_m5cej6i.v"
+       path="F:\Project_Fiels\TXY\MS\cpy\program\FPGA\AD9250_test\ip_core\rom_port\rom_1port_161\synth\rom_port_rom_1port_161_iitz24a.v"
        attributes="" />
   </childGeneratedFiles>
   <sourceFiles>
@@ -127,7 +128,7 @@
   <childSourceFiles/>
   <instantiator instantiator="rom_port" as="rom_1port_0" />
   <messages>
-   <message level="Info" culprit="rom_port">"Generating: rom_port_rom_1port_161_m5cej6i"</message>
+   <message level="Info" culprit="rom_port">"Generating: rom_port_rom_1port_161_iitz24a"</message>
   </messages>
  </entity>
 </deploy>

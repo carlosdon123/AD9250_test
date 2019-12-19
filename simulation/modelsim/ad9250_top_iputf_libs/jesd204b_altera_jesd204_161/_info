@@ -9,7 +9,7 @@ z2
 cModel Technology
 dE:/program/FPGA/AD9250/simulation/modelsim
 vjesd204b_altera_jesd204_161_zta4dmq
-!s110 1576764120
+!s110 1576766103
 !i10b 1
 !s100 TXHK:;OnbmHePg>@g]S^R0
 I5<ofFKSoBInOYn^IVnf0>0
@@ -23,7 +23,7 @@ OL;L;10.6d;65
 r1
 !s85 0
 31
-!s108 1576764120.000000
+!s108 1576766103.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_161/sim/jesd204b_altera_jesd204_161_zta4dmq.v|
 !s90 -reportprogress|300|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_jesd204_161/sim/jesd204b_altera_jesd204_161_zta4dmq.v|-work|jesd204b_altera_jesd204_161|
 !i113 0

@@ -10,7 +10,7 @@ cModel Technology
 dE:/program/FPGA/AD9250/simulation/modelsim
 Xa10_avmm_h
 Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
-Z1 !s110 1576764107
+Z1 !s110 1576766091
 !i10b 1
 !s100 emd=MPXkl;YmEmhVYcN`:0
 I@THWV4zici10KTZ5_R3gZ1
@@ -25,25 +25,25 @@ Z5 OL;L;10.6d;65
 r1
 !s85 0
 31
-Z6 !s108 1576764107.000000
+Z6 !s108 1576766091.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/a10_avmm_h.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/a10_avmm_h.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
 Z7 o-sv -L altera_common_sv_packages -work jesd204b_altera_xcvr_native_a10_161
 Z8 tCvgOpt 0
-vkaPn03pMrMKlJrT3vJ3yO1WR3t29ij1gVqFqIwzQD7o=
+vzMlYr9XzrxL2ZWlHY/HJcRt2UnspOZ+XspRbEugWZBk=
 R0
-!s110 1576764100
+!s110 1576766083
 !i10b 0
 !s100 Rf22TiFCo<<W>TWV84@@A0
 I1k2O^1iLGE@^fihoJMHGW0
 Z9 VDg1SIo80bB@j0V0VzS_@n1
 !i119 1
-!i8a 1498220000
+!i8a 1025935456
 !s105 alt_xcvr_arbiter_sv_unit
 S1
 R2
-w1576764100
+w1576766083
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv
 Z10 L0 38
@@ -51,7 +51,7 @@ R5
 r1
 !s85 0
 31
-Z11 !s108 1576764099.000000
+Z11 !s108 1576766082.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_arbiter.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
@@ -85,7 +85,7 @@ R7
 R8
 valt_xcvr_native_odi_accel
 R0
-Z12 !s110 1576764108
+Z12 !s110 1576766092
 !i10b 1
 !s100 BKKoPR=jVl7RIgdREh1OE1
 InUBFJg@B=3_Jo9DI5[ag73
@@ -101,7 +101,7 @@ R5
 r1
 !s85 0
 31
-Z13 !s108 1576764108.000000
+Z13 !s108 1576766092.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_odi_accel.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_odi_accel.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
@@ -182,7 +182,7 @@ R8
 valt_xcvr_native_rcfg_opt_logic_ou2lroi
 R0
 Z15 DXx25 altera_common_sv_packages 34 altera_xcvr_native_a10_functions_h 0 22 PCGZEMb_X]VTJ>zFJYU0K3
-Z16 !s110 1576764110
+!s110 1576766094
 !i10b 1
 !s100 0z=J0CM0jk]K5D6MbO3_a1
 IHFFA4LO@:QV<C]S@NAiiS0
@@ -198,25 +198,25 @@ R5
 r1
 !s85 0
 31
-!s108 1576764110.000000
+!s108 1576766094.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_opt_logic_ou2lroi.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/alt_xcvr_native_rcfg_opt_logic_ou2lroi.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
 R7
 R8
-vzFAGasx1buus8lBEBb/Jlg==
+vFTyLop6thz5iP9eA4TV2MQ==
 R0
-!s110 1576764099
+!s110 1576766082
 !i10b 0
 !s100 :NQYf<5UjiZebbhR_kdGS0
 I821^cH[KeI<@:HWEdneYa2
 R9
 !i119 1
-!i8a 620111088
+!i8a 455047824
 !s105 alt_xcvr_resync_sv_unit
 S1
 R2
-w1576764099
+w1576766082
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_resync.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/alt_xcvr_resync.sv
 R10
@@ -233,8 +233,8 @@ R8
 nce26b13
 valtera_xcvr_native_pcie_dfe_ip
 R0
-Z17 DXx4 work 36 altera_xcvr_native_pcie_dfe_params_h 0 22 LP6]eM6a9^3^kW:<e4?2a2
-Z18 !s110 1576764109
+Z16 DXx4 work 36 altera_xcvr_native_pcie_dfe_params_h 0 22 LP6]eM6a9^3^kW:<e4?2a2
+Z17 !s110 1576766093
 !i10b 1
 !s100 MK^zM`[XBgUkNDB1>7FTo2
 IQ_9a61VX9^R]_;HWi0WXS2
@@ -245,12 +245,12 @@ R2
 R3
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv
-Z19 L0 18
+Z18 L0 18
 R5
 r1
 !s85 0
 31
-Z20 !s108 1576764109.000000
+Z19 !s108 1576766093.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/altera_xcvr_native_pcie_dfe_ip.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
@@ -282,7 +282,7 @@ R8
 vjesd204b_altera_xcvr_native_a10_161_ou2lroi
 R0
 R15
-R16
+R17
 !i10b 1
 !s100 Qf1VK1XK[QheF7eFRRGSo3
 IhMzjT6g1bNocM3;^SWoXN3
@@ -293,12 +293,12 @@ R2
 R3
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/jesd204b_altera_xcvr_native_a10_161_ou2lroi.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/jesd204b_altera_xcvr_native_a10_161_ou2lroi.sv
-R19
+R18
 R5
 r1
 !s85 0
 31
-R20
+R19
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/jesd204b_altera_xcvr_native_a10_161_ou2lroi.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/jesd204b_altera_xcvr_native_a10_161_ou2lroi.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
@@ -329,8 +329,8 @@ R7
 R8
 vpcie_mgmt_cpu
 R0
-Z21 DXx4 work 20 pcie_mgmt_commands_h 0 22 X4bzO?m6JYfY2>5DHIUQZ2
-R18
+Z20 DXx4 work 20 pcie_mgmt_commands_h 0 22 X4bzO?m6JYfY2>5DHIUQZ2
+R17
 !i10b 1
 !s100 bEz9<biC5Lf00@3i`jVoj2
 I9PYo5MP=6nlE`^5hFkE`j0
@@ -341,12 +341,12 @@ R2
 R3
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv
-Z22 L0 17
+Z21 L0 17
 R5
 r1
 !s85 0
 31
-R20
+R19
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_cpu.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
@@ -354,8 +354,8 @@ R7
 R8
 Xpcie_mgmt_functions_h
 R0
-R21
-R18
+R20
+R17
 !i10b 1
 !s100 >0f2;7?:?chJl34WVSl@i1
 IZeSKHXDAEgmiYzf>:C0HW1
@@ -378,11 +378,11 @@ R7
 R8
 vpcie_mgmt_master
 R0
-R21
-Z23 DXx4 work 21 pcie_mgmt_functions_h 0 22 ZeSKHXDAEgmiYzf>:C0HW1
-R17
+R20
+Z22 DXx4 work 21 pcie_mgmt_functions_h 0 22 ZeSKHXDAEgmiYzf>:C0HW1
+R16
 DXx4 work 17 pcie_mgmt_program 0 22 kNcj`B^U9zkfLXE_T5`bO0
-R18
+R17
 !i10b 1
 !s100 e?l68?NF`mGjY306glLjN3
 IR<LT^eKgUbz_FT>HZHM_01
@@ -393,12 +393,12 @@ R2
 R3
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv
-R22
+R21
 R5
 r1
 !s85 0
 31
-R20
+R19
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_master.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
@@ -406,10 +406,10 @@ R7
 R8
 Xpcie_mgmt_program
 R0
-R21
-R23
+R20
+R22
+R16
 R17
-R18
 !i10b 1
 !s100 OR16k]i?oVP67I`li47Y=3
 IkNcj`B^U9zkfLXE_T5`bO0
@@ -424,457 +424,457 @@ R5
 r1
 !s85 0
 31
-R20
+R19
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_program.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/pcie_mgmt_program.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
 R7
 R8
-vQYtTLfqpxuZ+TFl7TyBQJZ28gze6CBC/ugyLJheOUGE=
+vhW8welPk2GIQ8gbaYIlWoyQCP74fnQT160YK5ItOzpI=
 R0
-Z24 !s110 1576764102
+!s110 1576766086
 !i10b 0
 !s100 Gko5@f?H3R@Modca;k88^2
 IF2;Mg6Ymg^UIM4iaTe0B61
 R9
 !i119 1
-!i8a 1755368800
-Z25 !s105 twentynm_pcs_sv_unit
+!i8a 1162108672
+Z23 !s105 twentynm_pcs_sv_unit
 S1
 R2
-Z26 w1576764102
-Z27 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv
-Z28 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv
+w1576766086
+Z24 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv
+Z25 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv
 R10
 R5
 r1
 !s85 0
 31
-Z29 !s108 1576764102.000000
-Z30 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv|
-Z31 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
+Z26 !s108 1576766086.000000
+Z27 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv|
+Z28 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pcs.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
 R7
 R8
 n9362d61
-vHSdt4M3N2TATIVpUY05TrbaRG9JaOLbYmE4NkfZfU7E=
+vlCTZr9/RGjt+k8z/EyKJJ87OUjFlj/TQGuYv9OWmO88=
 R0
-R24
+Z29 !s110 1576766087
 !i10b 0
 !s100 ?jRZhYXQg0afkVKNi1D8j3
 IRQZHJGoD8QeXkak;T2iT43
 R9
 !i119 1
-!i8a 1474892816
-R25
+!i8a 1975508352
+R23
 S1
 R2
-R26
-R27
-R28
+Z30 w1576766087
+R24
+R25
 R10
 R5
 r1
 !s85 0
 31
-R29
-R30
-R31
+R26
+R27
+R28
 !i113 0
 R7
 R8
 n9362d62
-vTbh0R1DDgNQtKKBS7Gv+WpNLAWPlEPWXy76yvU6HKs8=
+vzrS6S0Yl4RhOpuddAlo7LpxK1yGRrM4X38Ups8RBwp8=
 R0
-Z32 !s110 1576764103
+R29
 !i10b 0
 !s100 d@3z@hAlO4<IZf=Dm25Nd3
 ITAB`feR4`]IcQY_9j_Hag3
 R9
 !i119 1
-!i8a 751368160
-R25
+!i8a 923420448
+R23
 S1
 R2
-Z33 w1576764103
-R27
-R28
+R30
+R24
+R25
 R10
 R5
 r1
 !s85 0
 31
-R29
-R30
-R31
+R26
+R27
+R28
 !i113 0
 R7
 R8
 n9362d63
-vzYTX5owVjGHiKnQDfhA3iEluKmgpeIxhDlO9QcmN67U=
+vrSqlvD6BKnUgZ42B7f3ozKP9dQllthW0naSsj6ln5Xo=
 R0
-R32
+R29
 !i10b 0
 !s100 jNA<4[B1k0ME?gF?iV48F2
 IAADCT1KN;_hhXHS1o4HBW1
 R9
 !i119 1
-!i8a 224018208
-R25
+!i8a 300167808
+R23
 S1
 R2
-R33
-R27
-R28
+R30
+R24
+R25
 R10
 R5
 r1
 !s85 0
 31
-R29
-R30
-R31
+R26
+R27
+R28
 !i113 0
 R7
 R8
 n9362d64
-v/DlS7H7ojwPqda98Bh694uqhl0i1DxoaV9wflQleEW4=
+v0iwDwcqfxT70/2Qf6B6cZYli5DV+sRtEpkhDVUbkPBA=
 R0
-Z34 !s110 1576764104
+Z31 !s110 1576766088
 !i10b 0
 !s100 Qe]ID089QQiEf7B1a]CS01
 IHalkkUVb@9jj;g1UEo0`f0
 R9
 !i119 1
-!i8a 1238942592
-R25
+!i8a 1078322432
+R23
 S1
 R2
-Z35 w1576764104
-R27
-R28
+Z32 w1576766088
+R24
+R25
 R10
 R5
 r1
 !s85 0
 31
-R29
-R30
-R31
+R26
+R27
+R28
 !i113 0
 R7
 R8
 n62d63f3
-v/wyATH2yjLr6yipCheasdCXKU3kiRRIFf2SRnER+at0=
+vbFUeIsOle1bSglvfUpiQCgJZT1IWvN199z1wAmBljyA=
 R0
-R32
+R29
 !i10b 0
 !s100 LXDTZlPVTcTQJ4l]TaBNo0
 IE;<dLBkNbKFRId7dg5S2Y3
 R9
 !i119 1
-!i8a 1659029920
-R25
+!i8a 84352144
+R23
 S1
 R2
-R33
-R27
-R28
+R30
+R24
+R25
 R10
 R5
 r1
 !s85 0
 31
-R29
-R30
-R31
+R26
+R27
+R28
 !i113 0
 R7
 R8
 n9362d65
-vs2fTW9XKyAJKqQ5ex8OaH5DTclrz+AIk15dUw3B2tB4=
+v0UWaWL5jq9t0XjsRZgxPoCuwvTH7iC8dTcoIJ/UuvTQ=
 R0
-R32
+R31
 !i10b 0
 !s100 YENWWN94nHS;:;a<bWBGi0
 I[3>>E_Ro<BD8IQ0@PcENW1
 R9
 !i119 1
-!i8a 1642659328
-R25
+!i8a 1961150064
+R23
 S1
 R2
-R33
-R27
-R28
+R32
+R24
+R25
 R10
 R5
 r1
 !s85 0
 31
-R29
-R30
-R31
+R26
+R27
+R28
 !i113 0
 R7
 R8
 n62d62f3
-veeTPuUoX5kYae2+Ik5Rc9x9v/7lOPh1cwZ0ib7s1kCk=
+vWbdnd8lXJU0g+SWPjUvIW7mNrjardNi5mTCqDIC8qwg=
 R0
-R34
+R31
 !i10b 0
 !s100 j?H:R83b9NAz_bS[A0FFG2
 IJ`9ZfiQ7OoFa`:HmOX>H?3
 R9
 !i119 1
-!i8a 2073856544
-R25
+!i8a 501151488
+R23
 S1
 R2
-R35
-R27
-R28
+R32
+R24
+R25
 R10
 R5
 r1
 !s85 0
 31
-R29
-R30
-R31
+R26
+R27
+R28
 !i113 0
 R7
 R8
 n2d62f02
-vjCaBZ2ryn5x7M1Y1FpCJ92cMDgjQTeKp9dJnhvRaxmE=
+vUYZ8KjZjykq3zNjQU5Pbt44/huKwlifWxSjEggP1rto=
 R0
-R34
+Z33 !s110 1576766089
 !i10b 0
 !s100 SMi`02D^?H_6WDWfKN3Si1
 IK?C0DEU@SmAHl]0Jlk3aa0
 R9
 !i119 1
-!i8a 1125845232
-Z36 !s105 twentynm_pma_sv_unit
+!i8a 775430416
+Z34 !s105 twentynm_pma_sv_unit
 S1
 R2
-R35
-Z37 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv
-Z38 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv
+Z35 w1576766089
+Z36 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv
+Z37 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv
 R10
 R5
 r1
 !s85 0
 31
-Z39 !s108 1576764104.000000
-Z40 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv|
-Z41 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
+Z38 !s108 1576766088.000000
+Z39 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv|
+Z40 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_pma.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
 R7
 R8
 na82d71
-vOLFjA3Hk1+16mtS6AgL0sFa/UW+Y7CGa2fChs84lDrg=
+vPbsCv3Lg+0zvAIgUK196HD/dWYHSnkpHR3dof9wFQPU=
 R0
-R34
+R33
 !i10b 0
 !s100 ]nUAmWT]jifioK8jLl>a=1
 I:l1^5RYU0nEXJ?kzD7Lh22
 R9
 !i119 1
-!i8a 548097360
-R36
+!i8a 488884816
+R34
 S1
 R2
 R35
+R36
 R37
-R38
 R10
 R5
 r1
 !s85 0
 31
+R38
 R39
 R40
-R41
 !i113 0
 R7
 R8
 na82d72
-vPEmWVCeoHqSR16XtVXInEf2ii2KlUwdMhoTIquhUcmc=
+vaDxa92OFGB57id5ay2w8zOocOl0OoC0q8op/+n5OPwg=
 R0
-R34
+R33
 !i10b 0
 !s100 :o;UcgmR^8ZNGZm0mmoR00
 IToUUa^n]<=U2n?8ddn1W=3
 R9
 !i119 1
-!i8a 1320131152
-R36
+!i8a 1898801056
+R34
 S1
 R2
 R35
+R36
 R37
-R38
 R10
 R5
 r1
 !s85 0
 31
+R38
 R39
 R40
-R41
 !i113 0
 R7
 R8
 na82d73
-vTdYP9uxPiraSHdewUQ/Ipet9nmRAFqdxL2PEIp9G7O0=
+vVXihnly92sHxCsUSwKr4coHyHCl5SxHxuju9TZfpdPw=
 R0
-Z42 !s110 1576764105
+R33
 !i10b 0
 !s100 mZXJlGL2azlU@lCO2V^e52
 If>e1R6iCOmF;Nh3mXP^XC0
 R9
 !i119 1
-!i8a 30693792
-R36
+!i8a 1501262992
+R34
 S1
 R2
-Z43 w1576764105
+R35
+R36
 R37
-R38
 R10
 R5
 r1
 !s85 0
 31
+R38
 R39
 R40
-R41
 !i113 0
 R7
 R8
 na82d74
-vkb3JdWRzbIFwbS0CHN92CFFYTJu7BEacCgIaV5GQyNY=
+von5MVd14tlppuoFQEbStKh9XpCLO39jAovTBtjxDRck=
 R0
-R42
+R33
 !i10b 0
 !s100 UEKRgE`hSg:hLl9`]_YmK1
 I;[g>lZT`ODcH7DEMBR_hL2
 R9
 !i119 1
-!i8a 1603229200
-R36
+!i8a 1177391008
+R34
 S1
 R2
-R43
+R35
+R36
 R37
-R38
 R10
 R5
 r1
 !s85 0
 31
+R38
 R39
 R40
-R41
 !i113 0
 R7
 R8
 n82d7a63
-vTjeZLMX993bOGcenWluXd8/LEi7plu2Cv+vH43o8A0g=
+vY9Rzd3Nv+T+CCJs7g2tB5ZwOWbZGs92b47bY+sDxU9g=
 R0
-R42
+R33
 !i10b 0
 !s100 HbkB8jal?h]DdF:LTk[2l0
 IQc[L_l?Tf82=eQFiVjFgG1
 R9
 !i119 1
-!i8a 1292070672
-R36
+!i8a 1201555568
+R34
 S1
 R2
-R43
+R35
+R36
 R37
-R38
 R10
 R5
 r1
 !s85 0
 31
+R38
 R39
 R40
-R41
 !i113 0
 R7
 R8
 na82d75
-vE4Kb54eMBkOi32afSwAuQiM3MZXqwmjrl8hyLTvCQxs=
+vLc/7NfVk00Gy8amjsGf7UjC6IQkypLkWmhl7nEIeLw8=
 R0
-R42
+R33
 !i10b 0
 !s100 PjzDG^3_Eg8<c=cMO5c`>3
 IQHZAo^QEGL3b5BZOQa`;j2
 R9
 !i119 1
-!i8a 1882266736
-R36
+!i8a 897446176
+R34
 S1
 R2
-R43
+R35
+R36
 R37
-R38
 R10
 R5
 r1
 !s85 0
 31
+R38
 R39
 R40
-R41
 !i113 0
 R7
 R8
 n82d7b63
-vXk5/a4+oSmeVysaThKf//kmb6QB2n/9M8xj4vAworPk=
+vQeSHUkY+Co4KsP/1J+gQ3DMGWyq2b8IEIwTyGjYv+pg=
 R0
-R42
+R33
 !i10b 0
 !s100 Hff8_ODYo>Z:R1KBTa6WW1
 IFmQ66^zcUJINB<Wdl01IS2
 R9
 !i119 1
-!i8a 431577376
-R36
+!i8a 539180656
+R34
 S1
 R2
-R43
+R35
+R36
 R37
-R38
 R10
 R5
 r1
 !s85 0
 31
+R38
 R39
 R40
-R41
 !i113 0
 R7
 R8
 n2d7b6e2
-vvOKj7+YW0U9wdIi8DvCBZdOaByRHiocuxOOip5SQQHg=
+vjSL071Nr/osBdCnc/O8D4P6PevJr++Qyjj9oP7n7vm0=
 R0
-R42
+R33
 !i10b 0
 !s100 <88V;`J3RW8[kD@?liFC[2
 I?izf6?0KzOBSzgLRk2a5f3
 R9
 !i119 1
-!i8a 903472656
+!i8a 802186576
 !s105 twentynm_xcvr_avmm_sv_unit
 S1
 R2
-R43
+R35
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv
 R10
@@ -882,149 +882,149 @@ R5
 r1
 !s85 0
 31
-Z44 !s108 1576764105.000000
+Z41 !s108 1576766089.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_avmm.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
 R7
 R8
 n775282d
-veE0jtZ0ZYJazkpnr9Fot4n0SpKFaMi2Abxr6FgXydBU=
+vb83Ny7+9CL2KAiNhacfX146z53/6C6VmBmJxuayR9u0=
 R0
-Z45 !s110 1576764106
+Z42 !s110 1576766090
 !i10b 0
 !s100 NKH5Z_Y6n;^g[SR>9CUD93
 In0a]<KoZ5Z=d<UO3@kSlM0
 R9
 !i119 1
-!i8a 1157790704
-Z46 !s105 twentynm_xcvr_native_sv_unit
+!i8a 363534112
+Z43 !s105 twentynm_xcvr_native_sv_unit
 S1
 R2
-Z47 w1576764106
-Z48 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv
-Z49 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv
+Z44 w1576766090
+Z45 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv
+Z46 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv
 R10
 R5
 r1
 !s85 0
 31
-R44
-Z50 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv|
-Z51 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
+R41
+Z47 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv|
+Z48 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/jesd204b/altera_xcvr_native_a10_161/sim/mentor/twentynm_xcvr_native.sv|-L|altera_common_sv_packages|-work|jesd204b_altera_xcvr_native_a10_161|
 !i113 0
 R7
 R8
 n6e3c7b5
-vYPs5l1tel/f9rC23aw5GQ1V5XSj/cY+sOI8YHLovVG0=
+vcuo+Yl/9XrdTnnONiVlxSXWWOvrn9KGoHIPHA8IYisw=
 R0
-R45
+R42
 !i10b 0
 !s100 I2IdmAjYOMk1Vj:iMH?LN0
 IK^>f=06dzj:ZN8?dQGKZ:0
 R9
 !i119 1
-!i8a 452108992
-R46
+!i8a 100339792
+R43
 S1
 R2
-R47
-R48
-R49
+R44
+R45
+R46
 R10
 R5
 r1
 !s85 0
 31
-R44
-R50
-R51
+R41
+R47
+R48
 !i113 0
 R7
 R8
 nd990001
-vX8dJLWweCCIsOmcG2+PwI5mUVrDF3J5zGStFOL7ibfE=
+vRWasiuYIa+cQNqEAooBfwkJpEEMNb4+hVssZw9eI2vY=
 R0
-R45
+R42
 !i10b 0
 !s100 >HMSTIIXlaC6f2@bWIl>31
 IdMOO`mOajFDDCfB2oZLdb3
 R9
 !i119 1
-!i8a 1364411216
-R46
+!i8a 620128640
+R43
 S1
 R2
-R47
-R48
-R49
+R44
+R45
+R46
 R10
 R5
 r1
 !s85 0
 31
-R44
-R50
-R51
+R41
+R47
+R48
 !i113 0
 R7
 R8
 nd990002
-v2ggcwr0uK+ovB8KqlkaTjMPlsBzXBRlF2CjN0iQGEwo=
+vfEdDacNI6PqitK7qjRUJdzq7Y1qFv+9/5zyqYnL6Mss=
 R0
-R45
+R42
 !i10b 0
 !s100 [L]1h>S425TXMmAJVe<6]2
 IS=881d>l1CXL9X4JP9DTT1
 R9
 !i119 1
-!i8a 928578064
-R46
+!i8a 2087397984
+R43
 S1
 R2
-R47
-R48
-R49
+R44
+R45
+R46
 R10
 R5
 r1
 !s85 0
 31
-R44
-R50
-R51
+R41
+R47
+R48
 !i113 0
 R7
 R8
 nd990003
-vgybBwrKJD4JA0a/iqFpmyYmLuhUF7uO8GQXAWSr/YNs=
+vyidDljQlE0CtKalHjVx9gpgCIKBckHqxAtnbjwgN7Pc=
 R0
-R45
+R42
 !i10b 0
 !s100 db2Y`8WkmS>AmYXg`Hn;A2
 I>:6A`Zfh:GCgdY0BC3<?22
 R9
 !i119 1
-!i8a 197197584
-R46
+!i8a 1420757392
+R43
 S1
 R2
-R47
-R48
-R49
+R44
+R45
+R46
 R10
 R5
 r1
 !s85 0
 31
-R44
-R50
-R51
+R41
+R47
+R48
 !i113 0
 R7
 R8
 nd990004
-vEQkNCJck/UcaHEY3oLQusvIua68YaDXQkDPaU/pKjcYLz9ZC3hygWjtaJ25Qwpwr
+v3Wd9xycPK10l8sunhUWHX0BO5dUqcTtWFXNGyrE2uA8cgbdq2ofwWWaNXuKxFFdo
 R0
 R1
 !i10b 0
@@ -1032,102 +1032,102 @@ R1
 IbfO0<6=2?`_IdVgOVj1^U2
 R9
 !i119 1
-!i8a 1781690864
-R46
+!i8a 2104414768
+R43
 S1
 R2
-w1576764107
-R48
-R49
+Z49 w1576766091
+R45
+R46
 R10
 R5
 r1
 !s85 0
 31
-R44
-R50
-R51
+R41
+R47
+R48
 !i113 0
 R7
 R8
 n9000753
-vLNzXrGMHpIRN6KHRCIO2NbofU2rayVSNehYhFQ7Rl7M=
+vwmUxmXeZ+kV6Q2PshwzkNU8qOe1ETJhZraieMjegdIQ=
 R0
-R45
+R1
 !i10b 0
 !s100 ;RWV[hG412l?1G8F_>DYX0
 Ia2^Gn4mC3O0PK2aa8nmM>1
 R9
 !i119 1
-!i8a 77666704
-R46
+!i8a 819812592
+R43
 S1
 R2
-R47
-R48
 R49
+R45
+R46
 R10
 R5
 r1
 !s85 0
 31
-R44
-R50
-R51
+R41
+R47
+R48
 !i113 0
 R7
 R8
 nd990005
-vhwE8UbCcr7lN13RGqBhYSlmoC6FercSpPfNxa+aDyJxHRCa4XaJVtt9uixNjK8Em
+vuBDGLbZxO5piKErRdkfuh/fxk70rtZ7cQK1KmE41d3FPqYr70ZV5OWJNWdDyt72d
 R0
-R45
+R1
 !i10b 0
 !s100 YXL^?e;^F4Sf^VaNDOG9A1
 I8k^a>^9T6aA1>9_6m0[mg0
 R9
 !i119 1
-!i8a 1855749456
-R46
+!i8a 35125328
+R43
 S1
 R2
-R47
-R48
 R49
+R45
+R46
 R10
 R5
 r1
 !s85 0
 31
-R44
-R50
-R51
+R41
+R47
+R48
 !i113 0
 R7
 R8
 n9000653
-vY4YnqbMTlwSp9ugYllMCDi2ltoCog8ItU2crTjQFBU2OZLn3I0u5cOGdb5uy9hZg
+vuFD3A4BWPYqTMFr0s6pO4eBar3NTP0KTeaB9w3L9hBVuAv2b3UG3a2AL7uFb8Jv2
 R0
-R45
+R1
 !i10b 0
 !s100 2>VaDc>8<@9LKHzb;k31S2
 I::R_M9`3ZAQE8H75ZE]fL3
 R9
 !i119 1
-!i8a 1594646768
-R46
+!i8a 467388640
+R43
 S1
 R2
-R47
-R48
 R49
+R45
+R46
 R10
 R5
 r1
 !s85 0
 31
-R44
-R50
-R51
+R41
+R47
+R48
 !i113 0
 R7
 R8

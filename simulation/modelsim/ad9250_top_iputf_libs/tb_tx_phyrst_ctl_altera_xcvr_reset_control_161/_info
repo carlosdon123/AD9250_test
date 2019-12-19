@@ -8,20 +8,20 @@ z2
 !i10f 100
 cModel Technology
 dE:/program/FPGA/AD9250/simulation/modelsim
-vR2N5rKwbMpobD8nvYMTFhIsVp1ANNNwEGUZ/124bDmc=
+vZy7eDKpg7rbV+F0/fe3Z5MeofiwVUajZDpkgm8s7UWc=
 Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
 Z1 DXx4 work 21 altera_xcvr_functions 0 22 JL=?=LO24a5HkebVn2;Wm1
-Z2 !s110 1576764078
+Z2 !s110 1576766059
 !i10b 0
 !s100 geH1^Pm[?X2:i>0_LEzaY1
 IekKZ<RQSZjUAlmQN=@[C<3
 Z3 VDg1SIo80bB@j0V0VzS_@n1
 !i119 1
-!i8a 771264992
+!i8a 973288016
 !s105 alt_xcvr_reset_counter_sv_unit
 S1
 Z4 dF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/simulation/modelsim
-Z5 w1576764078
+Z5 w1576766059
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv
 Z6 L0 38
@@ -29,26 +29,26 @@ Z7 OL;L;10.6d;65
 r1
 !s85 0
 31
-!s108 1576764078.000000
+Z8 !s108 1576766059.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_reset_counter.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
 !i113 0
-Z8 o-sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161
-Z9 tCvgOpt 0
+Z9 o-sv -work tb_tx_phyrst_ctl_altera_xcvr_reset_control_161
+Z10 tCvgOpt 0
 n84fc752
-viABAC6TBqnSFumc9luZrag==
+vGrgTrt2poshMLSoOGKDhgQ==
 R0
-Z10 !s110 1576764077
+Z11 !s110 1576766058
 !i10b 0
 !s100 :NQYf<5UjiZebbhR_kdGS0
 I33c]X;icWMBKN7g2:H>RX3
 R3
 !i119 1
-!i8a 944761616
+!i8a 1989538384
 !s105 alt_xcvr_resync_sv_unit
 S1
 R4
-Z11 w1576764077
+Z12 w1576766058
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv
 R6
@@ -56,25 +56,25 @@ R7
 r1
 !s85 0
 31
-Z12 !s108 1576764077.000000
+!s108 1576766058.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/alt_xcvr_resync.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
 !i113 0
-R8
 R9
-nce26b13
-XFa3aSuWwmKT7MMYizprghhAfjdmigC3/HjQivbDJ1tU=
-R0
 R10
+nce26b13
+XDiew6ZKo9tIZzcAxH3xr4cRqcYUVPLaXaQls/Ty5Dbk=
+R0
+R11
 !i10b 0
 !s100 jR]SUkTMP:8SGVU0kH9fX0
 IJL=?=LO24a5HkebVn2;Wm1
 VJL=?=LO24a5HkebVn2;Wm1
 !i119 1
-!i8a 2017921920
+!i8a 957608608
 S1
 R4
-R11
+R12
 8F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv
 FF:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv
 R6
@@ -82,14 +82,14 @@ R7
 r1
 !s85 0
 31
-!s108 1576764076.000000
+!s108 1576766057.000000
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv|
-!s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
+!s90 -reportprogress|300|-sv|-incr|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_functions.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
 !i113 0
-R8
 R9
+R10
 n48ac723
-v0QqXnDPSnXOWyxgw3/j2Ef78k0d58umb8Jd5OLIOghc=
+vTGvhsqO/AMiCk5OErUusgXln8mpPF4g8Cmcddvzl/sI=
 R0
 R1
 R2
@@ -98,7 +98,7 @@ R2
 I7[fVRYGUe`S1BogcN^35G2
 R3
 !i119 1
-!i8a 85954976
+!i8a 1623941808
 !s105 altera_xcvr_reset_control_sv_unit
 S1
 R4
@@ -110,10 +110,10 @@ R7
 r1
 !s85 0
 31
-R12
+R8
 !s107 F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv|
 !s90 -reportprogress|300|-sv|F:/Project_Fiels/TXY/MS/cpy/program/FPGA/AD9250_test/ip_core/tb_tx_phyrst_ctl/altera_xcvr_reset_control_161/sim/mentor/altera_xcvr_reset_control.sv|-work|tb_tx_phyrst_ctl_altera_xcvr_reset_control_161|
 !i113 0
-R8
 R9
+R10
 n5c536c
